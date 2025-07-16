@@ -15,7 +15,7 @@ function generateHTML() {
     <div class="container">
         <header>
             <h1>📰 매일 뉴스 요약</h1>
-            <p>디지털데일리 주요 기사를 AI가 요약해드립니다</p>
+            <p>디지털데일리 & 한국경제신문 주요 기사를 AI가 요약해드립니다</p>
             <div class="last-updated">
                 🕐 마지막 업데이트: ${new Date(newsData.lastUpdated).toLocaleString('ko-KR')}
             </div>
@@ -26,18 +26,16 @@ function generateHTML() {
                 <article class="news-item">
                     <div class="news-header">
                         <h2>${article.title}</h2>
-                        <span class="category">${article.category}</span>
-                        <time>${new Date(article.publishedAt).toLocaleDateString('ko-KR')}</time>
+                        <div class="news-meta">
+                            <span class="source">${article.source}</span>
+                            <time>${new Date(article.publishedAt).toLocaleDateString('ko-KR')}</time>
+                        </div>
                     </div>
                     
                     <div class="summary-box">
                         <div class="summary-content">
-                            ${article.summary.split('\n').map(line => `<div class="summary-line">${line}</div>`).join('')}
+                            ${article.summary}
                         </div>
-                    </div>
-                    
-                    <div class="content-preview">
-                        ${article.content}
                     </div>
                     
                     <div class="news-footer">
