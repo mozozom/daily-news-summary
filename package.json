@@ -1,6 +1,7 @@
 {
   "name": "daily-news-summary",
   "version": "1.0.0",
+  "type": "module",
   "scripts": {
     "update": "node src/fetch-news.js && node src/generate-html.js"
   },
