@@ -9,7 +9,7 @@ const CLAUDE_API_KEY = process.env.CLAUDE_API_KEY;
 async function fetchDigitalDailyNews() {
   try {
     // 디지털데일리 RSS 피드
-const rssUrl = 'https://www.ddaily.co.kr/rss/S1N15.xml';
+const rssUrl = 'https://www.hankyung.com/feed/all-news';
 let feed;
 try {
   feed = await parser.parseURL(rssUrl);
