@@ -9,8 +9,15 @@ const CLAUDE_API_KEY = process.env.CLAUDE_API_KEY;
 async function fetchDigitalDailyNews() {
   try {
     // 디지털데일리 RSS 피드
-    const rssUrl = 'https://www.ddaily.co.kr/rss/S1N15.xml';
-    const feed = await parser.parseURL(rssUrl);
+const rssUrl = 'https://www.ddaily.co.kr/rss/S1N15.xml';
+const feed = await parser.parseURL(rssUrl, {
+  headers: {
+    'User-Agent': 'Mozilla/5.0 (compatible; NewsBot/1.0)',
+    'Accept': 'application/rss+xml, application/xml, text/xml'
+  },
+  timeout: 10000,
+  sanitizeEntity: true
+});
     
     console.log(`📰 ${feed.items.length}개 기사 발견`);
     
