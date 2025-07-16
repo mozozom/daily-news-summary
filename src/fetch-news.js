@@ -8,21 +8,20 @@ const CLAUDE_API_KEY = process.env.CLAUDE_API_KEY;
 
 async function fetchDigitalDailyNews() {
   try {
-    // 디지털데일리 RSS 피드
-const rssUrl = 'https://www.hankyung.com/feed/all-news';
-let feed;
-try {
-  feed = await parser.parseURL(rssUrl);
-  if (!feed || !feed.items || feed.items.length === 0) {
-    throw new Error('RSS 피드가 비어있습니다');
-  }
-} catch (error) {
-  console.log('디지털데일리 RSS 실패, 대체 RSS 사용:', error.message);
-  // 대체로 한경 RSS 사용
-  feed = await parser.parseURL('https://feeds.feedburner.com/hankyung/news');
-}
+    // 한국경제신문 RSS 피드
+    const rssUrl = 'https://www.hankyung.com/feed/all-news';
+    let feed;
+    try {
+      feed = await parser.parseURL(rssUrl);
+      if (!feed || !feed.items || feed.items.length === 0) {
+        throw new Error('RSS 피드가 비어있습니다');
+      }
+    } catch (error) {
+      console.log('한경 RSS 실패, 대체 RSS 사용:', error.message);
+      feed = await parser.parseURL('https://feeds.feedburner.com/hankyung/news');
+    }
 
-console.log(`📰 ${feed.items.length}개 기사 발견`);
+    console.log(`📰 ${feed.items.length}개 기사 발견`);
     
     // 최신 10개 기사만 처리
     const recentArticles = feed.items.slice(0, 10);
@@ -48,8 +47,8 @@ console.log(`📰 ${feed.items.length}개 기사 발견`);
         category: extractCategory(item.categories)
       });
       
-      // API 호출 간격 조절
-      await new Promise(resolve => setTimeout(resolve, 1000));
+      // API 호출 간격 조절 (3초로 증가)
+      await new Promise(resolve => setTimeout(resolve, 3000));
     }
     
     // JSON 파일로 저장
@@ -73,8 +72,8 @@ async function extractArticleContent(url) {
     const html = await response.text();
     const $ = cheerio.load(html);
     
-    // 디지털데일리 기사 본문 추출 (실제 사이트 구조에 맞게 조정 필요)
-    const content = $('.article-content, .news-content, #articleText').text().trim();
+    // 한국경제신문 기사 본문 추출
+    const content = $('.article-content, .news-content, #articleText, .article_txt').text().trim();
     
     return content || '본문을 추출할 수 없습니다.';
   } catch (error) {
@@ -85,20 +84,19 @@ async function extractArticleContent(url) {
 
 async function summarizeWithClaude(title, content) {
   try {
-    const prompt = `다음 뉴스 기사를 경영진이 읽기 좋도록 체계적으로 요약해주세요:
+    const prompt = `다음 뉴스를 간단히 요약해주세요:
 
 제목: ${title}
-내용: ${content.substring(0, 2000)}
+내용: ${content.substring(0, 1000)}
 
-요약 형식:
-📌 핵심 내용: (한 줄로 핵심만)
+다음 형식으로 답해주세요:
+📌 핵심 내용: (한 줄 요약)
 💡 주요 포인트:
-- 첫 번째 포인트
-- 두 번째 포인트  
-- 세 번째 포인트 (있다면)
-🎯 비즈니스 영향: (이 뉴스가 비즈니스/경영에 미칠 영향)
+- 포인트 1
+- 포인트 2
+🎯 비즈니스 영향: (경영에 미치는 영향)
 
-각 섹션은 간결하되 구체적으로 작성해주세요. 전체 200자 내외로 정리해주세요.`;
+간단명료하게 작성해주세요.`;
 
     const response = await fetch('https://api.anthropic.com/v1/messages', {
       method: 'POST',
@@ -109,7 +107,7 @@ async function summarizeWithClaude(title, content) {
       },
       body: JSON.stringify({
         model: 'claude-sonnet-4-20250514',
-        max_tokens: 400,
+        max_tokens: 300,
         messages: [
           { role: 'user', content: prompt }
         ]
@@ -121,10 +119,10 @@ async function summarizeWithClaude(title, content) {
     
   } catch (error) {
     console.error('AI 요약 실패:', error);
-    return `📌 핵심 내용: 요약을 생성할 수 없습니다.
+    return `📌 핵심 내용: ${title}
 💡 주요 포인트:
-- 원문을 직접 확인해주세요
-🎯 비즈니스 영향: 분석 불가`;
+- 상세 내용은 원문을 확인해주세요
+🎯 비즈니스 영향: 원문 참조`;
   }
 }
 
@@ -134,4 +132,4 @@ function extractCategory(categories) {
 }
 
 // 실행
-fetchDigitalDailyNews(); // 강제 업데이트
+fetchDigitalDailyNews();
