@@ -10,16 +10,19 @@ async function fetchDigitalDailyNews() {
   try {
     // 디지털데일리 RSS 피드
 const rssUrl = 'https://www.ddaily.co.kr/rss/S1N15.xml';
-const feed = await parser.parseURL(rssUrl, {
-  headers: {
-    'User-Agent': 'Mozilla/5.0 (compatible; NewsBot/1.0)',
-    'Accept': 'application/rss+xml, application/xml, text/xml'
-  },
-  timeout: 10000,
-  sanitizeEntity: true
-});
-    
-    console.log(`📰 ${feed.items.length}개 기사 발견`);
+let feed;
+try {
+  feed = await parser.parseURL(rssUrl);
+  if (!feed || !feed.items || feed.items.length === 0) {
+    throw new Error('RSS 피드가 비어있습니다');
+  }
+} catch (error) {
+  console.log('디지털데일리 RSS 실패, 대체 RSS 사용:', error.message);
+  // 대체로 한경 RSS 사용
+  feed = await parser.parseURL('https://feeds.feedburner.com/hankyung/news');
+}
+
+console.log(`📰 ${feed.items.length}개 기사 발견`);
     
     // 최신 10개 기사만 처리
     const recentArticles = feed.items.slice(0, 10);
