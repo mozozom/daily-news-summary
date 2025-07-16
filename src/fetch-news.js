@@ -124,4 +124,4 @@ function extractCategory(categories) {
 }
 
 // 실행
-fetchDigitalDailyNews();
+fetchDigitalDailyNews(); // 강제 업데이트
