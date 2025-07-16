@@ -1,10 +1,11 @@
-const githubWorkflow = `name: Update Daily News
+name: Update Daily News
 
 on:
   schedule:
-    # 매일 오전 9시 (한국시간 기준, UTC 0시)
     - cron: '0 0 * * *'
-  workflow_dispatch: # 수동 실행 가능
+  workflow_dispatch:
+  push:
+    branches: [ main ]
 
 jobs:
   update-news:
@@ -24,7 +25,7 @@ jobs:
       
     - name: Fetch and process news
       env:
-        CLAUDE_API_KEY: \${{ secrets.CLAUDE_API_KEY }}
+        CLAUDE_API_KEY: ${{ secrets.CLAUDE_API_KEY }}
       run: npm run update
       
     - name: Commit and push changes
