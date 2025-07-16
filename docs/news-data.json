@@ -1,55 +1,140 @@
 {
-  "lastUpdated": "2025-07-16T23:43:23.020Z",
+  "lastUpdated": "2025-07-16T23:58:04.755Z",
   "articles": [
     {
-      "id": "한국경제신문-https://www.hankyung.com/article/202507173451g",
+      "id": "한국경제신문-1752710261103-0",
+      "title": "[해외 바이오 기업] 패썸파마슈티컬스, 독점권 기간 연장 성공으로 한숨 돌리기 성공",
+      "link": "https://www.hankyung.com/article/202506309815i",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Thu, 17 Jul 2025 08:49:12 +0900",
+      "summary": "요약 생성 실패"
+    },
+    {
+      "id": "한국경제신문-1752710261103-1",
+      "title": "충남 서산 침수 차량서 50대 남성 심정지 이송…끝내 숨져",
+      "link": "https://www.hankyung.com/article/2025071735307",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Thu, 17 Jul 2025 08:47:20 +0900",
+      "summary": "요약 생성 실패"
+    },
+    {
+      "id": "한국경제신문-1752710261103-2",
+      "title": "\"그 때 샀어야 했는데\"…분양가 상승 현실화",
+      "link": "https://www.hankyung.com/article/2025071734656",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Thu, 17 Jul 2025 08:44:46 +0900",
+      "summary": "요약 생성 실패"
+    },
+    {
+      "id": "한국경제신문-1752710261103-3",
+      "title": "\"기업은행, 현금배당 매력 부각…목표가↑\"-키움",
+      "link": "https://www.hankyung.com/article/2025071735246",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Thu, 17 Jul 2025 08:44:23 +0900",
+      "summary": "요약 생성 실패"
+    },
+    {
+      "id": "한국경제신문-1752710261103-4",
+      "title": "밤새 '극한 호우'에 시달렸는데…지금껏 내린 비보다 더 온다",
+      "link": "https://www.hankyung.com/article/2025071734667",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Thu, 17 Jul 2025 08:43:52 +0900",
+      "summary": "요약 생성 실패"
+    },
+    {
+      "id": "한국경제신문-1752710261103-5",
+      "title": "[COVER STORY - MARKET] 글로벌 빅파마, 다중기전·새 모달리티로 “비만약 2라운드”",
+      "link": "https://www.hankyung.com/article/202506308505i",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Thu, 17 Jul 2025 08:41:26 +0900",
+      "summary": "요약 생성 실패"
+    },
+    {
+      "id": "한국경제신문-1752710261103-6",
       "title": "\"포켓몬 찾아 제주로 떠난다\"…관광공사, 오는 10월 국내 첫 포켓몬 런 개최",
       "link": "https://www.hankyung.com/article/202507173451g",
-      "content": "본문을 추출할 수 없습니다....",
-      "summary": "요약을 생성할 수 없습니다.",
+      "source": "한국경제신문",
+      "category": "경제",
       "publishedAt": "Thu, 17 Jul 2025 08:36:47 +0900",
-      "category": "일반",
-      "source": "한국경제신문"
+      "summary": "요약 생성 실패"
     },
     {
-      "id": "한국경제신문-https://www.hankyung.com/article/2025071734747",
-      "title": "'돈 스파이크' 언급한 남경필 \"한국도 좀비거리 생길수도\" 경고",
+      "id": "한국경제신문-1752710261103-7",
+      "title": "마약한 아들 신고한 남경필  \"한국도 좀비거리 생길 수도\" 경고",
       "link": "https://www.hankyung.com/article/2025071734747",
-      "content": "본문을 추출할 수 없습니다....",
-      "summary": "요약을 생성할 수 없습니다.",
+      "source": "한국경제신문",
+      "category": "경제",
       "publishedAt": "Thu, 17 Jul 2025 08:35:37 +0900",
-      "category": "일반",
-      "source": "한국경제신문"
+      "summary": "요약 생성 실패"
     },
     {
-      "id": "한국경제신문-https://www.hankyung.com/article/2025071734946",
+      "id": "한국경제신문-1752710261103-8",
       "title": "\"한국항공우주, 폴란드·UAE 등 수주 기대 높아\"-DB",
       "link": "https://www.hankyung.com/article/2025071734946",
-      "content": "본문을 추출할 수 없습니다....",
-      "summary": "요약을 생성할 수 없습니다.",
+      "source": "한국경제신문",
+      "category": "경제",
       "publishedAt": "Thu, 17 Jul 2025 08:35:16 +0900",
-      "category": "일반",
-      "source": "한국경제신문"
+      "summary": "요약 생성 중..."
     },
     {
-      "id": "한국경제신문-https://www.hankyung.com/article/202507173452i",
+      "id": "한국경제신문-1752710261103-9",
       "title": "[마켓PRO] Today's Pick : \"코스맥스, 국내와 해외 다 좋다!\"",
       "link": "https://www.hankyung.com/article/202507173452i",
-      "content": "본문을 추출할 수 없습니다....",
-      "summary": "요약을 생성할 수 없습니다.",
+      "source": "한국경제신문",
+      "category": "경제",
       "publishedAt": "Thu, 17 Jul 2025 08:32:48 +0900",
-      "category": "일반",
-      "source": "한국경제신문"
+      "summary": "요약 생성 중..."
     },
     {
-      "id": "한국경제신문-https://www.hankyung.com/article/2025071733966",
-      "title": "'미지의서울' 호평에도…스튜디오드래곤 주가 '곤두박질' [종목+]",
+      "id": "한국경제신문-1752710261103-10",
+      "title": "\"'미지의 서울' 대박난 거 맞아요?\"…속 타들어가는 개미들 [종목+]",
       "link": "https://www.hankyung.com/article/2025071733966",
-      "content": "본문을 추출할 수 없습니다....",
-      "summary": "요약을 생성할 수 없습니다.",
+      "source": "한국경제신문",
+      "category": "경제",
       "publishedAt": "Thu, 17 Jul 2025 08:29:36 +0900",
-      "category": "일반",
-      "source": "한국경제신문"
+      "summary": "요약 생성 중..."
+    },
+    {
+      "id": "한국경제신문-1752710261103-11",
+      "title": "이시영 \"수정된 배아, 나 혼자 이식 \"…지난해에만 53만3266개 폐기",
+      "link": "https://www.hankyung.com/article/2025071733947",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Thu, 17 Jul 2025 08:26:26 +0900",
+      "summary": "요약 생성 중..."
+    },
+    {
+      "id": "한국경제신문-1752710261103-12",
+      "title": "“파월 진짜 해임되나” 시장 혼란…트럼프 \"물러나면 좋겠지만\"",
+      "link": "https://www.hankyung.com/article/2025071734547",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Thu, 17 Jul 2025 08:22:49 +0900",
+      "summary": "요약 생성 중..."
+    },
+    {
+      "id": "한국경제신문-1752710261103-13",
+      "title": "\"와이지엔터, 하반기부터 뚜렷한 실적 개선세 전망\"-IBK",
+      "link": "https://www.hankyung.com/article/2025071734226",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Thu, 17 Jul 2025 08:20:01 +0900",
+      "summary": "요약 생성 중..."
+    },
+    {
+      "id": "한국경제신문-1752710261103-14",
+      "title": "\"엔씨소프트, 비용 효율화 효과·하반기 신작 기대…목표가↑\"-SK",
+      "link": "https://www.hankyung.com/article/2025071734386",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Thu, 17 Jul 2025 08:11:47 +0900",
+      "summary": "요약 생성 중..."
     }
   ]
 }
