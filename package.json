@@ -1,0 +1,12 @@
+{
+  "name": "daily-news-summary",
+  "version": "1.0.0",
+  "scripts": {
+    "update": "node src/fetch-news.js && node src/generate-html.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "cheerio": "^1.0.0-rc.12",
+    "rss-parser": "^3.13.0"
+  }
+}
