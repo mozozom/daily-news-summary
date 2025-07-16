@@ -1,4 +1,4 @@
-javascriptimport fetch from 'node-fetch';
+import fetch from 'node-fetch';
 import Parser from 'rss-parser';
 import * as cheerio from 'cheerio';
 import fs from 'fs';
