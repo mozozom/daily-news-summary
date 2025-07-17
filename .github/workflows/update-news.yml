@@ -13,6 +13,7 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v3
       with:
+        token: ${{ secrets.GITHUB_TOKEN }}
         fetch-depth: 0
     
     - name: Setup Node.js
@@ -40,7 +41,14 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git pull origin main --rebase || true
-        git add docs/
-        git commit -m "Daily news update $(date +'%Y-%m-%d %H:%M:%S')" || exit 0
-        git push origin main
+        
+        # 변경사항이 있는지 확인
+        if [[ -n $(git status --porcelain) ]]; then
+          git add docs/
+          git commit -m "Daily news update $(date +'%Y-%m-%d %H:%M:%S')"
+          
+          # 강제 푸시 (충돌 방지)
+          git push --force-with-lease origin main
+        else
+          echo "변경사항이 없습니다."
+        fi
