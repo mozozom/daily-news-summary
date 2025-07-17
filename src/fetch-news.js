@@ -76,7 +76,7 @@ async function scrapeDigitalDaily() {
           source: '디지털데일리',
           category: '산업/기술',
           publishedAt: new Date().toISOString(),
-          summary: '요약 생성 중...'
+          summary: '키워드 생성 중...'
         });
       }
     });
@@ -84,10 +84,10 @@ async function scrapeDigitalDaily() {
     // AI로 관련 기사만 필터링
     const filteredArticles = await filterRelevantNews(articles);
     
-    // 각 기사 요약 생성
+    // 각 기사 키워드 요약 생성
     for (let i = 0; i < Math.min(filteredArticles.length, 10); i++) {
       const article = filteredArticles[i];
-      console.log(`요약 생성 중: ${article.title}`);
+      console.log(`키워드 생성 중: ${article.title}`);
       
       const content = await extractArticleContent(article.link);
       article.summary = await summarizeWithClaude(article.title, content);
@@ -118,17 +118,24 @@ async function fetchHankyungRSS() {
         source: '한국경제신문',
         category: '경제',
         publishedAt: item.pubDate,
-        summary: '요약 생성 중...'
+        summary: '키워드 생성 중...'
       });
     }
     
-    // 일부만 요약 생성
+    // 일부만 키워드 요약 생성
     for (let i = 0; i < Math.min(articles.length, 8); i++) {
       const article = articles[i];
+      console.log(`키워드 생성 중: ${article.title}`);
+      
       const content = await extractArticleContent(article.link);
       article.summary = await summarizeWithClaude(article.title, content);
       
       await new Promise(resolve => setTimeout(resolve, 2000));
+    }
+    
+    // 키워드 생성하지 않은 기사들은 기본 키워드
+    for (let i = 8; i < articles.length; i++) {
+      articles[i].summary = '#경제뉴스 #한국경제';
     }
     
     return articles;
@@ -232,12 +239,17 @@ async function extractArticleContent(url) {
 
 async function summarizeWithClaude(title, content) {
   try {
-    const prompt = `다음 뉴스를 3줄로 요약해주세요:
+    const prompt = `다음 뉴스를 키워드 중심으로 요약해주세요:
 
 제목: ${title}
 내용: ${content}
 
-경영진용 요약 (3줄):`;
+요구사항:
+- 3-5개의 핵심 키워드를 #태그 형식으로 작성
+- 각 키워드는 경영진이 알아야 할 중요한 개념
+- 예시: #실적개선 #신작출시 #목표가상향 #게임업계회복
+
+키워드만 답변해주세요:`;
 
     const response = await fetch('https://api.anthropic.com/v1/messages', {
       method: 'POST',
@@ -248,7 +260,7 @@ async function summarizeWithClaude(title, content) {
       },
       body: JSON.stringify({
         model: 'claude-sonnet-4-20250514',
-        max_tokens: 200,
+        max_tokens: 100,
         messages: [
           { role: 'user', content: prompt }
         ]
@@ -259,7 +271,7 @@ async function summarizeWithClaude(title, content) {
     return result.content[0].text.trim();
     
   } catch (error) {
-    return '요약 생성 실패';
+    return '#키워드생성실패';
   }
 }
 
