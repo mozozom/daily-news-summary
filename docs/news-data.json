@@ -1,71 +1,215 @@
 {
-  "lastUpdated": "2025-07-17T08:37:26.934Z",
+  "lastUpdated": "2025-07-17T08:55:12.748Z",
   "articles": [
     {
-      "id": "한국경제신문-1752741440478-0",
-      "title": "HK직캠|이프아이 라희, '예쁨 가득한 모습에 눈길'",
-      "link": "https://www.hankyung.com/article/202507175471H",
-      "source": "한국경제신문",
+      "id": "조선일보-1752742507702-0",
+      "title": "[과학게시판] 연구재단 마스코트 ‘늘프’, 대한민국 토이어워드 특별상 外",
+      "link": "https://www.chosun.com/economy/science/2025/07/17/L5WY5MVL2NS4BICUII7RYBG2NM/",
+      "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Thu, 17 Jul 2025 17:33:57 +0900",
+      "publishedAt": "Thu, 17 Jul 2025 08:52:22 +0000",
       "summary": null
     },
     {
-      "id": "한국경제신문-1752741440478-1",
-      "title": "[포토] 한투證, 스위스 UBP와 맞손",
-      "link": "https://www.hankyung.com/article/2025071753031",
+      "id": "한국경제신문-1752742507331-0",
+      "title": "\"유부남, 진짜 깬다\"…적재, 결혼에 등 돌린 팬 비아냥 못 참았다",
+      "link": "https://www.hankyung.com/article/202507175378H",
       "source": "한국경제신문",
       "category": "경제",
-      "publishedAt": "Thu, 17 Jul 2025 17:33:52 +0900",
+      "publishedAt": "Thu, 17 Jul 2025 17:48:30 +0900",
       "summary": null
     },
     {
-      "id": "한국경제신문-1752741440478-2",
-      "title": "한전·우리금융·KT·포스코, 본주보다 ADR이 더 올랐다",
-      "link": "https://www.hankyung.com/article/2025071753911",
+      "id": "한국경제신문-1752742507331-1",
+      "title": "삼성·마이크론 진입땐 HBM 가격 '치킨게임' 본격화",
+      "link": "https://www.hankyung.com/article/2025071754401",
       "source": "한국경제신문",
       "category": "경제",
-      "publishedAt": "Thu, 17 Jul 2025 17:33:00 +0900",
+      "publishedAt": "Thu, 17 Jul 2025 17:47:41 +0900",
       "summary": null
     },
     {
-      "id": "한국경제신문-1752741440478-3",
-      "title": "신동빈의 '핀셋 특명'",
-      "link": "https://www.hankyung.com/article/2025071754481",
+      "id": "한국경제신문-1752742507331-2",
+      "title": "함인선 건축가 \"브루탈리즘은 '왜'라는 질문서 출발…쓸모없는 장식 덜어낸 이유죠\"",
+      "link": "https://www.hankyung.com/article/2025071752001",
       "source": "한국경제신문",
       "category": "경제",
-      "publishedAt": "Thu, 17 Jul 2025 17:32:51 +0900",
+      "publishedAt": "Thu, 17 Jul 2025 17:47:23 +0900",
       "summary": null
     },
     {
-      "id": "한국경제신문-1752741440478-4",
-      "title": "한화호텔, 5성급 '파라스파라 서울' 인수 추진",
-      "link": "https://www.hankyung.com/article/2025071754471",
+      "id": "한국경제신문-1752742507331-3",
+      "title": "반도체 경쟁력 회복·대형M&A…'1등 DNA' 복원",
+      "link": "https://www.hankyung.com/article/2025071754321",
       "source": "한국경제신문",
       "category": "경제",
-      "publishedAt": "Thu, 17 Jul 2025 17:32:41 +0900",
+      "publishedAt": "Thu, 17 Jul 2025 17:46:43 +0900",
       "summary": null
     },
     {
-      "id": "한국경제신문-1752741440478-5",
-      "title": "현대차, 로보틱스 상용화 속도 연내 만능봇 '모베드' 내놓는다",
-      "link": "https://www.hankyung.com/article/2025071754431",
+      "id": "한국경제신문-1752742507331-4",
+      "title": "해외주식·부동산 업고…국부 2경4000조 돌파",
+      "link": "https://www.hankyung.com/article/2025071754051",
       "source": "한국경제신문",
       "category": "경제",
-      "publishedAt": "Thu, 17 Jul 2025 17:32:32 +0900",
+      "publishedAt": "Thu, 17 Jul 2025 17:45:27 +0900",
       "summary": null
     },
     {
-      "id": "한국경제신문-1752741440478-6",
-      "title": "흉물인가, 명물인가…노출 콘크리트 '100년 논쟁'",
-      "link": "https://www.hankyung.com/article/2025071751701",
+      "id": "한국경제신문-1752742507331-5",
+      "title": "\"HBM 공급과잉 우려\"…SK하이닉스 주가 급락",
+      "link": "https://www.hankyung.com/article/2025071754611",
       "source": "한국경제신문",
       "category": "경제",
-      "publishedAt": "Thu, 17 Jul 2025 17:32:04 +0900",
+      "publishedAt": "Thu, 17 Jul 2025 17:45:12 +0900",
       "summary": null
     },
     {
-      "id": "조선일보-1752741441559-3",
+      "id": "한국경제신문-1752742507331-6",
+      "title": "갭투자 막히자 거래 실종…서울 아파트 매매, 한달새 82% 줄었다",
+      "link": "https://www.hankyung.com/article/2025071754061",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Thu, 17 Jul 2025 17:44:18 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1752742507331-7",
+      "title": "[속보] 내란특검, 서울경찰청 경비부 압수수색",
+      "link": "https://www.hankyung.com/article/2025071755007",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Thu, 17 Jul 2025 17:42:20 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1752742507331-8",
+      "title": "강남3구·한강벨트 집값 상승폭 더 꺾였다",
+      "link": "https://www.hankyung.com/article/2025071754601",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Thu, 17 Jul 2025 17:41:57 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1752742507331-9",
+      "title": "구윤철 기재부 장관 후보자 청문회…\"법인세 인상 검토\"",
+      "link": "https://www.hankyung.com/article/2025071754621",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Thu, 17 Jul 2025 17:41:22 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1752742507331-10",
+      "title": "재료는 하나, 양념은 물과 소금뿐…브루탈리즘 요리를 아십니까",
+      "link": "https://www.hankyung.com/article/2025071752061",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Thu, 17 Jul 2025 17:41:22 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1752742507331-11",
+      "title": "하반기 국채 수급 우려…금리 상승 압력 커질듯",
+      "link": "https://www.hankyung.com/article/2025071754851",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Thu, 17 Jul 2025 17:40:56 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1752742507331-12",
+      "title": "'진돗개 동원' 불법 사냥한 30대 일당…동물 가죽 벗겨 개 먹이로",
+      "link": "https://www.hankyung.com/article/2025071753807",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Thu, 17 Jul 2025 17:40:53 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1752742507331-13",
+      "title": "오늘 밤도 시간당 100㎜ 쏟아진다…모레까지 계속 '비'",
+      "link": "https://www.hankyung.com/article/2025071754957",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Thu, 17 Jul 2025 17:40:25 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1752742507331-14",
+      "title": "잠잠하던 원·달러 환율, 어느새 1400원 육박",
+      "link": "https://www.hankyung.com/article/2025071754841",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Thu, 17 Jul 2025 17:40:25 +0900",
+      "summary": null
+    },
+    {
+      "id": "조선일보-1752742507702-1",
+      "title": "포스텍, ‘조기 정년연장’ 첫 수혜자 4인 발표…국내 최초 시행",
+      "link": "https://www.chosun.com/economy/science/2025/07/17/XG67LHSBGD3AJWBXFYUJYBPCGE/",
+      "source": "조선일보",
+      "category": "경제",
+      "publishedAt": "Thu, 17 Jul 2025 08:40:12 +0000",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1752742507331-15",
+      "title": "금융위, 소상공인 '금리 경감 3종세트' 검토",
+      "link": "https://www.hankyung.com/article/2025071754811",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Thu, 17 Jul 2025 17:40:09 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1752742507331-16",
+      "title": "HK직캠|이프아이 태린, '시크한 매력에 시선강탈'",
+      "link": "https://www.hankyung.com/article/202507175493H",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Thu, 17 Jul 2025 17:39:00 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1752742507331-17",
+      "title": "185번 출석·560일 수감…엔비디아·TSMC 뛸때 삼성은 지켜만 봤다",
+      "link": "https://www.hankyung.com/article/2025071754301",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Thu, 17 Jul 2025 17:38:56 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1752742507331-18",
+      "title": "다자녀 신용카드 공제 확대…학원비 세액 공제도 검토",
+      "link": "https://www.hankyung.com/article/2025071754861",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Thu, 17 Jul 2025 17:38:55 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1752742507331-19",
+      "title": "HK직캠|이프아이 카시아, '할 말을 잃게 만드는 예쁨'",
+      "link": "https://www.hankyung.com/article/202507175491H",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Thu, 17 Jul 2025 17:38:05 +0900",
+      "summary": null
+    },
+    {
+      "id": "조선일보-1752742507702-4",
+      "title": "“2045년 달 기지·화성 착륙선 만든다”…우주청, 우주탐사 로드맵 공개",
+      "link": "https://www.chosun.com/economy/science/2025/07/17/EYKSPF3JK7G22QGXWYJXPHLCYM/",
+      "source": "조선일보",
+      "category": "경제",
+      "publishedAt": "Thu, 17 Jul 2025 08:34:20 +0000",
+      "summary": null
+    },
+    {
+      "id": "조선일보-1752742507702-8",
       "title": "무더위 잊게 만드는 생 메밀 소바, 6인분에 9900원 초특가",
       "link": "https://www.chosun.com/economy/startup_story/2025/07/17/W3ABUBYVBFHSPLDJJXNT2SBKOU/",
       "source": "조선일보",
@@ -74,124 +218,7 @@
       "summary": null
     },
     {
-      "id": "한국경제신문-1752741440478-7",
-      "title": "\"깜짝 1등\" 드디어 '2차전지' 뛰었는데…'경고' 나온 까닭",
-      "link": "https://www.hankyung.com/article/2025071753901",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Thu, 17 Jul 2025 17:31:50 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1752741440478-8",
-      "title": "특검, 김건희 '집사' 인터폴 적색수배 … 尹, 재판 2연속 불출석",
-      "link": "https://www.hankyung.com/article/2025071754541",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Thu, 17 Jul 2025 17:31:30 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1752741440478-9",
-      "title": "HK직캠|차주영, '러블리한 매력이 가득~'",
-      "link": "https://www.hankyung.com/article/202507175457H",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Thu, 17 Jul 2025 17:31:24 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1752741440478-10",
-      "title": "증선위, '내부자 거래' 메리츠 前사장 檢 고발",
-      "link": "https://www.hankyung.com/article/2025071754521",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Thu, 17 Jul 2025 17:31:06 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1752741440478-11",
-      "title": "[포토] 침수된 주택가",
-      "link": "https://www.hankyung.com/article/202507175408i",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Thu, 17 Jul 2025 17:30:43 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1752741440478-12",
-      "title": "쌀·소고기 더 수입해도 충격 작아…\"시장개방 명분주고 실리 챙겨야\"",
-      "link": "https://www.hankyung.com/article/2025071754381",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Thu, 17 Jul 2025 17:29:16 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1752741440478-13",
-      "title": "'외국인 러브콜' 쏟아졌다…소외됐던 바이오株, 상승 곡선",
-      "link": "https://www.hankyung.com/article/2025071753881",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Thu, 17 Jul 2025 17:28:58 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1752741440478-14",
-      "title": "李 \"5·18정신 수록·권력기관 개혁…헌법 정비할 때\"",
-      "link": "https://www.hankyung.com/article/2025071754251",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Thu, 17 Jul 2025 17:28:34 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1752741440478-15",
-      "title": "[인포그래픽]태평양 둘러싼 미중 경쟁",
-      "link": "https://www.hankyung.com/article/202507175419i",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Thu, 17 Jul 2025 17:27:52 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1752741440478-16",
-      "title": "'신격호 장녀' 신영자, 730억 규모 롯데그룹 주식 처분, 왜?",
-      "link": "https://www.hankyung.com/article/2025071753921",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Thu, 17 Jul 2025 17:27:35 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1752741440478-17",
-      "title": "[속보] \"경산 오목천 압량교 일대서 신속 대피…홍수경보\"",
-      "link": "https://www.hankyung.com/article/2025071754207",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Thu, 17 Jul 2025 17:27:25 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1752741440478-18",
-      "title": "'시스템 장애' 서울보증, 사흘만에 복구",
-      "link": "https://www.hankyung.com/article/2025071753061",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Thu, 17 Jul 2025 17:27:24 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1752741440478-19",
-      "title": "몸값 2조 대어 대한조선, 수요예측 흥행",
-      "link": "https://www.hankyung.com/article/2025071753931",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Thu, 17 Jul 2025 17:25:28 +0900",
-      "summary": null
-    },
-    {
-      "id": "조선일보-1752741441559-5",
+      "id": "조선일보-1752742507702-10",
       "title": "삼성운용, 포트폴리오 개편한 ‘KODEX 고배당주’ 순자산 2600억 달성",
       "link": "https://www.chosun.com/economy/money/2025/07/17/TOFTYODXJNTI4XGDF4DQPKN4XE/",
       "source": "조선일보",
@@ -200,7 +227,7 @@
       "summary": null
     },
     {
-      "id": "조선일보-1752741441559-6",
+      "id": "조선일보-1752742507702-11",
       "title": "의료급여 정률제 사실상 철회…재정보다 저소득층 부담에 가중치",
       "link": "https://www.chosun.com/economy/science/2025/07/17/VA3ZN7IFAWS77X6W3UH4K5DTFQ/",
       "source": "조선일보",
@@ -209,7 +236,7 @@
       "summary": null
     },
     {
-      "id": "조선일보-1752741441559-7",
+      "id": "조선일보-1752742507702-12",
       "title": "K팝 ‘머니’ 헌터스...韓 음악 수출 2조 시대",
       "link": "https://www.chosun.com/economy/weeklybiz/2025/07/17/LH6YYMTMOJDGRG45FKTEIPQLAY/",
       "source": "조선일보",
@@ -218,7 +245,7 @@
       "summary": null
     },
     {
-      "id": "조선일보-1752741441559-8",
+      "id": "조선일보-1752742507702-13",
       "title": "SC제일은행, 9월 말까지 비대면 주택담보대출 중단",
       "link": "https://www.chosun.com/economy/money/2025/07/17/2V6MH3C3Y2J55FDVPWNUNZZA64/",
       "source": "조선일보",
@@ -227,7 +254,7 @@
       "summary": null
     },
     {
-      "id": "조선일보-1752741441559-9",
+      "id": "조선일보-1752742507702-14",
       "title": "“K팝의 ‘코리아네스크’ 지키지 않으면 하락기 시작될 것”",
       "link": "https://www.chosun.com/economy/weeklybiz/2025/07/17/KTLUJVWZFVGV7MZ6QV6MHGNE7U/",
       "source": "조선일보",
@@ -236,25 +263,7 @@
       "summary": null
     },
     {
-      "id": "조선일보-1752741441559-10",
-      "title": "'개포우성4차' 9월 시공사 입찰, 포스코·롯데 '기싸움' 삼성물산 '잠잠'",
-      "link": "https://www.chosun.com/economy/realty/redevelop/2025/07/17/RKY24PPNI7XHXBHCTWB4THCL7I/",
-      "source": "조선일보",
-      "category": "경제",
-      "publishedAt": "Thu, 17 Jul 2025 08:05:11 +0000",
-      "summary": null
-    },
-    {
-      "id": "조선일보-1752741441559-11",
-      "title": "증시 밸류업, 롤모델은 ‘아베노믹스’가 아니라 ‘타베노믹스’?",
-      "link": "https://www.chosun.com/economy/weeklybiz/2025/07/17/LPTGHLZTN5HNTNFMNR5NW44PT4/",
-      "source": "조선일보",
-      "category": "경제",
-      "publishedAt": "Thu, 17 Jul 2025 08:02:53 +0000",
-      "summary": null
-    },
-    {
-      "id": "조선일보-1752741441559-4",
+      "id": "조선일보-1752742507702-9",
       "title": "“줄기세포 이용해 임플란트 대신 진짜 치아 자라게 한다”",
       "link": "https://www.chosun.com/economy/weeklybiz/2025/07/17/P4K7K5YPT5DXTMZRAVSQ2EA5TU/",
       "source": "조선일보",
@@ -263,34 +272,7 @@
       "summary": null
     },
     {
-      "id": "조선일보-1752741441559-12",
-      "title": "세계 최대 델타항공 실적, 날아오른 까닭은",
-      "link": "https://www.chosun.com/economy/weeklybiz/2025/07/17/MSDRPQVMMNDKXC5XMUMAOM6D6A/",
-      "source": "조선일보",
-      "category": "경제",
-      "publishedAt": "Thu, 17 Jul 2025 07:55:33 +0000",
-      "summary": null
-    },
-    {
-      "id": "조선일보-1752741441559-13",
-      "title": "매각 위로금 받고 1년 내 퇴사하면 위로금 반환해야 하나요?",
-      "link": "https://www.chosun.com/economy/weeklybiz/2025/07/17/O7TFEAQXLBDLFIW7E4A3SFWMCM/",
-      "source": "조선일보",
-      "category": "경제",
-      "publishedAt": "Thu, 17 Jul 2025 07:53:02 +0000",
-      "summary": null
-    },
-    {
-      "id": "조선일보-1752741441559-14",
-      "title": "'서울을 빈처럼?' 오세훈 \"공공주택 진흥기금 도입, 임대주택 연간 2500가구\"",
-      "link": "https://www.chosun.com/economy/realty/realestate_news/2025/07/17/436UHETPWU72O2LLLITLOSI2V4/",
-      "source": "조선일보",
-      "category": "경제",
-      "publishedAt": "Thu, 17 Jul 2025 07:51:34 +0000",
-      "summary": null
-    },
-    {
-      "id": "조선일보-1752741441559-2",
+      "id": "조선일보-1752742507702-7",
       "title": "관세가 美 자동차 업계에 미친 파장은... GM 2분기 실적 22일 발표",
       "link": "https://www.chosun.com/economy/weeklybiz/2025/07/17/EOJTXPZH5BCADKA5O2EU3JO22Y/",
       "source": "조선일보",
@@ -299,7 +281,7 @@
       "summary": null
     },
     {
-      "id": "조선일보-1752741441559-1",
+      "id": "조선일보-1752742507702-6",
       "title": "[크로스워드] ‘우상’을 뜻하는 영어 단어는?",
       "link": "https://www.chosun.com/economy/weeklybiz/2025/07/17/LONC7JTSZVHJ5OL23QRUMJQPDA/",
       "source": "조선일보",
@@ -308,12 +290,30 @@
       "summary": null
     },
     {
-      "id": "조선일보-1752741441559-0",
+      "id": "조선일보-1752742507702-5",
       "title": "비트코인 가격 치솟으니...자산 시가총액 순위도 껑충",
       "link": "https://www.chosun.com/economy/weeklybiz/2025/07/17/FXBRWDZ3P5DRBA4F7DVTNK47BY/",
       "source": "조선일보",
       "category": "경제",
       "publishedAt": "Thu, 17 Jul 2025 07:25:38 +0000",
+      "summary": null
+    },
+    {
+      "id": "조선일보-1752742507702-2",
+      "title": "음주로 인한 간 손상, 새로운 치료 타깃 찾았다",
+      "link": "https://www.chosun.com/economy/science/2025/07/17/2NQH7K2PGNCTFUB3RVJYTZKQ5M/",
+      "source": "조선일보",
+      "category": "경제",
+      "publishedAt": "Thu, 17 Jul 2025 00:17:21 +0000",
+      "summary": null
+    },
+    {
+      "id": "조선일보-1752742507702-3",
+      "title": "만보기 앱 10개 깔고 1만보... 하루에 얼마까지 벌 수 있을까",
+      "link": "https://www.chosun.com/economy/weeklybiz/2024/10/10/7756L7IMOZBSZP3P6UETM7L4NE/",
+      "source": "조선일보",
+      "category": "경제",
+      "publishedAt": "Thu, 10 Oct 2024 08:24:20 +0000",
       "summary": null
     }
   ]
