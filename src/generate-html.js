@@ -3,6 +3,27 @@ import fs from 'fs';
 function generateHTML() {
   const newsData = JSON.parse(fs.readFileSync('docs/news-data.json', 'utf8'));
   
+  // 페이지당 15개씩 분할
+  const articlesPerPage = 15;
+  const totalPages = Math.ceil(newsData.articles.length / articlesPerPage);
+  
+  // 메인 페이지 (첫 번째 페이지)
+  generateMainPage(newsData, 1, totalPages);
+  
+  // 추가 페이지들 생성
+  for (let page = 2; page <= totalPages; page++) {
+    generatePage(newsData, page, totalPages);
+  }
+  
+  console.log(`✅ 총 ${totalPages}페이지 생성 완료`);
+}
+
+function generateMainPage(newsData, currentPage, totalPages) {
+  const articlesPerPage = 15;
+  const startIndex = (currentPage - 1) * articlesPerPage;
+  const endIndex = startIndex + articlesPerPage;
+  const currentArticles = newsData.articles.slice(startIndex, endIndex);
+  
   const html = `<!DOCTYPE html>
 <html lang="ko">
 <head>
@@ -15,7 +36,7 @@ function generateHTML() {
     <div class="container">
         <header>
             <h1>📰 매일 뉴스 요약</h1>
-            <p>디지털데일리, 한국경제신문, 조선비즈 주요 기사 50개</p>
+            <p>디지털데일리, 한국경제신문, 조선비즈, 매일경제, 연합뉴스IT 주요 기사 ${newsData.articles.length}개</p>
             <div class="last-updated">
                 🕐 마지막 업데이트: ${new Date(newsData.lastUpdated).toLocaleString('ko-KR')}
             </div>
@@ -33,38 +54,11 @@ function generateHTML() {
                         </tr>
                     </thead>
                     <tbody>
-                        ${newsData.articles.map((article, index) => `
+                        ${currentArticles.map((article, index) => `
                             <tr>
                                 <td><span class="category">${article.category}</span></td>
                                 <td class="title-cell">
                                     <a href="${article.link}" target="_blank" class="news-title-link">
                                         ${article.title}
                                     </a>
-                                    <div class="news-date">${new Date(article.publishedAt).toLocaleDateString('ko-KR')}</div>
-                                </td>
-                                <td><span class="source">${article.source}</span></td>
-                                <td class="keyword-cell">
-                                    <div class="keywords">
-                                        ${article.summary}
-                                    </div>
-                                </td>
-                            </tr>
-                        `).join('')}
-                    </tbody>
-                </table>
-            </div>
-        </main>
-
-        <footer>
-            <p>매일 오전 9시에 자동 업데이트됩니다</p>
-            <p>Made with ❤️ and Claude AI</p>
-        </footer>
-    </div>
-</body>
-</html>`;
-
-  fs.writeFileSync('docs/index.html', html);
-  console.log('✅ HTML 생성 완료');
-}
-
-generateHTML();
+                                    <div class="news-date">${new Date(article.publishedAt).
