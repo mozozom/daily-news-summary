@@ -2,10 +2,8 @@ name: Update Daily News
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *'  # 매일 오전 9시 (UTC 0시 = KST 9시)
   workflow_dispatch:
-  push:
-    branches: [ main ]
 
 jobs:
   update-news:
@@ -14,24 +12,30 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v3
-      
+      with:
+        fetch-depth: 0  # 전체 히스토리 가져오기
+    
     - name: Setup Node.js
       uses: actions/setup-node@v3
       with:
         node-version: '18'
-        
+    
     - name: Install dependencies
       run: npm install
-      
+    
     - name: Fetch and process news
       env:
         CLAUDE_API_KEY: ${{ secrets.CLAUDE_API_KEY }}
-      run: npm run update
+      run: node src/fetch-news.js
       
+    - name: Generate HTML
+      run: node src/generate-html.js
+    
     - name: Commit and push changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
+        git pull origin main --rebase  # 원격 변경사항 먼저 가져오기
         git add docs/
-        git diff --staged --quiet || git commit -m "📰 Daily news update $(date +'%Y-%m-%d')"
-        git push
+        git commit -m "Daily news update $(date +'%Y-%m-%d %H:%M:%S')" || exit 0
+        git push origin main
