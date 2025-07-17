@@ -225,15 +225,54 @@ ${titles}
 
 async function extractArticleContent(url) {
   try {
+    console.log(`📄 본문 추출 시도: ${url}`);
     const response = await fetch(url);
+    
+    if (!response.ok) {
+      console.log(`❌ HTTP 오류: ${response.status} ${response.statusText}`);
+      return '본문 추출 실패 - HTTP 오류';
+    }
+    
     const html = await response.text();
+    console.log(`📝 HTML 길이: ${html.length} characters`);
+    
     const $ = cheerio.load(html);
     
-    const content = $('.article-content, .news-content, #articleText, .article_txt, .view_text').text().trim();
-    return content.substring(0, 1000) || '본문 추출 실패';
+    // 여러 셀렉터 시도
+    const selectors = [
+      '.article-content',
+      '.news-content', 
+      '#articleText',
+      '.article_txt',
+      '.view_text',
+      '.article_view',
+      '.news_article',
+      '.content',
+      'article p',
+      '.post-content'
+    ];
+    
+    let content = '';
+    for (const selector of selectors) {
+      content = $(selector).text().trim();
+      if (content && content.length > 100) {
+        console.log(`✅ 본문 추출 성공 (${selector}): ${content.length} characters`);
+        break;
+      } else {
+        console.log(`❌ 빈 결과 (${selector}): ${content.length} characters`);
+      }
+    }
+    
+    if (!content || content.length < 50) {
+      console.log(`⚠️ 본문이 너무 짧음: "${content.substring(0, 100)}..."`);
+      return '본문 추출 실패 - 내용 없음';
+    }
+    
+    return content.substring(0, 1000);
     
   } catch (error) {
-    return '본문 추출 실패';
+    console.error(`❌ 본문 추출 실패: ${error.message}`);
+    return `본문 추출 실패 - ${error.message}`;
   }
 }
 
