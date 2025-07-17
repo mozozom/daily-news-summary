@@ -277,16 +277,34 @@ async function extractArticleContent(url) {
 }
 
 async function summarizeWithClaude(title, content) {
+  console.log(`🤖 키워드 생성 시도: ${title}`);
+  console.log(`📄 본문 길이: ${content.length} characters`);
+  
+  // 본문이 없거나 에러인 경우 제목만으로 키워드 생성
+  if (content.includes('본문 추출 실패') || content.length < 50) {
+    console.log('⚠️ 본문 없음, 제목으로 키워드 생성');
+    
+    if (title.includes('실적') || title.includes('매출') || title.includes('영업이익')) return '#실적개선 #매출증가 #수익성';
+    if (title.includes('AI') || title.includes('인공지능') || title.includes('ChatGPT')) return '#AI기술 #디지털혁신 #기술발전';
+    if (title.includes('투자') || title.includes('펀드') || title.includes('조달')) return '#투자유치 #자금조달 #성장동력';
+    if (title.includes('부동산') || title.includes('아파트')) return '#부동산시장 #주택정책 #건설업';
+    if (title.includes('반도체') || title.includes('메모리')) return '#반도체산업 #기술경쟁 #수출';
+    if (title.includes('금리') || title.includes('인플레이션')) return '#금리정책 #통화정책 #경제동향';
+    if (title.includes('주가') || title.includes('증시') || title.includes('코스피')) return '#주식시장 #투자심리 #시장동향';
+    
+    return '#경제뉴스 #산업동향 #비즈니스';
+  }
+
   try {
     const prompt = `다음 뉴스를 키워드 중심으로 요약해주세요:
 
 제목: ${title}
-내용: ${content}
+내용: ${content.substring(0, 800)}
 
 요구사항:
-- 3-5개의 핵심 키워드를 #태그 형식으로 작성
+- 3-4개의 핵심 키워드를 #태그 형식으로 작성
 - 각 키워드는 경영진이 알아야 할 중요한 개념
-- 예시: #실적개선 #신작출시 #목표가상향 #게임업계회복
+- 예시: #실적개선 #신작출시 #목표가상향
 
 키워드만 답변해주세요:`;
 
@@ -306,10 +324,18 @@ async function summarizeWithClaude(title, content) {
       })
     });
 
+    if (!response.ok) {
+      console.log(`❌ Claude API 오류: ${response.status}`);
+      throw new Error(`API 오류: ${response.status}`);
+    }
+
     const result = await response.json();
-    return result.content[0].text.trim();
+    const keywords = result.content[0].text.trim();
+    console.log(`✅ 키워드 생성 성공: ${keywords}`);
+    return keywords;
     
   } catch (error) {
+    console.error(`❌ Claude API 실패: ${error.message}`);
     return '#키워드생성실패';
   }
 }
