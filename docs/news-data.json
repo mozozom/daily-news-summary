@@ -1,185 +1,320 @@
 {
-  "lastUpdated": "2025-07-17T08:15:56.198Z",
+  "lastUpdated": "2025-07-17T08:31:09.654Z",
   "articles": [
     {
-      "id": "한국경제신문-1752740153132-0",
-      "title": "경남, 中 조선해양기술 박람회 참가기업 모집",
-      "link": "https://www.hankyung.com/article/2025071752771",
+      "id": "한국경제신문-1752741065824-0",
+      "title": "'외국인 러브콜' 쏟아졌다…소외됐던 바이오株, 상승 곡선",
+      "link": "https://www.hankyung.com/article/2025071753881",
       "source": "한국경제신문",
       "category": "경제",
-      "publishedAt": "Thu, 17 Jul 2025 17:13:55 +0900",
-      "summary": "#경제뉴스 #산업동향 #비즈니스"
+      "publishedAt": "Thu, 17 Jul 2025 17:28:58 +0900",
+      "summary": null
     },
     {
-      "id": "한국경제신문-1752740153133-1",
-      "title": "'울산의 밤' 즐기러 야시장 놀러오세요",
-      "link": "https://www.hankyung.com/article/2025071752801",
+      "id": "한국경제신문-1752741065824-1",
+      "title": "李 \"5·18정신 수록·권력기관 개혁…헌법 정비할 때\"",
+      "link": "https://www.hankyung.com/article/2025071754251",
       "source": "한국경제신문",
       "category": "경제",
-      "publishedAt": "Thu, 17 Jul 2025 17:13:32 +0900",
-      "summary": "#경제뉴스 #산업동향 #비즈니스"
+      "publishedAt": "Thu, 17 Jul 2025 17:28:34 +0900",
+      "summary": null
     },
     {
-      "id": "한국경제신문-1752740153133-2",
-      "title": "[이슈프리즘] 일본의 관세협상 오판이 남긴 교훈",
-      "link": "https://www.hankyung.com/article/2025071753181",
+      "id": "한국경제신문-1752741065824-2",
+      "title": "[인포그래픽]태평양 둘러싼 미중 경쟁",
+      "link": "https://www.hankyung.com/article/202507175419i",
       "source": "한국경제신문",
       "category": "경제",
-      "publishedAt": "Thu, 17 Jul 2025 17:12:20 +0900",
-      "summary": "#경제뉴스 #산업동향 #비즈니스"
+      "publishedAt": "Thu, 17 Jul 2025 17:27:52 +0900",
+      "summary": null
     },
     {
-      "id": "한국경제신문-1752740153133-3",
-      "title": "[천자칼럼] 메가프로젝트 패러독스",
-      "link": "https://www.hankyung.com/article/2025071753191",
+      "id": "한국경제신문-1752741065824-3",
+      "title": "'신격호 장녀' 신영자, 롯데그룹 주식 처분",
+      "link": "https://www.hankyung.com/article/2025071753921",
       "source": "한국경제신문",
       "category": "경제",
-      "publishedAt": "Thu, 17 Jul 2025 17:11:13 +0900",
-      "summary": "#경제뉴스 #산업동향 #비즈니스"
+      "publishedAt": "Thu, 17 Jul 2025 17:27:35 +0900",
+      "summary": null
     },
     {
-      "id": "한국경제신문-1752740153133-4",
-      "title": "[사설] '10년 사법 족쇄' 벗어난 삼성, 대담한 혁신으로 역동성 회복해야",
-      "link": "https://www.hankyung.com/article/2025071753211",
+      "id": "한국경제신문-1752741065824-4",
+      "title": "[속보] \"경산 오목천 압량교 일대서 신속 대피…홍수경보\"",
+      "link": "https://www.hankyung.com/article/2025071754207",
       "source": "한국경제신문",
       "category": "경제",
-      "publishedAt": "Thu, 17 Jul 2025 17:10:19 +0900",
-      "summary": "#대기업 #플랫폼 #기업동향"
+      "publishedAt": "Thu, 17 Jul 2025 17:27:25 +0900",
+      "summary": null
     },
     {
-      "id": "한국경제신문-1752740153133-5",
-      "title": "[사설] 김정관 후보자의 에너지·산업정책 구상…실용적 시장주의에 부합",
-      "link": "https://www.hankyung.com/article/2025071753221",
+      "id": "한국경제신문-1752741065824-5",
+      "title": "'시스템 장애' 서울보증, 사흘만에 복구",
+      "link": "https://www.hankyung.com/article/2025071753061",
       "source": "한국경제신문",
       "category": "경제",
-      "publishedAt": "Thu, 17 Jul 2025 17:09:54 +0900",
-      "summary": "#경제뉴스 #산업동향 #비즈니스"
+      "publishedAt": "Thu, 17 Jul 2025 17:27:24 +0900",
+      "summary": null
     },
     {
-      "id": "한국경제신문-1752740153133-6",
-      "title": "[속보] 호남고속도로 침수…동광주IC∼서광주IC 양방향 차단",
-      "link": "https://www.hankyung.com/article/2025071753297",
+      "id": "한국경제신문-1752741065824-6",
+      "title": "몸값 2조 대어 대한조선, 수요예측 흥행",
+      "link": "https://www.hankyung.com/article/2025071753931",
       "source": "한국경제신문",
       "category": "경제",
-      "publishedAt": "Thu, 17 Jul 2025 17:09:35 +0900",
-      "summary": "#경제뉴스 #산업동향 #비즈니스"
+      "publishedAt": "Thu, 17 Jul 2025 17:25:28 +0900",
+      "summary": null
     },
     {
-      "id": "한국경제신문-1752740153133-7",
-      "title": "[사설] 거시건전성 위한 한은의 검사권 확대, 심도 있는 검토 필요하다",
-      "link": "https://www.hankyung.com/article/2025071753231",
+      "id": "한국경제신문-1752741065824-7",
+      "title": "'코인 논란' 김남국, 항소심서 \"도덕적·정치적 책임 따지는 자리 아냐\"",
+      "link": "https://www.hankyung.com/article/2025071753997",
       "source": "한국경제신문",
       "category": "경제",
-      "publishedAt": "Thu, 17 Jul 2025 17:09:20 +0900",
-      "summary": "#경제뉴스 #산업동향 #비즈니스"
+      "publishedAt": "Thu, 17 Jul 2025 17:25:02 +0900",
+      "summary": null
     },
     {
-      "id": "한국경제신문-1752740153133-8",
-      "title": "신흥 메디힐 vs 전통강자 삼천리…女골프단 경쟁 '후끈'",
-      "link": "https://www.hankyung.com/article/2025071752621",
+      "id": "한국경제신문-1752741065824-8",
+      "title": "\"에너지와 산업은 불가분의 관계\"…기후에너지부 신설 사실상 반대",
+      "link": "https://www.hankyung.com/article/2025071753971",
       "source": "한국경제신문",
       "category": "경제",
-      "publishedAt": "Thu, 17 Jul 2025 17:07:23 +0900",
-      "summary": "#경제뉴스 #산업동향 #비즈니스"
+      "publishedAt": "Thu, 17 Jul 2025 17:25:01 +0900",
+      "summary": null
     },
     {
-      "id": "한국경제신문-1752740153133-9",
-      "title": "美 휘발유 재고 증가·무역 갈등에 WTI 하락…\"공급과잉 우려\" 확산 [오늘의 유가]",
-      "link": "https://www.hankyung.com/article/202507175295i",
+      "id": "한국경제신문-1752741065824-9",
+      "title": "\"소비자원 신설, 금융혁신 제동 우려\"",
+      "link": "https://www.hankyung.com/article/2025071753871",
       "source": "한국경제신문",
       "category": "경제",
-      "publishedAt": "Thu, 17 Jul 2025 17:07:15 +0900",
-      "summary": "#수출 #무역 #국제경제"
+      "publishedAt": "Thu, 17 Jul 2025 17:24:57 +0900",
+      "summary": null
     },
     {
-      "id": "한국경제신문-1752740153133-10",
-      "title": "한일시멘트·한일현대시멘트, '한일시멘트'로 전격 합병",
-      "link": "https://www.hankyung.com/article/202507175292i",
+      "id": "한국경제신문-1752741065824-10",
+      "title": "정은경 \"비싼 복제약 가격 체계 손봐야\"…국내 제약사 '날벼락'",
+      "link": "https://www.hankyung.com/article/2025071753961",
       "source": "한국경제신문",
       "category": "경제",
-      "publishedAt": "Thu, 17 Jul 2025 17:06:33 +0900",
-      "summary": "#경제뉴스 #산업동향 #비즈니스"
+      "publishedAt": "Thu, 17 Jul 2025 17:24:25 +0900",
+      "summary": null
     },
     {
-      "id": "한국경제신문-1752740153133-11",
-      "title": "'삭발 각오' 매킬로이, 고향서 메이저 도전",
-      "link": "https://www.hankyung.com/article/2025071752631",
+      "id": "한국경제신문-1752741065824-11",
+      "title": "\"美 증시 고평가…韓 밸류업에 주목\"",
+      "link": "https://www.hankyung.com/article/2025071753861",
       "source": "한국경제신문",
       "category": "경제",
-      "publishedAt": "Thu, 17 Jul 2025 17:06:03 +0900",
-      "summary": "#경제뉴스 #산업동향 #비즈니스"
+      "publishedAt": "Thu, 17 Jul 2025 17:24:25 +0900",
+      "summary": null
     },
     {
-      "id": "한국경제신문-1752740153133-12",
-      "title": "한일시멘트-한일현대시멘트 합병…\"경영효율 극대화\"",
-      "link": "https://www.hankyung.com/article/2025071752877",
+      "id": "한국경제신문-1752741065824-12",
+      "title": "김정상 교수 \"무한 가능성의 양자컴퓨팅, AI와 결합해 새 시대 열 것\"",
+      "link": "https://www.hankyung.com/article/2025071753271",
       "source": "한국경제신문",
       "category": "경제",
-      "publishedAt": "Thu, 17 Jul 2025 17:04:36 +0900",
-      "summary": "#경제뉴스 #산업동향 #비즈니스"
+      "publishedAt": "Thu, 17 Jul 2025 17:23:36 +0900",
+      "summary": null
     },
     {
-      "id": "한국경제신문-1752740153133-13",
-      "title": "김주형도 하루 200개씩 연습…라운드 전 '빈 스윙' 잊지마세요[이시우의 마스터클래스]",
-      "link": "https://www.hankyung.com/article/2025071752651",
-      "source": "한국경제신문",
+      "id": "조선일보-1752741066063-0",
+      "title": "삼성운용, 포트폴리오 개편한 ‘KODEX 고배당주’ 순자산 2600억 달성",
+      "link": "https://www.chosun.com/economy/money/2025/07/17/TOFTYODXJNTI4XGDF4DQPKN4XE/",
+      "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Thu, 17 Jul 2025 17:04:06 +0900",
-      "summary": "#경제뉴스 #산업동향 #비즈니스"
+      "publishedAt": "Thu, 17 Jul 2025 08:23:26 +0000",
+      "summary": null
     },
     {
-      "id": "한국경제신문-1752740153133-14",
-      "title": "전한길, 국민의힘 입당…당내 '쇄신파' 발칵 뒤집혔다",
-      "link": "https://www.hankyung.com/article/2025071752317",
+      "id": "한국경제신문-1752741065824-13",
+      "title": "美 '가상자산 3법' 의회 통과 초읽기",
+      "link": "https://www.hankyung.com/article/2025071753641",
       "source": "한국경제신문",
       "category": "경제",
-      "publishedAt": "Thu, 17 Jul 2025 17:02:58 +0900",
-      "summary": "#경제뉴스 #산업동향 #비즈니스"
+      "publishedAt": "Thu, 17 Jul 2025 17:22:49 +0900",
+      "summary": null
     },
     {
-      "id": "한국경제신문-1752740153133-15",
-      "title": "[차장 칼럼] 법률이 기업을 바꾼다는 환상",
-      "link": "https://www.hankyung.com/article/2025071752551",
+      "id": "한국경제신문-1752741065824-14",
+      "title": "푸틴 \"中·北과 도로 연결\"…유럽길 막히자 '동진'",
+      "link": "https://www.hankyung.com/article/2025071753651",
       "source": "한국경제신문",
       "category": "경제",
-      "publishedAt": "Thu, 17 Jul 2025 17:01:48 +0900",
-      "summary": "#경제뉴스 #산업동향 #비즈니스"
+      "publishedAt": "Thu, 17 Jul 2025 17:22:37 +0900",
+      "summary": null
     },
     {
-      "id": "한국경제신문-1752740153133-16",
-      "title": "토스뱅크가 3년 만에 흑자전환에 성공한 비법은",
-      "link": "https://www.hankyung.com/article/202507175252i",
+      "id": "한국경제신문-1752741065824-15",
+      "title": "신한銀, 무료 법률지원 후원금 17.5억",
+      "link": "https://www.hankyung.com/article/2025071753331",
       "source": "한국경제신문",
       "category": "경제",
-      "publishedAt": "Thu, 17 Jul 2025 17:00:53 +0900",
-      "summary": "#경제뉴스 #산업동향 #비즈니스"
+      "publishedAt": "Thu, 17 Jul 2025 17:22:21 +0900",
+      "summary": null
     },
     {
-      "id": "한국경제신문-1752740153133-17",
-      "title": "[이응준의 시선] 이상향의 비극",
-      "link": "https://www.hankyung.com/article/2025071752561",
+      "id": "한국경제신문-1752741065824-16",
+      "title": "'콜라 광' 트럼프 레시피까지 훈수",
+      "link": "https://www.hankyung.com/article/2025071753661",
       "source": "한국경제신문",
       "category": "경제",
-      "publishedAt": "Thu, 17 Jul 2025 17:00:27 +0900",
-      "summary": "#경제뉴스 #산업동향 #비즈니스"
+      "publishedAt": "Thu, 17 Jul 2025 17:21:58 +0900",
+      "summary": null
     },
     {
-      "id": "한국경제신문-1752740153133-18",
-      "title": "[취재수첩] 배당소득세 개편 논의, 10년 전 실패 전철 밟나",
-      "link": "https://www.hankyung.com/article/2025071752591",
+      "id": "한국경제신문-1752741065824-17",
+      "title": "'공인회계사' 합격하면 술술 풀릴 줄 알았는데…몰랐던 사실",
+      "link": "https://www.hankyung.com/article/2025071752971",
       "source": "한국경제신문",
       "category": "경제",
-      "publishedAt": "Thu, 17 Jul 2025 16:59:28 +0900",
-      "summary": "#경제뉴스 #산업동향 #비즈니스"
+      "publishedAt": "Thu, 17 Jul 2025 17:21:37 +0900",
+      "summary": null
     },
     {
-      "id": "한국경제신문-1752740153133-19",
-      "title": "태릉CC·용산 캠프킴…유휴부지 활용한 주택공급 '속도전'",
-      "link": "https://www.hankyung.com/article/2025071752261",
+      "id": "한국경제신문-1752741065824-18",
+      "title": "[포토] 美 'AI가 조종하는 드론' 공개",
+      "link": "https://www.hankyung.com/article/2025071753671",
       "source": "한국경제신문",
       "category": "경제",
-      "publishedAt": "Thu, 17 Jul 2025 16:58:25 +0900",
-      "summary": "#경제뉴스 #산업동향 #비즈니스"
+      "publishedAt": "Thu, 17 Jul 2025 17:21:36 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1752741065824-19",
+      "title": "광주銀, 치매·발달장애 실종예방 기부",
+      "link": "https://www.hankyung.com/article/2025071753341",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Thu, 17 Jul 2025 17:21:28 +0900",
+      "summary": null
+    },
+    {
+      "id": "조선일보-1752741066063-1",
+      "title": "의료급여 정률제 사실상 철회…재정보다 저소득층 부담에 가중치",
+      "link": "https://www.chosun.com/economy/science/2025/07/17/VA3ZN7IFAWS77X6W3UH4K5DTFQ/",
+      "source": "조선일보",
+      "category": "경제",
+      "publishedAt": "Thu, 17 Jul 2025 08:19:45 +0000",
+      "summary": null
+    },
+    {
+      "id": "조선일보-1752741066063-2",
+      "title": "K팝 ‘머니’ 헌터스...韓 음악 수출 2조 시대",
+      "link": "https://www.chosun.com/economy/weeklybiz/2025/07/17/LH6YYMTMOJDGRG45FKTEIPQLAY/",
+      "source": "조선일보",
+      "category": "경제",
+      "publishedAt": "Thu, 17 Jul 2025 08:19:26 +0000",
+      "summary": null
+    },
+    {
+      "id": "조선일보-1752741066063-3",
+      "title": "SC제일은행, 9월 말까지 비대면 주택담보대출 중단",
+      "link": "https://www.chosun.com/economy/money/2025/07/17/2V6MH3C3Y2J55FDVPWNUNZZA64/",
+      "source": "조선일보",
+      "category": "경제",
+      "publishedAt": "Thu, 17 Jul 2025 08:18:39 +0000",
+      "summary": null
+    },
+    {
+      "id": "조선일보-1752741066063-4",
+      "title": "“K팝의 ‘코리아네스크’ 지키지 않으면 하락기 시작될 것”",
+      "link": "https://www.chosun.com/economy/weeklybiz/2025/07/17/KTLUJVWZFVGV7MZ6QV6MHGNE7U/",
+      "source": "조선일보",
+      "category": "경제",
+      "publishedAt": "Thu, 17 Jul 2025 08:12:32 +0000",
+      "summary": null
+    },
+    {
+      "id": "조선일보-1752741066063-5",
+      "title": "'개포우성4차' 9월 시공사 입찰, 포스코·롯데 '기싸움' 삼성물산 '잠잠'",
+      "link": "https://www.chosun.com/economy/realty/redevelop/2025/07/17/RKY24PPNI7XHXBHCTWB4THCL7I/",
+      "source": "조선일보",
+      "category": "경제",
+      "publishedAt": "Thu, 17 Jul 2025 08:05:11 +0000",
+      "summary": null
+    },
+    {
+      "id": "조선일보-1752741066063-6",
+      "title": "증시 밸류업, 롤모델은 ‘아베노믹스’가 아니라 ‘타베노믹스’?",
+      "link": "https://www.chosun.com/economy/weeklybiz/2025/07/17/LPTGHLZTN5HNTNFMNR5NW44PT4/",
+      "source": "조선일보",
+      "category": "경제",
+      "publishedAt": "Thu, 17 Jul 2025 08:02:53 +0000",
+      "summary": null
+    },
+    {
+      "id": "조선일보-1752741066063-7",
+      "title": "“줄기세포 이용해 임플란트 대신 진짜 치아 자라게 한다”",
+      "link": "https://www.chosun.com/economy/weeklybiz/2025/07/17/P4K7K5YPT5DXTMZRAVSQ2EA5TU/",
+      "source": "조선일보",
+      "category": "경제",
+      "publishedAt": "Thu, 17 Jul 2025 08:00:05 +0000",
+      "summary": null
+    },
+    {
+      "id": "조선일보-1752741066063-8",
+      "title": "세계 최대 델타항공 실적, 날아오른 까닭은",
+      "link": "https://www.chosun.com/economy/weeklybiz/2025/07/17/MSDRPQVMMNDKXC5XMUMAOM6D6A/",
+      "source": "조선일보",
+      "category": "경제",
+      "publishedAt": "Thu, 17 Jul 2025 07:55:33 +0000",
+      "summary": null
+    },
+    {
+      "id": "조선일보-1752741066063-9",
+      "title": "매각 위로금 받고 1년 내 퇴사하면 위로금 반환해야 하나요?",
+      "link": "https://www.chosun.com/economy/weeklybiz/2025/07/17/O7TFEAQXLBDLFIW7E4A3SFWMCM/",
+      "source": "조선일보",
+      "category": "경제",
+      "publishedAt": "Thu, 17 Jul 2025 07:53:02 +0000",
+      "summary": null
+    },
+    {
+      "id": "조선일보-1752741066063-10",
+      "title": "'서울을 빈처럼?' 오세훈 \"공공주택 진흥기금 도입, 임대주택 연간 2500가구\"",
+      "link": "https://www.chosun.com/economy/realty/realestate_news/2025/07/17/436UHETPWU72O2LLLITLOSI2V4/",
+      "source": "조선일보",
+      "category": "경제",
+      "publishedAt": "Thu, 17 Jul 2025 07:51:34 +0000",
+      "summary": null
+    },
+    {
+      "id": "조선일보-1752741066063-11",
+      "title": "“당신의 새로운 실험으로 시장의 상식을 깨부숴라”",
+      "link": "https://www.chosun.com/economy/weeklybiz/2025/07/17/TJETSKDMLFANFPZ7LGCBLQIOBI/",
+      "source": "조선일보",
+      "category": "경제",
+      "publishedAt": "Thu, 17 Jul 2025 07:51:19 +0000",
+      "summary": null
+    },
+    {
+      "id": "조선일보-1752741066063-12",
+      "title": "한일시멘트, 한일현대시멘트 흡수 합병키로… 애프터마켓서 급등",
+      "link": "https://www.chosun.com/economy/money/2025/07/17/URAIXMTPYUIX4J6PGIUMSW4N4M/",
+      "source": "조선일보",
+      "category": "경제",
+      "publishedAt": "Thu, 17 Jul 2025 07:50:52 +0000",
+      "summary": null
+    },
+    {
+      "id": "조선일보-1752741066063-13",
+      "title": "AI·방위산업 핵심 자원으로 떠오른 구리, 트럼프 50% 관세 예고에...",
+      "link": "https://www.chosun.com/economy/weeklybiz/2025/07/17/5OMOON5FQZAMVLJXDZGNUJNSJU/",
+      "source": "조선일보",
+      "category": "경제",
+      "publishedAt": "Thu, 17 Jul 2025 07:49:44 +0000",
+      "summary": null
+    },
+    {
+      "id": "조선일보-1752741066063-14",
+      "title": "“29곳 다 가봐야지”...관광객 끌어모으는 日 정원 도장 깨기 마케팅",
+      "link": "https://www.chosun.com/economy/weeklybiz/2025/07/17/NNJUVC3UAZAQFOV7V6OO7TWP24/",
+      "source": "조선일보",
+      "category": "경제",
+      "publishedAt": "Thu, 17 Jul 2025 07:46:21 +0000",
+      "summary": null
     }
   ]
 }
