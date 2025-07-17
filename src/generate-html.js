@@ -3,7 +3,8 @@ import fs from 'fs';
 function generateHTML() {
   const newsData = JSON.parse(fs.readFileSync('docs/news-data.json', 'utf8'));
   
-  const html = `<!DOCTYPE html>
+  // 메인 페이지 HTML 생성
+  const mainHtml = `<!DOCTYPE html>
 <html lang="ko">
 <head>
     <meta charset="UTF-8">
@@ -43,12 +44,9 @@ function generateHTML() {
                                 </td>
                                 <td><span class="source">${article.source}</span></td>
                                 <td>
-                                    <button class="summary-btn" onclick="toggleSummary(${index})">
+                                    <a href="summary-${index}.html" class="summary-btn">
                                         요약보기
-                                    </button>
-                                    <div class="summary-content" id="summary-${index}" style="display: none;">
-                                        ${article.summary}
-                                    </div>
+                                    </a>
                                 </td>
                                 <td>
                                     <a href="${article.link}" target="_blank" class="original-link">
@@ -67,26 +65,60 @@ function generateHTML() {
             <p>Made with ❤️ and Claude AI</p>
         </footer>
     </div>
-
-    <script>
-        function toggleSummary(index) {
-            const summaryDiv = document.getElementById('summary-' + index);
-            const button = summaryDiv.previousElementSibling;
-            
-            if (summaryDiv.style.display === 'none') {
-                summaryDiv.style.display = 'block';
-                button.textContent = '요약닫기';
-            } else {
-                summaryDiv.style.display = 'none';
-                button.textContent = '요약보기';
-            }
-        }
-    </script>
 </body>
 </html>`;
 
-  fs.writeFileSync('docs/index.html', html);
-  console.log('✅ HTML 생성 완료');
+  // 각 기사별 요약 페이지 생성
+  newsData.articles.forEach((article, index) => {
+    const summaryHtml = `<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>📰 뉴스 요약 - ${article.title}</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="summary-page">
+            <div class="summary-header">
+                <a href="index.html" class="home-btn">🏠 홈으로 돌아가기</a>
+                <div class="article-meta">
+                    <span class="source">${article.source}</span>
+                    <span class="category">${article.category}</span>
+                    <span class="date">${new Date(article.publishedAt).toLocaleDateString('ko-KR')}</span>
+                </div>
+            </div>
+
+            <div class="summary-content-page">
+                <h1 class="article-title">${article.title}</h1>
+                
+                <div class="summary-box">
+                    <h2>📋 AI 요약</h2>
+                    <div class="summary-text">
+                        ${article.summary.split('\n').map(line => `<p>${line}</p>`).join('')}
+                    </div>
+                </div>
+
+                <div class="action-buttons">
+                    <a href="${article.link}" target="_blank" class="original-btn">
+                        📄 원문 전체 보기
+                    </a>
+                    <a href="index.html" class="home-btn-bottom">
+                        🏠 홈으로 돌아가기
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>`;
+
+    fs.writeFileSync(`docs/summary-${index}.html`, summaryHtml);
+  });
+
+  fs.writeFileSync('docs/index.html', mainHtml);
+  console.log('✅ 메인 페이지 및 요약 페이지들 생성 완료');
 }
 
 generateHTML();
