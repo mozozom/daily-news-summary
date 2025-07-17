@@ -38,7 +38,7 @@ function generateMainPage(newsData, currentPage, totalPages) {
     <div class="container">
         <header>
             <h1>📰 매일 뉴스 요약</h1>
-            <p>디지털데일리, 한국경제신문, 조선비즈, 매일경제, 연합뉴스IT 주요 기사 ${newsData.articles.length}개</p>
+            <p>한국경제신문, 조선일보, 중앙일보, 이데일리, 뉴스1 주요 기사 ${newsData.articles.length}개</p>
             <div class="last-updated">
                 🕐 마지막 업데이트: ${new Date(newsData.lastUpdated).toLocaleString('ko-KR')}
             </div>
@@ -52,7 +52,7 @@ function generateMainPage(newsData, currentPage, totalPages) {
                             <th>기사분류</th>
                             <th>기사제목</th>
                             <th>소스</th>
-                            <th>키워드요약</th>
+                            <th>요약</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -69,6 +69,8 @@ function generateMainPage(newsData, currentPage, totalPages) {
             <p>Made with ❤️ and Claude AI</p>
         </footer>
     </div>
+
+    ${generateSummaryScript()}
 </body>
 </html>`;
 
@@ -94,7 +96,7 @@ function generatePage(newsData, currentPage, totalPages) {
     <div class="container">
         <header>
             <h1>📰 매일 뉴스 요약</h1>
-            <p>디지털데일리, 한국경제신문, 조선비즈, 매일경제, 연합뉴스IT 주요 기사 ${newsData.articles.length}개</p>
+            <p>한국경제신문, 조선일보, 중앙일보, 이데일리, 뉴스1 주요 기사 ${newsData.articles.length}개</p>
             <div class="last-updated">
                 🕐 마지막 업데이트: ${new Date(newsData.lastUpdated).toLocaleString('ko-KR')}
             </div>
@@ -111,7 +113,7 @@ function generatePage(newsData, currentPage, totalPages) {
                             <th>기사분류</th>
                             <th>기사제목</th>
                             <th>소스</th>
-                            <th>키워드요약</th>
+                            <th>요약</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -128,6 +130,8 @@ function generatePage(newsData, currentPage, totalPages) {
             <p>Made with ❤️ and Claude AI</p>
         </footer>
     </div>
+
+    ${generateSummaryScript()}
 </body>
 </html>`;
 
@@ -138,7 +142,7 @@ function generatePage(newsData, currentPage, totalPages) {
 function generateTableRows(articles) {
   return articles.map((article, index) => {
     const title = article.title.replace(/'/g, "&#39;").replace(/"/g, "&quot;");
-    const summary = article.summary.replace(/'/g, "&#39;").replace(/"/g, "&quot;");
+    const encodedUrl = encodeURIComponent(article.link);
     
     return `
         <tr>
@@ -150,10 +154,11 @@ function generateTableRows(articles) {
                 <div class="news-date">${new Date(article.publishedAt).toLocaleDateString('ko-KR')}</div>
             </td>
             <td><span class="source">${article.source}</span></td>
-            <td class="keyword-cell">
-                <div class="keywords">
-                    ${summary}
-                </div>
+            <td class="summary-cell">
+                <button class="summary-btn" onclick="generateSummary('${encodedUrl}', this)">
+                    📝 요약생성
+                </button>
+                <div class="summary-content" style="display: none;"></div>
             </td>
         </tr>`;
   }).join('');
@@ -186,6 +191,74 @@ function generatePagination(currentPage, totalPages) {
   
   pagination += '</div>';
   return pagination;
+}
+
+function generateSummaryScript() {
+  return `
+    <script>
+        async function generateSummary(encodedUrl, button) {
+            const url = decodeURIComponent(encodedUrl);
+            const summaryDiv = button.nextElementSibling;
+            
+            // 이미 요약이 있으면 토글
+            if (summaryDiv.innerHTML.trim() && summaryDiv.style.display !== 'none') {
+                summaryDiv.style.display = 'none';
+                button.textContent = '📝 요약생성';
+                button.disabled = false;
+                return;
+            }
+            
+            // 로딩 상태
+            button.textContent = '⏳ 요약중...';
+            button.disabled = true;
+            summaryDiv.style.display = 'block';
+            summaryDiv.innerHTML = '<p>🤖 AI가 원문을 분석하여 요약을 생성하고 있습니다...</p>';
+            
+            try {
+                // 서버에 요약 요청 (실제로는 Claude API 호출)
+                const response = await fetch('/api/summarize', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({ url: url })
+                });
+                
+                if (response.ok) {
+                    const data = await response.json();
+                    summaryDiv.innerHTML = \`
+                        <div class="summary-result">
+                            <h4>📄 AI 요약</h4>
+                            <p>\${data.summary}</p>
+                            <div class="summary-meta">
+                                <small>원문의 약 \${data.compressionRate}% 요약</small>
+                            </div>
+                        </div>
+                    \`;
+                    button.textContent = '📝 요약닫기';
+                } else {
+                    throw new Error('요약 생성 실패');
+                }
+                
+            } catch (error) {
+                console.error('요약 오류:', error);
+                summaryDiv.innerHTML = \`
+                    <div class="summary-error">
+                        <p>⚠️ 현재 요약 기능을 준비 중입니다.</p>
+                        <p>원문 링크를 클릭하여 전체 기사를 확인해주세요.</p>
+                    </div>
+                \`;
+                button.textContent = '📝 요약실패';
+                setTimeout(() => {
+                    button.textContent = '📝 요약생성';
+                    button.disabled = false;
+                }, 3000);
+            }
+            
+            button.disabled = false;
+        }
+    </script>
+  `;
 }
 
 // 실행
