@@ -13,7 +13,7 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v3
       with:
-        fetch-depth: 0  # 전체 히스토리 가져오기
+        fetch-depth: 0
     
     - name: Setup Node.js
       uses: actions/setup-node@v3
@@ -22,6 +22,11 @@ jobs:
     
     - name: Install dependencies
       run: npm install
+    
+    - name: Clean up old summary files
+      run: |
+        find docs/ -name "summary-*.html" -type f -delete || true
+        echo "✅ 불필요한 summary 파일들 삭제 완료"
     
     - name: Fetch and process news
       env:
@@ -35,7 +40,7 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git pull origin main --rebase  # 원격 변경사항 먼저 가져오기
+        git pull origin main --rebase || true
         git add docs/
         git commit -m "Daily news update $(date +'%Y-%m-%d %H:%M:%S')" || exit 0
         git push origin main
