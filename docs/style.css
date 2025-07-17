@@ -42,6 +42,7 @@ header p {
     color: #888;
 }
 
+/* 테이블 스타일 */
 .table-container {
     background: white;
     border-radius: 10px;
@@ -119,28 +120,17 @@ header p {
 .summary-btn {
     background: #27ae60;
     color: white;
-    border: none;
+    text-decoration: none;
     padding: 8px 12px;
     border-radius: 4px;
-    cursor: pointer;
     font-size: 12px;
     font-weight: 500;
-    margin-bottom: 10px;
+    display: inline-block;
     transition: background 0.2s;
 }
 
 .summary-btn:hover {
     background: #219a52;
-}
-
-.summary-content {
-    background: #f8f9fa;
-    padding: 10px;
-    border-radius: 4px;
-    font-size: 13px;
-    line-height: 1.5;
-    color: #555;
-    border-left: 3px solid #27ae60;
 }
 
 .original-link {
@@ -157,6 +147,130 @@ header p {
 
 .original-link:hover {
     background: #8e44ad;
+}
+
+/* 요약 페이지 스타일 */
+.summary-page {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.summary-header {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.home-btn {
+    background: #34495e;
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 6px;
+    font-weight: 500;
+    transition: background 0.2s;
+}
+
+.home-btn:hover {
+    background: #2c3e50;
+}
+
+.article-meta {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.article-meta .date {
+    background: #95a5a6;
+    color: white;
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-size: 12px;
+}
+
+.summary-content-page {
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+.article-title {
+    font-size: 1.8rem;
+    line-height: 1.4;
+    margin-bottom: 30px;
+    color: #2c3e50;
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 15px;
+}
+
+.summary-box {
+    background: #f8f9fa;
+    border-left: 4px solid #3498db;
+    padding: 25px;
+    border-radius: 6px;
+    margin-bottom: 30px;
+}
+
+.summary-box h2 {
+    color: #2c3e50;
+    margin-bottom: 15px;
+    font-size: 1.2rem;
+}
+
+.summary-text {
+    font-size: 1.1rem;
+    line-height: 1.8;
+    color: #555;
+}
+
+.summary-text p {
+    margin-bottom: 10px;
+}
+
+.action-buttons {
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.original-btn {
+    background: #e74c3c;
+    color: white;
+    text-decoration: none;
+    padding: 12px 25px;
+    border-radius: 6px;
+    font-weight: 500;
+    font-size: 1rem;
+    transition: background 0.2s;
+}
+
+.original-btn:hover {
+    background: #c0392b;
+}
+
+.home-btn-bottom {
+    background: #34495e;
+    color: white;
+    text-decoration: none;
+    padding: 12px 25px;
+    border-radius: 6px;
+    font-weight: 500;
+    font-size: 1rem;
+    transition: background 0.2s;
+}
+
+.home-btn-bottom:hover {
+    background: #2c3e50;
 }
 
 footer {
@@ -182,9 +296,20 @@ footer {
         padding: 10px 5px;
     }
     
-    .news-table th:nth-child(1) { width: 10%; }
-    .news-table th:nth-child(2) { width: 40%; }
-    .news-table th:nth-child(3) { width: 15%; }
-    .news-table th:nth-child(4) { width: 20%; }
-    .news-table th:nth-child(5) { width: 15%; }
+    .summary-header {
+        flex-direction: column;
+        text-align: center;
+    }
+    
+    .summary-content-page {
+        padding: 20px;
+    }
+    
+    .article-title {
+        font-size: 1.4rem;
+    }
+    
+    .action-buttons {
+        flex-direction: column;
+    }
 }
