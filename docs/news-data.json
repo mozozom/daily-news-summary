@@ -1,319 +1,319 @@
 {
-  "lastUpdated": "2025-08-14T00:58:46.541Z",
+  "lastUpdated": "2025-08-15T00:58:57.033Z",
   "articles": [
     {
-      "id": "조선일보-1755133122883-1",
-      "title": "누빈자산운용, EPIC 펀드에 1차 투자금 13억달러 유치",
-      "link": "https://www.chosun.com/economy/stock-finance/2025/08/14/6PNXKILTHGGWVSYHSUH2ZIZS5U/",
+      "id": "한국경제신문-1755219532215-0",
+      "title": "'이천수 아내' 심하은, 폭우에 지바겐도 피해…타이어 잠겨\"",
+      "link": "https://www.hankyung.com/article/2025081524037",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Fri, 15 Aug 2025 09:49:52 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1755219532215-1",
+      "title": "광복절 연휴 시작에 고속도로 '정체'…서울→부산 8시간",
+      "link": "https://www.hankyung.com/article/2025081523927",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Fri, 15 Aug 2025 09:36:06 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1755219532215-2",
+      "title": "송혜교·서경덕, 광복 80주년 '멕시코 한인 독립운동' 안내서 기부",
+      "link": "https://www.hankyung.com/article/2025081523657",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Fri, 15 Aug 2025 09:25:17 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1755219532215-3",
+      "title": "안동역 광장서 '폭발물 터트리겠다' 신고…경찰 수색 중",
+      "link": "https://www.hankyung.com/article/2025081523677",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Fri, 15 Aug 2025 09:18:30 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1755219532215-4",
+      "title": "\"섣불리 美 투자비중 줄이지 마라\"...글로벌 컨설팅기업 CIO의 조언 [투자고수를 찾아서]",
+      "link": "https://www.hankyung.com/article/202508142149i",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Fri, 15 Aug 2025 09:00:05 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1755219532215-5",
+      "title": "광복절, 국내 '료칸' 예약 풀 마감…\"일본 가는 것보다 낫네\" [이슈+]",
+      "link": "https://www.hankyung.com/article/2025081412627",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Fri, 15 Aug 2025 09:00:03 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1755219532215-6",
+      "title": "김정은, 광복절 첫 연설서 \"북러단결의 힘 무궁\" 강조",
+      "link": "https://www.hankyung.com/article/2025081523377",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Fri, 15 Aug 2025 08:44:06 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1755219532215-7",
+      "title": "'안동역' 10년 만의 낭만 재회…'폭발물 소동'에 아수라장",
+      "link": "https://www.hankyung.com/article/202508152283i",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Fri, 15 Aug 2025 08:40:15 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1755219532215-8",
+      "title": "[속보] \"고이즈미 신지로 日농림수산상, 야스쿠니신사 참배\"",
+      "link": "https://www.hankyung.com/article/2025081523427",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Fri, 15 Aug 2025 08:39:46 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1755219532215-9",
+      "title": "두산 회장보다 많았다…'보수 170억' 챙긴 임원 누구길래",
+      "link": "https://www.hankyung.com/article/2025081523157",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Fri, 15 Aug 2025 08:29:58 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1755219532215-10",
+      "title": "\"인천공항 간다더니 김포 착륙\"…'황당 사건' 이유 밝혀졌다",
+      "link": "https://www.hankyung.com/article/2025081523147",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Fri, 15 Aug 2025 08:11:11 +0900",
+      "summary": null
+    },
+    {
+      "id": "조선일보-1755219532571-3",
+      "title": "AI 점자 스타트업 대표, 횡령 후 해외 도주… 300억 증발 위기",
+      "link": "https://www.chosun.com/economy/stock-finance/2025/08/16/SFBNADH37FGFFLU6F66Y6HM3JA/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Thu, 14 Aug 2025 00:50:59 +0000",
+      "publishedAt": "Thu, 14 Aug 2025 23:01:05 +0000",
       "summary": null
     },
     {
-      "id": "조선일보-1755133122883-3",
-      "title": "리디, 웹소설 ‘이 소설은 내 소설이 아니다’ 단독 연재",
-      "link": "https://www.chosun.com/economy/tech_it/2025/08/14/RQTUK3PWGE4GABW6VHP6OYWGBM/",
+      "id": "조선일보-1755219532571-4",
+      "title": "베리홉, 해외 진출 본격화… 사우디아라비아 30억 원 공급 계약 체결",
+      "link": "https://www.chosun.com/economy/industry-company/2025/08/15/Y6HWH5L5S6TQUMRF3ZCMWUZSBI/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Thu, 14 Aug 2025 00:50:15 +0000",
+      "publishedAt": "Thu, 14 Aug 2025 23:00:00 +0000",
       "summary": null
     },
     {
-      "id": "조선일보-1755133122883-4",
-      "title": "“미국, 첨단 칩 중국 불법 우회 수출 막기 위해 위치 추적기 사용해와”",
-      "link": "https://www.chosun.com/economy/tech_it/2025/08/15/DVRWXP2KGVGODASLUJX35H4SBU/",
+      "id": "조선일보-1755219532571-6",
+      "title": "中 대사, 李대통령 ‘반중 시위’ 언급에 “높이 평가”",
+      "link": "https://www.chosun.com/economy/economy_general/2025/08/15/6KBGJTBF3JUWIZTT7LLLR6H5JI/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Thu, 14 Aug 2025 00:49:05 +0000",
+      "publishedAt": "Thu, 14 Aug 2025 22:48:46 +0000",
       "summary": null
     },
     {
-      "id": "한국경제신문-1755133121931-0",
-      "title": "케플러, 확 달라졌다…더위 날릴 악동 소녀들",
-      "link": "https://www.hankyung.com/article/202508140300H",
+      "id": "한국경제신문-1755219532215-11",
+      "title": "[속보] 김정은 \"북러단결의 힘 무궁해…세계평화 위한 투쟁의 한 전호에\"",
+      "link": "https://www.hankyung.com/article/2025081522807",
       "source": "한국경제신문",
       "category": "경제",
-      "publishedAt": "Thu, 14 Aug 2025 09:47:40 +0900",
+      "publishedAt": "Fri, 15 Aug 2025 07:47:07 +0900",
       "summary": null
     },
     {
-      "id": "한국경제신문-1755133121931-1",
-      "title": "알테오젠, UBS 리포트 반박…“키트루다SC 전환율·로열티 과소평가”",
-      "link": "https://www.hankyung.com/article/202508140228i",
+      "id": "한국경제신문-1755219532215-12",
+      "title": "광복절 전국 구름 많고 곳곳 소나기…낮 최고 35도 [날씨]",
+      "link": "https://www.hankyung.com/article/2025081522747",
       "source": "한국경제신문",
       "category": "경제",
-      "publishedAt": "Thu, 14 Aug 2025 09:47:32 +0900",
+      "publishedAt": "Fri, 15 Aug 2025 07:45:39 +0900",
       "summary": null
     },
     {
-      "id": "한국경제신문-1755133121931-2",
-      "title": "신한투자증권, '신한 프리미어 행복이음신탁' 출시",
-      "link": "https://www.hankyung.com/article/202508140292i",
+      "id": "한국경제신문-1755219532215-13",
+      "title": "'매파적 인하' 부상, 잭슨홀 연설→실망? [김현석의 월스트리트나우]",
+      "link": "https://www.hankyung.com/article/202508152229i",
       "source": "한국경제신문",
       "category": "경제",
-      "publishedAt": "Thu, 14 Aug 2025 09:45:37 +0900",
+      "publishedAt": "Fri, 15 Aug 2025 07:44:10 +0900",
       "summary": null
     },
     {
-      "id": "조선일보-1755133122883-8",
-      "title": "\"대출규제 실패하자 세금으로 집값 때려 잡나\"…'한달 천하' 맛보기의 후속 대책은?",
-      "link": "https://www.chosun.com/economy/realty/realestate_news/2025/08/14/2MLFLFUMLXPMLNIU5IQI64DVZA/",
+      "id": "한국경제신문-1755219532215-14",
+      "title": "'차명거래 의혹' 이춘석 7시간여 경찰 조사…\"국민께 사죄\"",
+      "link": "https://www.hankyung.com/article/2025081522697",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Fri, 15 Aug 2025 07:36:16 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1755219532215-15",
+      "title": "\"대한민국 국민이라면 반드시\"…광복 80주년, 영화로 보는 역사",
+      "link": "https://www.hankyung.com/article/2025081405857",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Fri, 15 Aug 2025 07:34:01 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1755219532215-16",
+      "title": "'광복절' 뉴욕 한복판에 '유관순 영상' 뜬 이유가…'깜짝'",
+      "link": "https://www.hankyung.com/article/2025081522677",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Fri, 15 Aug 2025 07:29:59 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1755219532215-17",
+      "title": "PPI 충격에도 저가 매수세에 보합…인텔 7%대 상승 [뉴욕증시 브리핑]",
+      "link": "https://www.hankyung.com/article/2025081522417",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Fri, 15 Aug 2025 07:28:44 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1755219532215-18",
+      "title": "에어캐나다 항공편 취소 날벼락?…\"15일까지 500편 취소\"",
+      "link": "https://www.hankyung.com/article/2025081522407",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Fri, 15 Aug 2025 07:18:50 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1755219532215-19",
+      "title": "'광복절 특사' 조국 출소…\"검찰 독재 종식되는 상징적 장면\"",
+      "link": "https://www.hankyung.com/article/2025081522507",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Fri, 15 Aug 2025 07:15:30 +0900",
+      "summary": null
+    },
+    {
+      "id": "조선일보-1755219532571-10",
+      "title": "親與 유튜브 나온 우원식 국회의장 “정기국회서 개헌 논의, 4년 연임제”",
+      "link": "https://www.chosun.com/economy/economy_general/2025/08/15/M3N3PFY66WC42TRMRAXTF6LNLY/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Thu, 14 Aug 2025 00:44:44 +0000",
+      "publishedAt": "Thu, 14 Aug 2025 22:06:00 +0000",
       "summary": null
     },
     {
-      "id": "한국경제신문-1755133121931-3",
-      "title": "\"점주 피해 심각\"…백종원, 악의적 유튜버에 칼 빼든다",
-      "link": "https://www.hankyung.com/article/202508140120g",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Thu, 14 Aug 2025 09:43:58 +0900",
-      "summary": null
-    },
-    {
-      "id": "조선일보-1755133122883-11",
-      "title": "키움증권, ‘우리아이 미국주식 더 모으기’ 이벤트 기간 연장",
-      "link": "https://www.chosun.com/economy/stock-finance/2025/08/14/GNPBX3GSSWAOBYAEMA3K2V76PU/",
+      "id": "조선일보-1755219532571-2",
+      "title": "“하려는 의지만 있으면 일은 반드시 이루어진다” AI가 구현한 김구 육성",
+      "link": "https://www.chosun.com/economy/tech_it/2025/08/15/5MT2QGZLB5DI5FIQ6D5KFGCVEQ/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Thu, 14 Aug 2025 00:43:49 +0000",
+      "publishedAt": "Thu, 14 Aug 2025 22:00:00 +0000",
       "summary": null
     },
     {
-      "id": "한국경제신문-1755133121931-4",
-      "title": "반도문화재단, 방학 맞아 샌드아트 공연·체험 프로그램 진행",
-      "link": "https://www.hankyung.com/article/2025081402746",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Thu, 14 Aug 2025 09:42:37 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1755133121931-5",
-      "title": "\"수치가 말도 안 돼\"…'케이팝 데몬 헌터스' 어디까지 올라가나",
-      "link": "https://www.hankyung.com/article/202508140214H",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Thu, 14 Aug 2025 09:40:00 +0900",
-      "summary": null
-    },
-    {
-      "id": "조선일보-1755133122883-12",
-      "title": "[특징주] 보안 설루션 기업 ‘지슨’, 코스닥 이전 상장 첫날 19%대 하락",
-      "link": "https://www.chosun.com/economy/stock-finance/2025/08/14/PJ3M3GANQXSKN34B2OY3HXKDCM/",
+      "id": "조선일보-1755219532571-11",
+      "title": "“말하려 안 해도 생각이 읽혀”…최대 74% 정확도",
+      "link": "https://www.chosun.com/economy/science/2025/08/15/QF5OOMHNLM4B4SG7BBIOFFXWMM/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Thu, 14 Aug 2025 00:38:53 +0000",
+      "publishedAt": "Thu, 14 Aug 2025 21:00:01 +0000",
       "summary": null
     },
     {
-      "id": "한국경제신문-1755133121931-6",
-      "title": "[속보] '평양 무인기 의혹' 김용대 드론사령관 내란특검 출석",
-      "link": "https://www.hankyung.com/article/2025081402737",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Thu, 14 Aug 2025 09:38:47 +0900",
-      "summary": null
-    },
-    {
-      "id": "조선일보-1755133122883-14",
-      "title": "오케스트로, 9월 ‘솔루션데이 2025’ 개최… AI·클라우드 전략 공개",
-      "link": "https://www.chosun.com/economy/tech_it/2025/08/14/G5XM4NTOKOASH3AJ7LXUF4DWPM/",
+      "id": "조선일보-1755219532571-12",
+      "title": "미국에서만 연 매출 1000억... 92년생이 만든 K-뷰티 기업, 상장 도전",
+      "link": "https://www.chosun.com/economy/stock-finance/2025/08/15/2C7R2W5555RVPPLIDQBIQGTC6I/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Thu, 14 Aug 2025 00:38:29 +0000",
+      "publishedAt": "Thu, 14 Aug 2025 21:00:01 +0000",
       "summary": null
     },
     {
-      "id": "한국경제신문-1755133121931-7",
-      "title": "[속보] 드론사령관 \"'합참 패싱' 있을수 없어…의장·작전본부장 보고\"",
-      "link": "https://www.hankyung.com/article/2025081402717",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Thu, 14 Aug 2025 09:38:13 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1755133121931-8",
-      "title": "\"4일 만에 4억\" 임영웅 화력에 '깜짝'…판 벌린 네이버 일냈다",
-      "link": "https://www.hankyung.com/article/202508149970g",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Thu, 14 Aug 2025 09:35:10 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1755133121931-9",
-      "title": "추성훈의 광기? 이은지 \"여기서 10년 일한 사람 같아\" 감탄한 이유",
-      "link": "https://www.hankyung.com/article/202508140242H",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Thu, 14 Aug 2025 09:34:07 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1755133121931-10",
-      "title": "네이버웹툰 모회사 81% 치솟자, 국내 웹툰주도 '들썩'",
-      "link": "https://www.hankyung.com/article/2025081402176",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Thu, 14 Aug 2025 09:33:19 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1755133121931-11",
-      "title": "'대통령실 큰형님' 우상호 \"너무 바빠, 머리 빠진다\"",
-      "link": "https://www.hankyung.com/article/2025081400807",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Thu, 14 Aug 2025 09:32:27 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1755133121931-12",
-      "title": "\"재밌네\"…류준열·혜리 진흙탕 결별했는데, 누굴 위한 '응팔' 10주년 MT",
-      "link": "https://www.hankyung.com/article/202508140121H",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Thu, 14 Aug 2025 09:30:34 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1755133121931-13",
-      "title": "김건희특검, 국민의힘 당원명부 확보 실패…압수수색 철수",
-      "link": "https://www.hankyung.com/article/2025081402237",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Thu, 14 Aug 2025 09:30:00 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1755133121931-14",
-      "title": "[부고] 최진일 이마트24 대표 빙부상",
-      "link": "https://www.hankyung.com/article/202508140169g",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Thu, 14 Aug 2025 09:28:33 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1755133121931-15",
-      "title": "스위스 물가 무섭다더니…속도위반 벌금 '1.5억원' 발칵",
-      "link": "https://www.hankyung.com/article/2025081401347",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Thu, 14 Aug 2025 09:25:34 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1755133121931-16",
-      "title": "코스피, 미 금리인하 기대감 속 상승 출발…외인·기관 '사자'",
-      "link": "https://www.hankyung.com/article/2025081401106",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Thu, 14 Aug 2025 09:23:37 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1755133121931-17",
-      "title": "구혜선에 '이혼 소비' 저격 당한 안재현, 의미심장 발언",
-      "link": "https://www.hankyung.com/article/202508140145H",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Thu, 14 Aug 2025 09:22:22 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1755133121931-18",
-      "title": "벤츠코리아, 하반기 'AMG 및 SUV 익스피리언스' 참가 신청 오픈",
-      "link": "https://www.hankyung.com/article/202508140184g",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Thu, 14 Aug 2025 09:21:59 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1755133121931-19",
-      "title": "\"땡큐, 스트레이키즈\"…JYP엔터, 사상 최대 분기 실적에 '급등'",
-      "link": "https://www.hankyung.com/article/2025081401646",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Thu, 14 Aug 2025 09:17:44 +0900",
-      "summary": null
-    },
-    {
-      "id": "조선일보-1755133122883-13",
-      "title": "도로·항만 예타 기준 26년 만에 완화… 사업비 기준 500억→1000억",
-      "link": "https://www.chosun.com/economy/economy_general/2025/08/15/T2LYSGVDZBGTJL7KJWDBNBDJIE/",
+      "id": "조선일보-1755219532571-13",
+      "title": "한국에서 가장 맛있는 복숭아가 나는 곳",
+      "link": "https://www.chosun.com/economy/startup_story/2025/08/15/IZHJ2NPPXVDABHOGSMQ7STPQMU/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Wed, 13 Aug 2025 23:52:29 +0000",
+      "publishedAt": "Thu, 14 Aug 2025 21:00:01 +0000",
       "summary": null
     },
     {
-      "id": "조선일보-1755133122883-0",
-      "title": "배터리 충전 대신 구독… “전기 택시 年610만원 아껴”",
-      "link": "https://www.chosun.com/economy/auto/2025/08/14/OO6V6JLDXRC4PIBCYI5NZFMRKI/",
+      "id": "조선일보-1755219532571-14",
+      "title": "예전보다 민감한 건설사 평판 리스크... 포스코이앤씨, 벌써 신용등급 하향 조정 경고등",
+      "link": "https://www.chosun.com/economy/stock-finance/2025/08/15/HNYAXCMNL3XWQANDLFKIANJRUI/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Wed, 13 Aug 2025 15:34:00 +0000",
+      "publishedAt": "Thu, 14 Aug 2025 21:00:01 +0000",
       "summary": null
     },
     {
-      "id": "조선일보-1755133122883-2",
-      "title": "美 7월 소비자물가 전문가 예상보다 낮아… 베선트 재무, 연준에 9월 금리 ‘빅 컷’ 압박",
-      "link": "https://www.chosun.com/economy/int_economy/2025/08/14/3VGNAG7MC5GHJJVP5VDMFSNTIY/",
+      "id": "조선일보-1755219532571-8",
+      "title": "광복 80년 대장정… 식민지 벗어난 신생국이 세계 6위 강국으로",
+      "link": "https://www.chosun.com/economy/economy_general/2025/08/16/PGOJVJ2IWFBKBOXAR762MONGJU/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Wed, 13 Aug 2025 15:33:00 +0000",
+      "publishedAt": "Thu, 14 Aug 2025 16:01:21 +0000",
       "summary": null
     },
     {
-      "id": "조선일보-1755133122883-5",
-      "title": "퍼플렉시티 “구글 크롬, 48조원에 사겠다”",
-      "link": "https://www.chosun.com/economy/tech_it/2025/08/14/CXUR4XISPFHUPED67PAO5KEQME/",
+      "id": "조선일보-1755219532571-7",
+      "title": "해조류 수출하다 이젠 반도체·車·방산… “한국은 민주주의 무기고”",
+      "link": "https://www.chosun.com/economy/economy_general/2025/08/16/ZYM3DCNAERHAXOISGEUPQXKV7A/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Wed, 13 Aug 2025 15:32:00 +0000",
+      "publishedAt": "Thu, 14 Aug 2025 16:00:49 +0000",
       "summary": null
     },
     {
-      "id": "조선일보-1755133122883-6",
-      "title": "산업硏 “관세 영향 올해 對美 수출액 작년보다 10% 줄어들 듯”",
-      "link": "https://www.chosun.com/economy/industry-company/2025/08/14/NBGLGHQ7Q5D75NBESDW2BNNQWY/",
+      "id": "조선일보-1755219532571-1",
+      "title": "[주요경제지표] 2025년 8월 14일자",
+      "link": "https://www.chosun.com/economy/stock-finance/2025/08/15/XLVGH6JOGRENZIVE3XTFVYL464/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Wed, 13 Aug 2025 15:32:00 +0000",
+      "publishedAt": "Thu, 14 Aug 2025 15:53:00 +0000",
       "summary": null
     },
     {
-      "id": "조선일보-1755133122883-7",
-      "title": "이마트의 ‘다이소 버전’… 5000원 이하 브랜드 내놔",
-      "link": "https://www.chosun.com/economy/market_trend/2025/08/14/JGWGCUSJ4VBS5CUYORM4DZMSBI/",
+      "id": "조선일보-1755219532571-5",
+      "title": "4大 석화 1년내 갚을 빚 20조… 은행 “밑 빠진 독 물 붓기”",
+      "link": "https://www.chosun.com/economy/economy_general/2025/08/15/DWZEKJ66IRHPHOWMV55ONKYEDI/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Wed, 13 Aug 2025 15:31:00 +0000",
+      "publishedAt": "Thu, 14 Aug 2025 15:53:00 +0000",
       "summary": null
     },
     {
-      "id": "조선일보-1755133122883-9",
-      "title": "[주요경제지표] 2025년 8월 13일자",
-      "link": "https://www.chosun.com/economy/stock-finance/2025/08/14/IWQ5EYUVUVGG5IXMOVMZTKW4V4/",
+      "id": "조선일보-1755219532571-0",
+      "title": "에이즈, 라임병, 알츠하이머까지... 혈액 한방울이면 진단한다",
+      "link": "https://www.chosun.com/economy/science/2025/08/15/A5CETNURAVGYXES6QTBKN46AMM/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Wed, 13 Aug 2025 15:31:00 +0000",
+      "publishedAt": "Thu, 14 Aug 2025 02:48:04 +0000",
       "summary": null
     },
     {
-      "id": "조선일보-1755133122883-10",
-      "title": "기술 빼앗긴 中企, ‘구제 門’ 넓어진다",
-      "link": "https://www.chosun.com/economy/industry-company/2025/08/14/KY3323GROVHGPENINJOMZWYB5M/",
+      "id": "조선일보-1755219532571-9",
+      "title": "새 사업 시작한 ‘오픈AI 마피아’들, AI 산업 쥐락펴락",
+      "link": "https://www.chosun.com/economy/tech_it/2025/07/17/SFRIBOMWXZGVNOY7L53TP7NY5Q/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Wed, 13 Aug 2025 15:31:00 +0000",
+      "publishedAt": "Wed, 16 Jul 2025 15:32:00 +0000",
       "summary": null
     }
   ]
