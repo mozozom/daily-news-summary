@@ -1,319 +1,319 @@
 {
-  "lastUpdated": "2025-09-28T00:57:41.574Z",
+  "lastUpdated": "2025-09-29T00:53:59.153Z",
   "articles": [
     {
-      "id": "조선일보-1759021057007-0",
-      "title": "여한구, 관세협상 관련 “美 측에 상업적 합리성·실현 가능성 강조\"",
-      "link": "https://www.chosun.com/economy/economy_general/2025/09/28/PLNCQD6JVBSJLC5RSBQ3SYFDSQ/",
+      "id": "조선일보-1759107234392-0",
+      "title": "국내 은행들 “주민등록증으로 신분 확인이 필요한 업무는 차질”",
+      "link": "https://www.chosun.com/economy/economy_general/2025/09/29/Y3JXKR4MVNESLI4FL2Q2TPVGGM/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Sun, 28 Sep 2025 00:49:05 +0000",
+      "publishedAt": "Mon, 29 Sep 2025 00:48:10 +0000",
       "summary": null
     },
     {
-      "id": "조선일보-1759021057007-1",
-      "title": "삼성전기, 중국서 ‘2025 SAT’ 개최… 글로벌 車 고객사와 교류",
-      "link": "https://www.chosun.com/economy/tech_it/2025/09/28/C2CGKR364DGWCX3XSZ5WLEAAZI/",
+      "id": "한국경제신문-1759107234095-0",
+      "title": "'나홀로 임신' 이시영, 둘째는 \"공주님\"",
+      "link": "https://www.hankyung.com/article/202509294060H",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Mon, 29 Sep 2025 09:47:55 +0900",
+      "summary": null
+    },
+    {
+      "id": "조선일보-1759107234392-2",
+      "title": "S2W, 최고 권위 보안 행사서 북한 배후 해커그룹 공격 사례 발표",
+      "link": "https://www.chosun.com/economy/tech_it/2025/09/29/G6QKKU6UYVOWABENVDUOF4BLDI/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Sun, 28 Sep 2025 00:43:35 +0000",
+      "publishedAt": "Mon, 29 Sep 2025 00:46:40 +0000",
       "summary": null
     },
     {
-      "id": "조선일보-1759021057007-2",
-      "title": "LS 퓨처데이 개최… 구자은 회장 “세계 질서 변화 대응에 성패 달렸다”",
-      "link": "https://www.chosun.com/economy/industry-company/2025/09/28/UEPPIOIC2TAJ3PBQVR6PFOVOZA/",
+      "id": "조선일보-1759107234392-3",
+      "title": "벤처기업 10곳 중 7곳 수도권에…“쏠림 심화”",
+      "link": "https://www.chosun.com/economy/smb-venture/2025/09/29/DLVGLYVN4VYZEX24AYLVAYXHAM/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Sun, 28 Sep 2025 00:40:17 +0000",
+      "publishedAt": "Mon, 29 Sep 2025 00:46:17 +0000",
       "summary": null
     },
     {
-      "id": "조선일보-1759021057007-4",
-      "title": "추석 성수품 21종 가격 안정세… 채솟값은 내리고 소고깃값은 올라",
-      "link": "https://www.chosun.com/economy/market_trend/2025/09/28/3XDAOHQE3YGR6HJ6AMBHRF7NBU/",
+      "id": "조선일보-1759107234392-4",
+      "title": "[특징주] 네이버, 두나무와 합병 기대감에 3거래일 연속 강세",
+      "link": "https://www.chosun.com/economy/stock-finance/2025/09/29/ZK62F3MKAE26PF6OR6GE73VSU4/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Sun, 28 Sep 2025 00:37:24 +0000",
+      "publishedAt": "Mon, 29 Sep 2025 00:44:57 +0000",
       "summary": null
     },
     {
-      "id": "조선일보-1759021057007-5",
-      "title": "삼성전자서비스, 엔지니어 전문성 강화로 정부 인증·우수사례 선정",
-      "link": "https://www.chosun.com/economy/tech_it/2025/09/28/6SANABYPSR7LUEXWU3KZUIDMJY/",
+      "id": "한국경제신문-1759107234095-1",
+      "title": "이승윤, '부산국제록페스티벌' 3년 연속 달궜다…콘서트급 '열정'",
+      "link": "https://www.hankyung.com/article/202509294109H",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Mon, 29 Sep 2025 09:41:31 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1759107234095-2",
+      "title": "뉴로핏, '뉴로핏 아쿠아' 임상 유효성 입증한 연구 성과 국제학술지 게재",
+      "link": "https://www.hankyung.com/article/202509294050i",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Mon, 29 Sep 2025 09:40:04 +0900",
+      "summary": null
+    },
+    {
+      "id": "조선일보-1759107234392-6",
+      "title": "치과용 레진 3D 프린팅, 빛과 AI로 내구성·경제성 모두 잡았다",
+      "link": "https://www.chosun.com/economy/science/2025/09/29/YPK3RY7YOTZCIBTQU4OWDXWVZI/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Sun, 28 Sep 2025 00:37:09 +0000",
+      "publishedAt": "Mon, 29 Sep 2025 00:38:47 +0000",
       "summary": null
     },
     {
-      "id": "조선일보-1759021057007-6",
-      "title": "국회 행안위, 오늘 대전 국정자원 화재 현장 방문",
-      "link": "https://www.chosun.com/economy/economy_general/2025/09/28/SI2N32XCOT2EBMBM2NVYXPBRDE/",
+      "id": "한국경제신문-1759107234095-3",
+      "title": "금융위·금감원장 \"뼈 깎는 각오로 금융행정·감독 전면 쇄신\"",
+      "link": "https://www.hankyung.com/article/2025092940566",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Mon, 29 Sep 2025 09:36:26 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1759107234095-4",
+      "title": "지아이이노베이션, GI-102의 美FDA 패스트트랙 지정에 강세",
+      "link": "https://www.hankyung.com/article/2025092940826",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Mon, 29 Sep 2025 09:35:35 +0900",
+      "summary": null
+    },
+    {
+      "id": "조선일보-1759107234392-8",
+      "title": "삼성전자, 40개국 도요타 전시장에 스마트 사이니지 공급",
+      "link": "https://www.chosun.com/economy/tech_it/2025/09/29/Z3YPPP7OWDTDI4KAGRVFU6MQOY/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Sun, 28 Sep 2025 00:33:33 +0000",
+      "publishedAt": "Mon, 29 Sep 2025 00:35:29 +0000",
       "summary": null
     },
     {
-      "id": "조선일보-1759021057007-7",
-      "title": "삼성전자 무선청소기, 미국·유럽 소비자 매체 평가 1위",
-      "link": "https://www.chosun.com/economy/tech_it/2025/09/28/QWCN2RQRYHUFD2TCEZ33NQJHLY/",
+      "id": "한국경제신문-1759107234095-5",
+      "title": "씨티씨바이오, 파마리서치의 보유 지분 매각 소식에 '급락'",
+      "link": "https://www.hankyung.com/article/2025092940616",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Mon, 29 Sep 2025 09:34:16 +0900",
+      "summary": null
+    },
+    {
+      "id": "조선일보-1759107234392-9",
+      "title": "2분기 건설공사 계약액 63조5000억원… 전년比 4.8% 증가",
+      "link": "https://www.chosun.com/economy/real_estate/2025/09/29/EWC7C4PRCKUNCQVGXCXKITPPHE/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Sun, 28 Sep 2025 00:30:13 +0000",
+      "publishedAt": "Mon, 29 Sep 2025 00:32:45 +0000",
       "summary": null
     },
     {
-      "id": "한국경제신문-1759021055832-0",
-      "title": "[속보] \"항온항습기 복구 시작…오늘 551개 서비스 순차 재가동\"",
-      "link": "https://www.hankyung.com/article/2025092824057",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Sun, 28 Sep 2025 09:23:53 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1759021055832-1",
-      "title": "[속보] \"국정자원 네트워크 장비 50%·핵심 보안장비 99% 재가동 완료\"",
-      "link": "https://www.hankyung.com/article/2025092824047",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Sun, 28 Sep 2025 09:22:42 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1759021055832-2",
-      "title": "김장겸 \"이진숙 축출법 반대…방송 장악 완결판\"",
-      "link": "https://www.hankyung.com/article/2025092823967",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Sun, 28 Sep 2025 09:17:58 +0900",
-      "summary": null
-    },
-    {
-      "id": "조선일보-1759021057007-8",
-      "title": "이틀 새 8조원 사지 않으면… 개미 3분기 순매도, ‘역대 최대’ 전망",
-      "link": "https://www.chosun.com/economy/stock-finance/2025/09/28/GTYUI377EX2JEBHS4PUXR5DYZQ/",
+      "id": "조선일보-1759107234392-10",
+      "title": "[특징주] 알테오젠, 코스피 이전 상장 본격화에 강세",
+      "link": "https://www.chosun.com/economy/stock-finance/2025/09/29/34FTND7ME2APBOPY2TWRWTSPAU/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Sun, 28 Sep 2025 00:13:41 +0000",
+      "publishedAt": "Mon, 29 Sep 2025 00:32:18 +0000",
       "summary": null
     },
     {
-      "id": "조선일보-1759021057007-9",
-      "title": "문래동4가 재개발사업 시공사에 삼성물산 컨소시엄…서남권 랜드마크 ‘문래 네이븐(Naven)’ 조성",
-      "link": "https://www.chosun.com/economy/real_estate/2025/09/28/QRENODZZKAAIK3I4QNPLRI5UP4/",
+      "id": "조선일보-1759107234392-11",
+      "title": "[특징주] 가을 전어철엔 배당주… 은행·증권주 강세",
+      "link": "https://www.chosun.com/economy/stock-finance/2025/09/29/M7B2ALYAGXGAL3XD2G5NUXXVGE/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Sun, 28 Sep 2025 00:13:39 +0000",
+      "publishedAt": "Mon, 29 Sep 2025 00:29:42 +0000",
       "summary": null
     },
     {
-      "id": "한국경제신문-1759021055832-3",
-      "title": "[속보] 대이란 안보리 제재 복원…美 \"모든 국가 이행해야\"",
-      "link": "https://www.hankyung.com/article/2025092823907",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Sun, 28 Sep 2025 09:09:47 +0900",
-      "summary": null
-    },
-    {
-      "id": "조선일보-1759021057007-10",
-      "title": "국정자원 화재에… 증권사 “운전면허증 이용하세요”",
-      "link": "https://www.chosun.com/economy/stock-finance/2025/09/28/BMB3C3MRJ7AJKVKWIDBWOU34EA/",
+      "id": "조선일보-1759107234392-12",
+      "title": "빙그레, 세계 최대 식품 박람회 ‘ANUGA 2025’ 참여",
+      "link": "https://www.chosun.com/economy/market_trend/2025/09/29/B4APRU2HTBZ4NMEROCPY72ZFWA/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Sun, 28 Sep 2025 00:02:38 +0000",
+      "publishedAt": "Mon, 29 Sep 2025 00:28:39 +0000",
       "summary": null
     },
     {
-      "id": "한국경제신문-1759021055832-4",
-      "title": "무면허 도매상 직원으로 위장한 주류업체 제재했더니 소송…결과는",
-      "link": "https://www.hankyung.com/article/202509272105i",
+      "id": "한국경제신문-1759107234095-6",
+      "title": "'13억 로또 아파트' 10만명 몰리더니…6일 만에 완판",
+      "link": "https://www.hankyung.com/article/2025092940016",
       "source": "한국경제신문",
       "category": "경제",
-      "publishedAt": "Sun, 28 Sep 2025 09:00:05 +0900",
+      "publishedAt": "Mon, 29 Sep 2025 09:28:29 +0900",
       "summary": null
     },
     {
-      "id": "한국경제신문-1759021055832-5",
-      "title": "\"마약류 폐해 심각\"…7억 상당 케타민 밀수책 징역 10년 확정",
-      "link": "https://www.hankyung.com/article/202509272096i",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Sun, 28 Sep 2025 09:00:04 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1759021055832-6",
-      "title": "[단독] '국가보훈돌'에 혈세 4억원…일부 유공자들 반발",
-      "link": "https://www.hankyung.com/article/2025092823277",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Sun, 28 Sep 2025 08:59:45 +0900",
-      "summary": null
-    },
-    {
-      "id": "조선일보-1759021057007-11",
-      "title": "정부 전산망 장애로 온라인 부동산거래 신고도 마비…국토부, 29일부터 방문 신고 요청",
-      "link": "https://www.chosun.com/economy/real_estate/2025/09/28/LE5EYUDPUL5UCOS4L2MADN4D2A/",
+      "id": "조선일보-1759107234392-13",
+      "title": "틱톡 “K-브랜드 글로벌 진출 돕겠다”",
+      "link": "https://www.chosun.com/economy/tech_it/2025/09/29/DNIIXGFS5EGXSHF44O5NEO5JQU/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Sat, 27 Sep 2025 23:48:26 +0000",
+      "publishedAt": "Mon, 29 Sep 2025 00:28:08 +0000",
       "summary": null
     },
     {
-      "id": "한국경제신문-1759021055832-7",
-      "title": "양치승 앞에서 \"가슴 만져보고 싶다\"…CCTV 공개 충격",
-      "link": "https://www.hankyung.com/article/2025092823097",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Sun, 28 Sep 2025 08:12:13 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1759021055832-8",
-      "title": "파월 \"주식 비싸다\" 한 마디에…민감도 높아진 코스피 [주간전망]",
-      "link": "https://www.hankyung.com/article/2025092719106",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Sun, 28 Sep 2025 08:00:04 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1759021055832-9",
-      "title": "이준석 \"검찰청 해체, 개혁 아닌 스포츠…광우병 시위 떠올라\"",
-      "link": "https://www.hankyung.com/article/2025092822717",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Sun, 28 Sep 2025 07:52:36 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1759021055832-10",
-      "title": "전유성 오늘 영면…'1호 개그맨' 하늘로",
-      "link": "https://www.hankyung.com/article/2025092822617",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Sun, 28 Sep 2025 07:40:32 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1759021055833-11",
-      "title": "아직도 '국장 탈출은 지능 순'?…코스피 떠난 개미들",
-      "link": "https://www.hankyung.com/article/2025092822557",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Sun, 28 Sep 2025 07:28:46 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1759021055833-12",
-      "title": "일요일 전국 가을 비…오후부터 그쳐 [날씨]",
-      "link": "https://www.hankyung.com/article/2025092822337",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Sun, 28 Sep 2025 07:11:22 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1759021055833-13",
-      "title": "\"우승할 자신 있다\"…'해피엔딩' 원하는 피넛 한왕호 [이주현의 로그인 e스포츠]",
-      "link": "https://www.hankyung.com/article/202509245509i",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Sun, 28 Sep 2025 07:00:06 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1759021055833-14",
-      "title": "\"9000원 주식이 3만원 찍었다\"…'700억 부자' 회사 정체는 [윤현주의 主食이 주식]",
-      "link": "https://www.hankyung.com/article/202508198274i",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Sun, 28 Sep 2025 07:00:03 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1759021055833-15",
-      "title": "영국 음식은 맛없다?…편견 깨준 '슈퍼마켓 맛집' [걸어서 세계주식 속으로]",
-      "link": "https://www.hankyung.com/article/202509229107i",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Sun, 28 Sep 2025 07:00:01 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1759021055833-16",
-      "title": "\"170에 60kg은 탈락?\"…승무원 준비생들의 '키빼몸' 공식 [이슈+]",
-      "link": "https://www.hankyung.com/article/2025092699027",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Sun, 28 Sep 2025 06:58:21 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1759021055833-17",
-      "title": "\"독일 뮌헨 여행 '필수 코스' 됐다\"…年 300만명 찾는 곳 [모빌리티톡]",
-      "link": "https://www.hankyung.com/article/202509260448g",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Sun, 28 Sep 2025 06:30:03 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1759021055833-18",
-      "title": "\"제2의 국민연금은 싫다\"…'국가주도' 퇴직연금 못믿는 2030 [곽용희의 인사노무노트]",
-      "link": "https://www.hankyung.com/article/202509272077i",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Sun, 28 Sep 2025 06:00:04 +0900",
-      "summary": null
-    },
-    {
-      "id": "조선일보-1759021057007-12",
-      "title": "[스타트UP] 국내 운용 1호 전기비행기 ‘눈앞’…30분 항공 네트워크 구축 ‘토프모빌리티’",
-      "link": "https://www.chosun.com/economy/smb-venture/2025/09/28/RHNFTFZMLU26NV75HFS7DYIU74/",
+      "id": "조선일보-1759107234392-14",
+      "title": "한화생명, 남성 담보 특약 3종 배타적사용권 획득",
+      "link": "https://www.chosun.com/economy/stock-finance/2025/09/29/DTAECWXTBRB6FL73U7X5MAUM74/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Sat, 27 Sep 2025 21:00:01 +0000",
+      "publishedAt": "Mon, 29 Sep 2025 00:27:54 +0000",
       "summary": null
     },
     {
-      "id": "조선일보-1759021057007-13",
-      "title": "[스타트UP] 여성 탈모 케어 제품으로 美 진출 나선 ‘레이어스코스메틱’",
-      "link": "https://www.chosun.com/economy/smb-venture/2025/09/28/B7NZ47AA34ZCQ6YAIVVIHGDIBU/",
-      "source": "조선일보",
-      "category": "경제",
-      "publishedAt": "Sat, 27 Sep 2025 21:00:01 +0000",
-      "summary": null
-    },
-    {
-      "id": "조선일보-1759021057007-14",
-      "title": "공사비 15% 올라도 분담금 줄었다…'포레나' 달고 날아오르는 상계주공5",
-      "link": "https://www.chosun.com/economy/realty/redevelop/2025/09/28/GRTHMA5IQWWKTH6MN6CNZNWS3E/",
-      "source": "조선일보",
-      "category": "경제",
-      "publishedAt": "Sat, 27 Sep 2025 21:00:00 +0000",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1759021055833-19",
-      "title": "김민석 총리, 정보자원관리원 화재현장 방문…\"언제 복구될지 불명\"",
-      "link": "https://www.hankyung.com/article/202509282121i",
+      "id": "한국경제신문-1759107234095-7",
+      "title": "국정자원 전산망 화재에…시스템복구 관련株 동반 '급등'",
+      "link": "https://www.hankyung.com/article/2025092939596",
       "source": "한국경제신문",
       "category": "경제",
-      "publishedAt": "Sun, 28 Sep 2025 00:18:50 +0900",
+      "publishedAt": "Mon, 29 Sep 2025 09:25:37 +0900",
       "summary": null
     },
     {
-      "id": "조선일보-1759021057007-3",
-      "title": "‘우주 보물섬’ 찾아라… 달에 매장된 헬륨3는 2경달러 가치",
-      "link": "https://www.chosun.com/economy/weeklybiz/2025/09/25/Z4V7AG5U5VG67DKJZJGWZWMUUA/",
+      "id": "한국경제신문-1759107234095-8",
+      "title": "4주간 5만명 봤다…'노트르담 드 파리' 서울 공연 끝 지방투어 돌입",
+      "link": "https://www.hankyung.com/article/202509294002H",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Mon, 29 Sep 2025 09:21:03 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1759107234095-9",
+      "title": "[한경 매물마당] 종로 익선동 한옥 건물 경매 등 6건",
+      "link": "https://www.hankyung.com/article/2025092831321",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Mon, 29 Sep 2025 09:18:36 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1759107234095-10",
+      "title": "전국 흐린 가을 하늘…내륙 곳곳 소나기 [내일 날씨]",
+      "link": "https://www.hankyung.com/article/202509293997i",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Mon, 29 Sep 2025 09:15:40 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1759107234095-11",
+      "title": "[속보] \"전소된 96개 시스템 즉각 재가동 어려워…대구서 복구\"",
+      "link": "https://www.hankyung.com/article/2025092939927",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Mon, 29 Sep 2025 09:14:17 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1759107234095-12",
+      "title": "한양증권 PB 55% \"추석 뒤 주가 상승\"…반도체·바이오 유망",
+      "link": "https://www.hankyung.com/article/202509293963i",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Mon, 29 Sep 2025 09:12:45 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1759107234095-13",
+      "title": "코스피, 美금리 인하 기대 회복에 1%대 반등…3420선 재진입",
+      "link": "https://www.hankyung.com/article/2025092939306",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Mon, 29 Sep 2025 09:12:43 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1759107234095-14",
+      "title": "[속보] 정부 \"중단됐던 행정정보시스템 중 45개 복구 완료\"",
+      "link": "https://www.hankyung.com/article/2025092939687",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Mon, 29 Sep 2025 09:09:26 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1759107234095-15",
+      "title": "롯데주주 소액주주의 반란…자사주 전략 소각 요구",
+      "link": "https://www.hankyung.com/article/202509293911i",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Mon, 29 Sep 2025 09:06:59 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1759107234095-16",
+      "title": "호불호 갈렸던 '어쩔수가없다' 107만 돌파…박찬욱·이병헌 '이름값' 증명",
+      "link": "https://www.hankyung.com/article/202509293923H",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Mon, 29 Sep 2025 09:05:21 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1759107234095-17",
+      "title": "국정자원 화재가 소상공인 자금줄도 끊었다…서울신보 '마비'",
+      "link": "https://www.hankyung.com/article/2025092938907",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Mon, 29 Sep 2025 09:04:34 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1759107234095-18",
+      "title": "아시아나항공, '국군의 날' 특별 프로모션…국제선 최대 20% 할인",
+      "link": "https://www.hankyung.com/article/202509293910g",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Mon, 29 Sep 2025 09:02:53 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1759107234095-19",
+      "title": "경기주택도시공사, 적금주택 모듈러주택 냉난방비 제로 등 다양한 주거 선봬 [집코노미 박람회 2025]",
+      "link": "https://www.hankyung.com/article/202509293891i",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Mon, 29 Sep 2025 08:58:26 +0900",
+      "summary": null
+    },
+    {
+      "id": "조선일보-1759107234392-7",
+      "title": "오늘부터 중국인 단체 관광객 무비자 입국 시작… 유통·관광·호텔 업계, ‘특수’ 잡기 돌입",
+      "link": "https://www.chosun.com/economy/market_trend/2025/09/29/IFEAT6REQBB5NH77T7YYJ2RYX4/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Thu, 25 Sep 2025 09:07:46 +0000",
+      "publishedAt": "Sun, 28 Sep 2025 15:31:00 +0000",
+      "summary": null
+    },
+    {
+      "id": "조선일보-1759107234392-1",
+      "title": "CJ대한통운, 美 캔자스주 콜드체인 물류센터 오픈… 이틀 내 미국 85% 지역 도달",
+      "link": "https://www.chosun.com/economy/market_trend/2025/09/28/IAPUUPPXKRACLJCX7HSUYXCS5M/",
+      "source": "조선일보",
+      "category": "경제",
+      "publishedAt": "Sun, 28 Sep 2025 03:12:57 +0000",
+      "summary": null
+    },
+    {
+      "id": "조선일보-1759107234392-5",
+      "title": "“노후 적정 생활비 월 350만원” 현실은 120만원 모자란다",
+      "link": "https://www.chosun.com/economy/economy_general/2025/09/28/LVDOO6JIERDABKKPSLRISPQVGA/",
+      "source": "조선일보",
+      "category": "경제",
+      "publishedAt": "Sun, 28 Sep 2025 01:40:46 +0000",
       "summary": null
     }
   ]
