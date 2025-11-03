@@ -1,319 +1,319 @@
 {
-  "lastUpdated": "2025-11-02T00:58:55.255Z",
+  "lastUpdated": "2025-11-03T00:58:14.817Z",
   "articles": [
     {
-      "id": "조선일보-1762045130522-0",
-      "title": "지선 앞두고 ‘선심성 조세지출’ 늘어날까… 기재위 조세소위 이달 가동",
-      "link": "https://www.chosun.com/economy/economy_general/2025/11/02/JKYUDI5ZYMVWW55JAIF5O5CC3E/",
+      "id": "조선일보-1762131491610-0",
+      "title": "넥슨게임즈, 넥슨재단과 함께 ‘영케어러’ 지원 위해 1억원 기부",
+      "link": "https://www.chosun.com/economy/tech_it/2025/11/03/LAQ6UPS4W6MLW3WACEA5EA27WE/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Sun, 02 Nov 2025 00:52:39 +0000",
+      "publishedAt": "Mon, 03 Nov 2025 00:53:26 +0000",
       "summary": null
     },
     {
-      "id": "조선일보-1762045130522-1",
-      "title": "W컨셉, 메타 협력광고 도입… “파트너사 마케팅 지원”",
-      "link": "https://www.chosun.com/economy/market_trend/2025/11/02/NUFFSLIGGVH5CTUSEZP4Y2DCOU/",
+      "id": "한국경제신문-1762131491414-0",
+      "title": "현대오토에버, '엔비디아 AI 동맹' 수혜 기대감에 급등",
+      "link": "https://www.hankyung.com/article/2025110395196",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Mon, 03 Nov 2025 09:53:24 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1762131491414-1",
+      "title": "엔씨소프트, '아이온2' 출시 기대감에 3%대 강세",
+      "link": "https://www.hankyung.com/article/2025110394376",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Mon, 03 Nov 2025 09:53:04 +0900",
+      "summary": null
+    },
+    {
+      "id": "조선일보-1762131491611-4",
+      "title": "'인하대역 수자인 로이센트' 견본주택에 3일간 2만명 몰려",
+      "link": "https://www.chosun.com/economy/realty/apartment_sales/2025/11/03/CPARVMZO73FW6ECM6RZGCCFU2I/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Sun, 02 Nov 2025 00:50:49 +0000",
+      "publishedAt": "Mon, 03 Nov 2025 00:51:57 +0000",
       "summary": null
     },
     {
-      "id": "조선일보-1762045130522-2",
-      "title": "갭투자 막히자 전세대출 급감…1년 반 만에 최대 폭으로 떨어져",
-      "link": "https://www.chosun.com/economy/stock-finance/2025/11/02/YYUCNELNJPBKYWT2UVRHU4WL54/",
+      "id": "조선일보-1762131491611-5",
+      "title": "크래프톤 배틀그라운드, 포르쉐와 글로벌 협업 진행",
+      "link": "https://www.chosun.com/economy/tech_it/2025/11/03/4WOYQITQKM6EPSMZWS6UFY3NVI/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Sun, 02 Nov 2025 00:48:14 +0000",
+      "publishedAt": "Mon, 03 Nov 2025 00:50:58 +0000",
       "summary": null
     },
     {
-      "id": "조선일보-1762045130522-3",
-      "title": "KT, 무약정 요금제 ‘요고’ 혜택 다양화…“이용자가 제휴사 포인트 선택”",
-      "link": "https://www.chosun.com/economy/tech_it/2025/11/02/DEYASXZEKPVYGMNIKCCJI454BA/",
+      "id": "한국경제신문-1762131491414-2",
+      "title": "장동혁 \"한미 관세 협상, 야구방망이 도장으로 서명 끝인가\"",
+      "link": "https://www.hankyung.com/article/2025110394447",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Mon, 03 Nov 2025 09:49:37 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1762131491414-3",
+      "title": "GS건설, OSC기술로 스마트빌드 시대 견인",
+      "link": "https://www.hankyung.com/article/2025110394966",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Mon, 03 Nov 2025 09:49:02 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1762131491414-4",
+      "title": "박진영 \"시진핑과 대화 기뻐\"…'한한령 해제' 기대엔 \"성급한 판단\"",
+      "link": "https://www.hankyung.com/article/202511039419H",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Mon, 03 Nov 2025 09:47:58 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1762131491414-5",
+      "title": "제주항공, B737-8 8호기 구매 도입…\"기단 현대화\"",
+      "link": "https://www.hankyung.com/article/202511039495g",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Mon, 03 Nov 2025 09:47:36 +0900",
+      "summary": null
+    },
+    {
+      "id": "조선일보-1762131491611-8",
+      "title": "MMA2025, 슬로건 ‘Play The Moment’ 공개… 11월 24일 1차 티켓 예매 시작",
+      "link": "https://www.chosun.com/economy/tech_it/2025/11/03/M6KJVQCPXSK3HMKYR6FFTSGFPY/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Sun, 02 Nov 2025 00:46:17 +0000",
+      "publishedAt": "Mon, 03 Nov 2025 00:46:33 +0000",
       "summary": null
     },
     {
-      "id": "조선일보-1762045130522-4",
-      "title": "이마트, 수능 대박 기원 행사… 초콜릿·보온병 등 특가 판매",
-      "link": "https://www.chosun.com/economy/market_trend/2025/11/02/RTDU4JUVJMTSDEVE5XFT5I5BI4/",
+      "id": "한국경제신문-1762131491414-6",
+      "title": "삼성물산, 초대형 탄소 압축·이송설비 건설공사 수주",
+      "link": "https://www.hankyung.com/article/2025110394536",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Mon, 03 Nov 2025 09:45:23 +0900",
+      "summary": null
+    },
+    {
+      "id": "조선일보-1762131491611-9",
+      "title": "하나證, ‘모두 다 하나통장’ 출시… 개설 시 美 소수점 주식 제공",
+      "link": "https://www.chosun.com/economy/stock-finance/2025/11/03/EX3DDEUI4LP3RWJ7LH34BIUUQY/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Sun, 02 Nov 2025 00:45:45 +0000",
+      "publishedAt": "Mon, 03 Nov 2025 00:44:50 +0000",
       "summary": null
     },
     {
-      "id": "한국경제신문-1762045129887-0",
-      "title": "호두과자·황남빵… APEC 정상·CEO 사로 잡은 K-푸드 [APEC 2025]",
-      "link": "https://www.hankyung.com/article/202511028061i",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Sun, 02 Nov 2025 09:42:08 +0900",
-      "summary": null
-    },
-    {
-      "id": "조선일보-1762045130522-6",
-      "title": "李대통령, 오늘 싱가포르 총리와 회담… AI·녹색경제 협력 강화 논의",
-      "link": "https://www.chosun.com/economy/economy_general/2025/11/02/PJBIEVLMYMD7SLZSEC6ZPLXUUQ/",
+      "id": "조선일보-1762131491611-10",
+      "title": "콘진원, ‘2025 게임문화포럼’ 개최… “모두가 즐기는 K-게임·이스포츠 가능성 조명”",
+      "link": "https://www.chosun.com/economy/tech_it/2025/11/03/G2Z7BSVTWEE2A6NG3HCYP57BSY/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Sun, 02 Nov 2025 00:31:23 +0000",
+      "publishedAt": "Mon, 03 Nov 2025 00:43:17 +0000",
       "summary": null
     },
     {
-      "id": "조선일보-1762045130522-7",
-      "title": "에스원 “AI 기반 보안 솔루션으로 불법 드론 잡는다”",
-      "link": "https://www.chosun.com/economy/tech_it/2025/11/02/L3XZJANLZWZJO334AAPML5KDWQ/",
+      "id": "조선일보-1762131491611-11",
+      "title": "KT클라우드, 한국코치협회 ‘코칭문화 확산 우수기관상’ 수상",
+      "link": "https://www.chosun.com/economy/tech_it/2025/11/03/OTT22E45RSM4ZQK4N4Q2OTMZT4/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Sun, 02 Nov 2025 00:30:11 +0000",
+      "publishedAt": "Mon, 03 Nov 2025 00:43:14 +0000",
       "summary": null
     },
     {
-      "id": "한국경제신문-1762045129887-1",
-      "title": "충암고 축제서 '尹 어게인' 외친 래퍼 정상수…논란 커지자 사과",
-      "link": "https://www.hankyung.com/article/2025110280447",
+      "id": "한국경제신문-1762131491414-7",
+      "title": "\"겨울 국내여행 할인받고 떠난다\"…문체부, 숙박할인권 10만장 배포",
+      "link": "https://www.hankyung.com/article/202511039361g",
       "source": "한국경제신문",
       "category": "경제",
-      "publishedAt": "Sun, 02 Nov 2025 09:30:07 +0900",
+      "publishedAt": "Mon, 03 Nov 2025 09:41:19 +0900",
       "summary": null
     },
     {
-      "id": "조선일보-1762045130522-8",
-      "title": "KB금융, 현대백화점과 금융·유통 시너지 협력 모델 구축",
-      "link": "https://www.chosun.com/economy/stock-finance/2025/11/02/A4ODRDUV4HEMBGURGK53PRBW6U/",
+      "id": "조선일보-1762131491611-14",
+      "title": "볼보·랜드로버 신차 무료 시승…쏘카, ‘시승하기’ 서비스 출시",
+      "link": "https://www.chosun.com/economy/tech_it/2025/11/03/PVG43IY2MN6TCXXYO74DSNGR7Q/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Sun, 02 Nov 2025 00:28:55 +0000",
+      "publishedAt": "Mon, 03 Nov 2025 00:41:16 +0000",
       "summary": null
     },
     {
-      "id": "한국경제신문-1762045129887-2",
-      "title": "한국마사회, 말산업 창업지원 오픈이노베이션 나선다",
-      "link": "https://www.hankyung.com/article/202511028051i",
+      "id": "한국경제신문-1762131491414-8",
+      "title": "與 \"재판중지법→국정안정법\" 진중권 \"나치·스탈린도 사용\"",
+      "link": "https://www.hankyung.com/article/2025110393877",
       "source": "한국경제신문",
       "category": "경제",
-      "publishedAt": "Sun, 02 Nov 2025 09:27:50 +0900",
+      "publishedAt": "Mon, 03 Nov 2025 09:40:19 +0900",
       "summary": null
     },
     {
-      "id": "조선일보-1762045130522-9",
-      "title": "올리브영, APEC 정상에 K뷰티 선물 꾸러미 제공",
-      "link": "https://www.chosun.com/economy/market_trend/2025/11/02/LVBT67NOOYU4ZZWKSAB2OQMWSU/",
+      "id": "한국경제신문-1762131491414-9",
+      "title": "\"자랑하려는 건 아니지만\"…각국 정상들 지드래곤 '직관' 후기",
+      "link": "https://www.hankyung.com/article/2025110392957",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Mon, 03 Nov 2025 09:39:45 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1762131491414-10",
+      "title": "\"中, 미 조선·해운 보복 철회\"…한화오션 3%대 강세",
+      "link": "https://www.hankyung.com/article/2025110394396",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Mon, 03 Nov 2025 09:38:59 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1762131491414-11",
+      "title": "한화에어로스페이스, 3분기 영업익 8564억…전년비 79.5%↑",
+      "link": "https://www.hankyung.com/article/2025110394406",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Mon, 03 Nov 2025 09:38:32 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1762131491414-12",
+      "title": "아침 최저 1~11도…내륙 곳곳 한파특보 [내일 날씨]",
+      "link": "https://www.hankyung.com/article/202511039443i",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Mon, 03 Nov 2025 09:37:37 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1762131491414-13",
+      "title": "11월 분양시장, 예정 물량 10곳 중 7곳 '수도권'",
+      "link": "https://www.hankyung.com/article/2025110393126",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Mon, 03 Nov 2025 09:36:24 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1762131491414-14",
+      "title": "무림P&P, 펄프몰드 진공포장 개발...플라스틱 90% 절감[지속가능 제품 리뷰]",
+      "link": "https://www.hankyung.com/article/202510077661i",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Mon, 03 Nov 2025 09:36:04 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1762131491414-15",
+      "title": "박진영, 시진핑 만나 '베이징 K팝 공연' 제안…JYP엔터 4%↑",
+      "link": "https://www.hankyung.com/article/2025110394186",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Mon, 03 Nov 2025 09:34:45 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1762131491414-16",
+      "title": "'강제추행 혐의' 스타 예능 PD, '식스센스' 연출자였다",
+      "link": "https://www.hankyung.com/article/2025110392977",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Mon, 03 Nov 2025 09:33:48 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1762131491414-17",
+      "title": "\"기후를 말하지 않는 정당은 선택받기 어렵다\"",
+      "link": "https://www.hankyung.com/article/202510077744i",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Mon, 03 Nov 2025 09:31:44 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1762131491414-18",
+      "title": "\"보험금 지급 대상도 거짓으로 서류 제출하면 보험사기\"",
+      "link": "https://www.hankyung.com/article/202511039292i",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Mon, 03 Nov 2025 09:30:54 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1762131491414-19",
+      "title": "트럼프, 수소 예산 삭감...美, '친환경 기술' 中에 밀리나",
+      "link": "https://www.hankyung.com/article/202510100773i",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Mon, 03 Nov 2025 09:30:29 +0900",
+      "summary": null
+    },
+    {
+      "id": "조선일보-1762131491611-6",
+      "title": "[속보] 코스피 4139.68…또 다시 사상 최고치",
+      "link": "https://www.chosun.com/economy/stock-finance/2025/11/03/7OIJPLGN6NEF3CYWBLGZXUD25A/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Sun, 02 Nov 2025 00:26:32 +0000",
+      "publishedAt": "Mon, 03 Nov 2025 00:21:28 +0000",
       "summary": null
     },
     {
-      "id": "조선일보-1762045130522-10",
-      "title": "‘불장’에 큰손 개미 우르르…가장 많이 담은 종목은 ‘삼성전자’",
-      "link": "https://www.chosun.com/economy/stock-finance/2025/11/02/2VARJ3YVMQINBDX7UFNXLV3GVM/",
+      "id": "조선일보-1762131491611-13",
+      "title": "드디어 제철 왔다, 구룡포 과메기 세트 1만원대 초특가",
+      "link": "https://www.chosun.com/economy/2025/11/02/NOMYNWZKUZFKTDNA35A7WNA64A/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Sun, 02 Nov 2025 00:26:23 +0000",
+      "publishedAt": "Sun, 02 Nov 2025 08:26:47 +0000",
       "summary": null
     },
     {
-      "id": "조선일보-1762045130522-11",
-      "title": "롯데百, ‘라인페이 대만’ 간편결제 서비스 도입",
-      "link": "https://www.chosun.com/economy/market_trend/2025/11/02/YMXK2EMBSHBXD4BXGUDE5NY6CE/",
+      "id": "조선일보-1762131491611-1",
+      "title": "배당소득 분리과세 기대감에… 고배당 ETF가 다시 뜬다",
+      "link": "https://www.chosun.com/economy/money/2025/11/02/3WLMWPPPNJDZTFKENUCUFJHBKU/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Sun, 02 Nov 2025 00:19:19 +0000",
+      "publishedAt": "Sat, 01 Nov 2025 21:00:01 +0000",
       "summary": null
     },
     {
-      "id": "한국경제신문-1762045129887-3",
-      "title": "\"메켈레는 작품에서 얻은 열정을 주변에 전파하는 지휘자\"",
-      "link": "https://www.hankyung.com/article/202511017714i",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Sun, 02 Nov 2025 09:17:16 +0900",
-      "summary": null
-    },
-    {
-      "id": "조선일보-1762045130522-12",
-      "title": "이재명표 사업 놓고 여야 전면전 예고… 728조 예산정국 돌입",
-      "link": "https://www.chosun.com/economy/economy_general/2025/11/02/JXQG5QGG36AH2YAQIONVMLEBII/",
+      "id": "조선일보-1762131491611-3",
+      "title": "“이제 고점 아닌가”… 코스피 4000 시대의 ‘포포(FOPO)’ 공포",
+      "link": "https://www.chosun.com/economy/money/2025/11/02/JRRDXHTO3ZGEJPMRRRQX2KDFG4/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Sun, 02 Nov 2025 00:16:55 +0000",
+      "publishedAt": "Sat, 01 Nov 2025 21:00:00 +0000",
       "summary": null
     },
     {
-      "id": "한국경제신문-1762045129887-4",
-      "title": "'불장'에 큰손 개미 늘었다…가장 많이 쓸어담은 종목은?",
-      "link": "https://www.hankyung.com/article/2025110279817",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Sun, 02 Nov 2025 09:00:10 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1762045129887-5",
-      "title": "법원 \"특정사실 취사선택한 보도, 방송 심의규정 위반 아냐\"",
-      "link": "https://www.hankyung.com/article/202511027785i",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Sun, 02 Nov 2025 09:00:05 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1762045129887-6",
-      "title": "타이어 제조사에 공장 구내식당 조리원 직접고용 의무 있을까",
-      "link": "https://www.hankyung.com/article/202511017782i",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Sun, 02 Nov 2025 09:00:04 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1762045129887-7",
-      "title": "차세대 보안 인프라된 안티드론...에스원 'AI 요격' 나선다",
-      "link": "https://www.hankyung.com/article/202511027849i",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Sun, 02 Nov 2025 09:00:01 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1762045129887-8",
-      "title": "작은 생명이 내게 가르쳐준 것들 '개와 나'",
-      "link": "https://www.hankyung.com/article/202510134317i",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Sun, 02 Nov 2025 08:45:31 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1762045129887-9",
-      "title": "날아다니는 차 나온다…일론 머스크 \"곧 시제품 공개할 것\"",
-      "link": "https://www.hankyung.com/article/2025110279547",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Sun, 02 Nov 2025 08:35:34 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1762045129887-10",
-      "title": "\"학폭 논란에 40억 손해\"…조병규, 폭로자 상대 손배소 패소",
-      "link": "https://www.hankyung.com/article/2025110279397",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Sun, 02 Nov 2025 08:20:06 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1762045129887-11",
-      "title": "\"93세 맞아?\"…이길여 총장, 허리 꼿꼿 골프 스윙에 환호 [영상]",
-      "link": "https://www.hankyung.com/article/2025110279077",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Sun, 02 Nov 2025 08:02:05 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1762045129887-12",
-      "title": "'빅 이벤트' 소화하며 4100선 오른 코스피…방향성 탐색 [주간전망]",
-      "link": "https://www.hankyung.com/article/2025103152546",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Sun, 02 Nov 2025 08:00:04 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1762045129887-13",
-      "title": "아침부터 광화문서 여의도까지…아이들 웃음소리 가득찼던 이유",
-      "link": "https://www.hankyung.com/article/202511017756i",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Sun, 02 Nov 2025 08:00:02 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1762045129887-14",
-      "title": "주가 무려 98% 폭락…영화 속 질주하던 '본드카'의 굴욕 [최종석의 차트 밖은 유럽]",
-      "link": "https://www.hankyung.com/article/202510288025i",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Sun, 02 Nov 2025 07:48:48 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1762045129887-15",
-      "title": "젠슨 황 덕에 주문 폭발…'깐부치킨' 결국 사상 초유의 사태",
-      "link": "https://www.hankyung.com/article/2025110278977",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Sun, 02 Nov 2025 07:46:30 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1762045129887-16",
-      "title": "'기안84' 마라톤 도전에도 포착…\"러닝 하면서 봉사\" 입소문 [이혜인의 피트니스 리포트]",
-      "link": "https://www.hankyung.com/article/202510290332i",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Sun, 02 Nov 2025 07:43:19 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1762045129887-17",
-      "title": "李대통령, 싱가포르 총리와 정상회담…新성장산업 협력논의",
-      "link": "https://www.hankyung.com/article/2025110278627",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Sun, 02 Nov 2025 07:26:16 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1762045129887-18",
-      "title": "후배 꼬셔 병원 넘기더니…아래층에 개업한 나쁜 선배 '철퇴' [곽용희의 인사노무노트]",
-      "link": "https://www.hankyung.com/article/202510316442i",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Sun, 02 Nov 2025 07:14:17 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1762045129887-19",
-      "title": "\"고위 공직자도 이 동네 집은 안 팔죠\"…줄줄이 '신고가'",
-      "link": "https://www.hankyung.com/article/2025103161576",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Sun, 02 Nov 2025 07:11:59 +0900",
-      "summary": null
-    },
-    {
-      "id": "조선일보-1762045130522-5",
-      "title": "“기적이 계속되는 한국”… 엔비디아, 헌정 영상 올렸다",
-      "link": "https://www.chosun.com/economy/industry-company/2025/11/01/VWO3BZZW55HFZBBW2D5M6ZWNSM/",
+      "id": "조선일보-1762131491611-2",
+      "title": "소탈한 모습에 시민들 깐부된 ‘젠슨 형’ 이튿날도 화제 만발",
+      "link": "https://www.chosun.com/economy/industry-company/2025/10/31/T6VRHZXAEFAYXMGGVZWUKIINIQ/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Sat, 01 Nov 2025 05:47:20 +0000",
+      "publishedAt": "Fri, 31 Oct 2025 21:00:00 +0000",
       "summary": null
     },
     {
-      "id": "조선일보-1762045130522-14",
-      "title": "“스테이블코인, 세상을 달러 중심으로 돌아가게 할 것”",
-      "link": "https://www.chosun.com/economy/weeklybiz/2025/10/30/CKGHCYUPNRF5BMMSL4JWZXKL6M/",
+      "id": "조선일보-1762131491611-12",
+      "title": "젠슨 황 “삼성·SK 모두 필요해…한국은 세계적 메모리 기술 가져”",
+      "link": "https://www.chosun.com/economy/tech_it/2025/10/31/A5TBG74JFZDA5HSAJMPOBCP4WM/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Thu, 30 Oct 2025 09:25:42 +0000",
+      "publishedAt": "Fri, 31 Oct 2025 10:09:57 +0000",
       "summary": null
     },
     {
-      "id": "조선일보-1762045130522-13",
-      "title": "美 차 업체 관세 부담 확 줄어든 까닭은...“차 부품 수입 땐 관세 환급”",
-      "link": "https://www.chosun.com/economy/weeklybiz/2025/10/30/URU45RCTAJDOJCKG2TWAIQG7QI/",
+      "id": "조선일보-1762131491611-7",
+      "title": "국민연금 보험료 내년부터 순차적으로 최대 절반 더 내야 한다",
+      "link": "https://www.chosun.com/economy/money/2025/10/14/OLNIJPHC5ZDJDBOWJYMOPCEWRE/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Thu, 30 Oct 2025 08:42:09 +0000",
+      "publishedAt": "Mon, 13 Oct 2025 20:50:00 +0000",
       "summary": null
     }
   ]
