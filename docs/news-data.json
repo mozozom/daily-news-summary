@@ -1,319 +1,319 @@
 {
-  "lastUpdated": "2025-11-04T00:55:32.902Z",
+  "lastUpdated": "2025-11-05T00:57:05.986Z",
   "articles": [
     {
-      "id": "조선일보-1762217728543-1",
-      "title": "SK텔레콤, 해커톤·코딩챌린지로 숨은 AI 고수 발굴 나서",
-      "link": "https://www.chosun.com/economy/tech_it/2025/11/04/7DHIBCRC3NWAK7E4XQT6DBAWXE/",
+      "id": "한국경제신문-1762304221369-0",
+      "title": "예사롭지 않다…박진영표 위트 더한 신곡 'Happy Hour' 발표",
+      "link": "https://www.hankyung.com/article/202511054720H",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Wed, 05 Nov 2025 09:51:15 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1762304221369-1",
+      "title": "[속보] 거래소, 코스피 매도 사이드카 발동",
+      "link": "https://www.hankyung.com/article/2025110547256",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Wed, 05 Nov 2025 09:51:13 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1762304221369-2",
+      "title": "[컨콜] 네이버 \"세계 로봇 OS·제어 시장 점유율 39%↑ 예상\"",
+      "link": "https://www.hankyung.com/article/202511054726i",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Wed, 05 Nov 2025 09:50:58 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1762304221369-3",
+      "title": "슈퍼주니어 김희철, 암 환자 위해 서울아산병원에 1억원 기부",
+      "link": "https://www.hankyung.com/article/202511054723i",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Wed, 05 Nov 2025 09:50:37 +0900",
+      "summary": null
+    },
+    {
+      "id": "조선일보-1762304221748-1",
+      "title": "우주 망원경도 ‘구독’ 시대…전자레인지 크기 위성이 허블 대체할까",
+      "link": "https://www.chosun.com/economy/science/2025/11/05/K4QBJYLTWPPENBYOK26F4NHRFQ/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Tue, 04 Nov 2025 00:53:09 +0000",
+      "publishedAt": "Wed, 05 Nov 2025 00:49:46 +0000",
       "summary": null
     },
     {
-      "id": "조선일보-1762217728543-2",
-      "title": "오늘부터 증권사 미국주식 주간거래 재개",
-      "link": "https://www.chosun.com/economy/money/2025/11/04/OVZL4KH52VA4TP5ZFDFSDRXMUM/",
+      "id": "조선일보-1762304221748-4",
+      "title": "SK바이오팜 3분기 매출 1917억·영업이익 701억원…시장 전망치 상회",
+      "link": "https://www.chosun.com/economy/science/2025/11/05/PEONK7JBMZ6K3VPUYUPB3KASOQ/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Tue, 04 Nov 2025 00:53:06 +0000",
+      "publishedAt": "Wed, 05 Nov 2025 00:45:49 +0000",
       "summary": null
     },
     {
-      "id": "조선일보-1762217728543-4",
-      "title": "[특징주] 증권가 ‘저점 매수 기회’에…GS피앤엘 10% 급등",
-      "link": "https://www.chosun.com/economy/stock-finance/2025/11/04/346LCYVBHPCSUZEJC4YA6GX4MQ/",
+      "id": "조선일보-1762304221748-5",
+      "title": "안랩, 3분기 피싱 문자 분석… ‘구인 사기’ 최다 탐지",
+      "link": "https://www.chosun.com/economy/tech_it/2025/11/05/ZULZTAHZTKUKAH6JOVKPB3YW7Q/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Tue, 04 Nov 2025 00:50:38 +0000",
+      "publishedAt": "Wed, 05 Nov 2025 00:45:38 +0000",
       "summary": null
     },
     {
-      "id": "조선일보-1762217728543-7",
-      "title": "애플, 에어팟 실시간 번역 기능에 ‘한국어’ 추가",
-      "link": "https://www.chosun.com/economy/tech_it/2025/11/04/NWHIVZ4UEYPWUNCUB26QMIY54U/",
+      "id": "조선일보-1762304221748-6",
+      "title": "北 김영남 빈소에 조문 행렬…중국·베트남 대사도 애도",
+      "link": "https://www.chosun.com/economy/economy_general/2025/11/05/I4UVTMSBBXV7T5YFOX37XXSUH4/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Tue, 04 Nov 2025 00:48:04 +0000",
+      "publishedAt": "Wed, 05 Nov 2025 00:44:45 +0000",
       "summary": null
     },
     {
-      "id": "조선일보-1762217728543-9",
-      "title": "[특징주] MS도 전력 강조… 전선·변압기株 강세",
-      "link": "https://www.chosun.com/economy/stock-finance/2025/11/04/7RIP2FPLYFMK5BE6H5QHV4FOSM/",
+      "id": "조선일보-1762304221748-7",
+      "title": "KCGI 더우먼펀드, 첫 기부 단체 선정",
+      "link": "https://www.chosun.com/economy/stock-finance/2025/11/05/2VPJVXAUA3U3JCOM7JOJEEYYBA/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Tue, 04 Nov 2025 00:46:29 +0000",
+      "publishedAt": "Wed, 05 Nov 2025 00:44:15 +0000",
       "summary": null
     },
     {
-      "id": "조선일보-1762217728543-10",
-      "title": "[특징주] 60만원 찍고 잠시 쉬어가기… SK하이닉스, 3%대 하락",
-      "link": "https://www.chosun.com/economy/stock-finance/2025/11/04/HP57P6O2WQV4ZUBDG5ZHIYODSI/",
+      "id": "조선일보-1762304221748-8",
+      "title": "[특징주] 티로보틱스, 오버행 우려에…12% 급락",
+      "link": "https://www.chosun.com/economy/stock-finance/2025/11/05/BJU5UPYVFCW3RWMYTSPTJOM3EY/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Tue, 04 Nov 2025 00:45:14 +0000",
+      "publishedAt": "Wed, 05 Nov 2025 00:40:41 +0000",
       "summary": null
     },
     {
-      "id": "한국경제신문-1762217727989-0",
-      "title": "\"첫 해외투자 유치\" 계열사 줄줄이 20%대 상승한 이 그룹",
-      "link": "https://www.hankyung.com/article/202511042092i",
+      "id": "한국경제신문-1762304221369-4",
+      "title": "[컨콜] 네이버 \"향후 GPU에만 1조 원 투자 예상\"",
+      "link": "https://www.hankyung.com/article/202511054652i",
       "source": "한국경제신문",
       "category": "경제",
-      "publishedAt": "Tue, 04 Nov 2025 09:44:45 +0900",
+      "publishedAt": "Wed, 05 Nov 2025 09:40:00 +0900",
       "summary": null
     },
     {
-      "id": "한국경제신문-1762217727989-1",
-      "title": "반도체 증설 붐 노리는 센코...적외선 가스센서 기술 개발",
-      "link": "https://www.hankyung.com/article/202511042115i",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Tue, 04 Nov 2025 09:44:45 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1762217727989-2",
-      "title": "\"엉덩이 기억상실증 걸렸다\"…천상지희 선데이 깜짝 고백 [건강!톡]",
-      "link": "https://www.hankyung.com/article/2025110419207",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Tue, 04 Nov 2025 09:44:17 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1762217727989-3",
-      "title": "[속보] 李, 국회 도착…곧 728조 내년도 예산안 시정연설",
-      "link": "https://www.hankyung.com/article/2025110421377",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Tue, 04 Nov 2025 09:44:11 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1762217727989-4",
-      "title": "'강철부대W' 곽선희, 동성 연인과 뉴욕서 결혼…\"와이프 고마워\"",
-      "link": "https://www.hankyung.com/article/2025110420247",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Tue, 04 Nov 2025 09:43:57 +0900",
-      "summary": null
-    },
-    {
-      "id": "조선일보-1762217728543-11",
-      "title": "네이버, 밴드 사용자 경험 통합 개편… 새 로고도 공개",
-      "link": "https://www.chosun.com/economy/tech_it/2025/11/04/XBWP57Z2FI4INJAVOIZ3NVK6K4/",
+      "id": "조선일보-1762304221748-9",
+      "title": "[특징주] 삼성전자·하이닉스, 기술주 약세 국면에 동반 하락 출발",
+      "link": "https://www.chosun.com/economy/stock-finance/2025/11/05/UQXN5LK42ZTVYCAAXAWB4P7Z5I/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Tue, 04 Nov 2025 00:43:28 +0000",
+      "publishedAt": "Wed, 05 Nov 2025 00:37:05 +0000",
       "summary": null
     },
     {
-      "id": "한국경제신문-1762217727989-5",
-      "title": "\"공항수속 수수료도 따로 받아?\" 불만 폭발…두 손 든 LCC [이슈+]",
-      "link": "https://www.hankyung.com/article/202511042030g",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Tue, 04 Nov 2025 09:43:21 +0900",
-      "summary": null
-    },
-    {
-      "id": "조선일보-1762217728543-12",
-      "title": "유튜브, 쇼핑 제휴 프로그램 파트너사에 컬리·퀸잇·오늘의집 추가",
-      "link": "https://www.chosun.com/economy/tech_it/2025/11/04/3NY52GHREZAY6GWDL5KFHWFMP4/",
+      "id": "조선일보-1762304221748-10",
+      "title": "삼성전기, 스미토모화학그룹과 합작법인 설립 검토… “차세대 기판 제조 역량 강화”",
+      "link": "https://www.chosun.com/economy/tech_it/2025/11/05/JY3AW2H73GJE35HS3PHSU2D4PE/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Tue, 04 Nov 2025 00:43:10 +0000",
+      "publishedAt": "Wed, 05 Nov 2025 00:35:42 +0000",
       "summary": null
     },
     {
-      "id": "한국경제신문-1762217727989-6",
-      "title": "라이즈, 일민미술관서 특별 전시회…눈으로 감상하는 싱글 '페임'",
-      "link": "https://www.hankyung.com/article/202511042102H",
+      "id": "한국경제신문-1762304221369-5",
+      "title": "\"북미 정상회담 가능성 높아\"…남북경협株 동반 강세",
+      "link": "https://www.hankyung.com/article/2025110546476",
       "source": "한국경제신문",
       "category": "경제",
-      "publishedAt": "Tue, 04 Nov 2025 09:41:05 +0900",
+      "publishedAt": "Wed, 05 Nov 2025 09:35:31 +0900",
       "summary": null
     },
     {
-      "id": "한국경제신문-1762217727989-7",
-      "title": "민노총 \"새벽 택배 금지\" 한동훈 \"속내는 건강 염려 아냐\"",
-      "link": "https://www.hankyung.com/article/2025110419227",
+      "id": "한국경제신문-1762304221369-6",
+      "title": "\"사춘기 학폭으로 불합격은…\" 대학 때린 글에 '논란 폭발' [이슈+]",
+      "link": "https://www.hankyung.com/article/2025110545487",
       "source": "한국경제신문",
       "category": "경제",
-      "publishedAt": "Tue, 04 Nov 2025 09:40:35 +0900",
+      "publishedAt": "Wed, 05 Nov 2025 09:35:07 +0900",
       "summary": null
     },
     {
-      "id": "조선일보-1762217728543-13",
-      "title": "DAY6 도운, 삼성서울병원에 1억원 기부",
-      "link": "https://www.chosun.com/economy/science/2025/11/04/F2COUTL4YAJIFSJHCAGE6HJB74/",
+      "id": "조선일보-1762304221748-11",
+      "title": "BBQ, 美 사우스캐롤라이나 진출… 현지 동남권 공략",
+      "link": "https://www.chosun.com/economy/market_trend/2025/11/05/5TPIHXXW7A3UXXVHCREYOEAG4U/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Tue, 04 Nov 2025 00:40:22 +0000",
+      "publishedAt": "Wed, 05 Nov 2025 00:34:31 +0000",
       "summary": null
     },
     {
-      "id": "조선일보-1762217728543-14",
-      "title": "이스트에이드, ‘지식그래프 기반 질의응답’ 특허 출원… “AI 검색 신뢰도 한 단계 도약”",
-      "link": "https://www.chosun.com/economy/tech_it/2025/11/04/6VLR4IS62FRYRVRHIOAOHNTE4I/",
+      "id": "조선일보-1762304221748-12",
+      "title": "1440원대 중반까지 치솟은 환율...7개월 만에 최고",
+      "link": "https://www.chosun.com/economy/economy_general/2025/11/05/BJWTJKNGGZD3ZLSHRER2635SXM/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Tue, 04 Nov 2025 00:39:33 +0000",
+      "publishedAt": "Wed, 05 Nov 2025 00:34:18 +0000",
       "summary": null
     },
     {
-      "id": "한국경제신문-1762217727989-8",
-      "title": "주변 거주자만 거래허가?…\"평양시 관리법 판박이\" 뿔난 시민들",
-      "link": "https://www.hankyung.com/article/202511042090i",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Tue, 04 Nov 2025 09:39:14 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1762217727989-9",
-      "title": "최호정 의장 “내년 예산 기조는 석과불식…미래 세대에 희망줘야”",
-      "link": "https://www.hankyung.com/article/202511042086i",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Tue, 04 Nov 2025 09:38:58 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1762217727989-10",
-      "title": "HLB파나진, 감염성 질환 진단 제품 3종 유럽 'CE IVDR' 인증 획득",
-      "link": "https://www.hankyung.com/article/202511042029i",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Tue, 04 Nov 2025 09:38:27 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1762217727989-11",
-      "title": "'자허블 제쳤다'…스타벅스 인기 3위에 오른 이 음료",
-      "link": "https://www.hankyung.com/article/202511041900g",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Tue, 04 Nov 2025 09:37:48 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1762217727989-12",
-      "title": "오라클 메타 이어 구글도…빅테크들 '빚내서 AI 투자'",
-      "link": "https://www.hankyung.com/article/202511041828i",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Tue, 04 Nov 2025 09:34:44 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1762217727989-13",
-      "title": "[속보] 국힘, 李대통령 시정연설 보이콧…'추경호 영장' 규탄대회",
-      "link": "https://www.hankyung.com/article/2025110420757",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Tue, 04 Nov 2025 09:34:14 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1762217727989-14",
-      "title": "입주 전부터 36억 치솟은 강남 아파트…이번주 입주 시작",
-      "link": "https://www.hankyung.com/article/2025110419326",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Tue, 04 Nov 2025 09:33:44 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1762217727989-15",
-      "title": "\"전 남친 빚 갚느라 배달도\"…'미코' 김지연, 75kg 충격 근황",
-      "link": "https://www.hankyung.com/article/2025110419177",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Tue, 04 Nov 2025 09:33:39 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1762217727989-16",
-      "title": "'낮 16~22도' 조금씩 추위 풀려…일교차 15도 벌어져 [내일 날씨]",
-      "link": "https://www.hankyung.com/article/202511042022i",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Tue, 04 Nov 2025 09:27:07 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1762217727989-17",
-      "title": "힙스터의 런던 VS 클래식의 파리...미술판 '백년전쟁' 속으로",
-      "link": "https://www.hankyung.com/article/202510238952i",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Tue, 04 Nov 2025 09:26:21 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1762217727989-18",
-      "title": "'업소 출입 의혹' 김준영, 팬들 분노 커지자 \"모든 작품서 하차\" [공식]",
-      "link": "https://www.hankyung.com/article/2025110418977",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Tue, 04 Nov 2025 09:25:31 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1762217727989-19",
-      "title": "유진로봇, 과기정통부 '지능형 제조 물류시스템 개발' 사업 성과 로보월드서 시연",
-      "link": "https://www.hankyung.com/article/202511041964i",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Tue, 04 Nov 2025 09:24:49 +0900",
-      "summary": null
-    },
-    {
-      "id": "조선일보-1762217728543-0",
-      "title": "한은 “경제 심리 4년 3개월 만에 최고”",
-      "link": "https://www.chosun.com/economy/economy_general/2025/11/04/HPNDHZ2SF5F7FDKYWDJJNARMHU/",
+      "id": "조선일보-1762304221748-13",
+      "title": "[특징주] 노타, 상장 3일 차에도 23% 급등",
+      "link": "https://www.chosun.com/economy/stock-finance/2025/11/05/OA4SA6COL4RIBS7OM5DBRKVQU4/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Tue, 04 Nov 2025 00:02:24 +0000",
+      "publishedAt": "Wed, 05 Nov 2025 00:33:34 +0000",
       "summary": null
     },
     {
-      "id": "조선일보-1762217728543-3",
-      "title": "해수부, 수산물 유통 4단계로 단축…비용 10% 절감",
-      "link": "https://www.chosun.com/economy/economy_general/2025/11/04/7IADFOEYTZCHRCFI6WJ5R2HRCI/",
-      "source": "조선일보",
+      "id": "한국경제신문-1762304221369-7",
+      "title": "코스피, 美 기술주 우려에 4000선 붕괴…'10만전자' 깨졌다",
+      "link": "https://www.hankyung.com/article/2025110545626",
+      "source": "한국경제신문",
       "category": "경제",
-      "publishedAt": "Mon, 03 Nov 2025 23:09:10 +0000",
+      "publishedAt": "Wed, 05 Nov 2025 09:31:46 +0900",
       "summary": null
     },
     {
-      "id": "조선일보-1762217728543-8",
-      "title": "10월 소비자물가 2.4% 상승...15개월만 최대 상승률",
-      "link": "https://www.chosun.com/economy/economy_general/2025/11/04/IQO3Q645VRHHBDUAFXCXBPH5Z4/",
-      "source": "조선일보",
+      "id": "한국경제신문-1762304221369-8",
+      "title": "신테카바이오, 구글 쿠버네티스 엔진으로 전환 소식에 '급등'",
+      "link": "https://www.hankyung.com/article/2025110546356",
+      "source": "한국경제신문",
       "category": "경제",
-      "publishedAt": "Mon, 03 Nov 2025 23:00:38 +0000",
+      "publishedAt": "Wed, 05 Nov 2025 09:31:30 +0900",
       "summary": null
     },
     {
-      "id": "조선일보-1762217728543-5",
-      "title": "‘공급 과잉’ 철근부터 구조조정… 특수탄소강 2000억 투자",
-      "link": "https://www.chosun.com/economy/industry-company/2025/11/04/EQ7NRZTZHVGSXHNGWANTHMIYEE/",
-      "source": "조선일보",
+      "id": "한국경제신문-1762304221369-9",
+      "title": "50대 가장, 집에서 씻다 쓰러져 뇌사…4명 살리고 하늘로",
+      "link": "https://www.hankyung.com/article/2025110546027",
+      "source": "한국경제신문",
       "category": "경제",
-      "publishedAt": "Mon, 03 Nov 2025 23:00:12 +0000",
+      "publishedAt": "Wed, 05 Nov 2025 09:31:29 +0900",
       "summary": null
     },
     {
-      "id": "조선일보-1762217728543-6",
-      "title": "시스템 복구됐는데... 李정부 고위 공직자 재산 “내년 1월 말 공개”",
-      "link": "https://www.chosun.com/politics/goverment/2025/11/03/BWR45RKHCVECZJMIL3M2C74ECE/",
+      "id": "한국경제신문-1762304221369-10",
+      "title": "천하람 \"10·15 부동산 대책 취소 소송할 것…통계 조작\"",
+      "link": "https://www.hankyung.com/article/2025110545127",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Wed, 05 Nov 2025 09:30:43 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1762304221369-11",
+      "title": "네이버, 3분기 매출·영업익 '사상 최대'…주가는 소폭 '하락'",
+      "link": "https://www.hankyung.com/article/2025110546116",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Wed, 05 Nov 2025 09:29:49 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1762304221369-12",
+      "title": "삼성물산, '2025 퓨처스케이프 데모데이' 개최",
+      "link": "https://www.hankyung.com/article/2025110546126",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Wed, 05 Nov 2025 09:29:41 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1762304221369-13",
+      "title": "\"콘서트 표 빼돌려 몇억 슈킹\"…성시경 매니저 폭로 나왔다",
+      "link": "https://www.hankyung.com/article/2025110545277",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Wed, 05 Nov 2025 09:28:04 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1762304221369-14",
+      "title": "마동석, 예능은 어떨까…도파민 폭발 주의보",
+      "link": "https://www.hankyung.com/article/202511054601H",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Wed, 05 Nov 2025 09:26:44 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1762304221369-15",
+      "title": "美 연방정부 셧다운 5일부로 '역대 최장' 36일…임시예산안 부결",
+      "link": "https://www.hankyung.com/article/2025110545597",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Wed, 05 Nov 2025 09:26:08 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1762304221369-16",
+      "title": "듀켐바이오 \"전립선암 진단용 방사선의약품 '프로스타시크' 출시\"",
+      "link": "https://www.hankyung.com/article/2025110545956",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Wed, 05 Nov 2025 09:22:17 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1762304221369-17",
+      "title": "[포토] 홈플러스, 마지막 'BLACK 홈플런' 행사 진행",
+      "link": "https://www.hankyung.com/article/202511054578i",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Wed, 05 Nov 2025 09:21:11 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1762304221369-18",
+      "title": "AI 버블론에 '10만전자' 깨졌다…SK하이닉스도 6% 급락",
+      "link": "https://www.hankyung.com/article/2025110545346",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Wed, 05 Nov 2025 09:19:38 +0900",
+      "summary": null
+    },
+    {
+      "id": "조선일보-1762304221748-0",
+      "title": "[속보] 코스피 4000 깨졌다...매도 사이드카 발동",
+      "link": "https://www.chosun.com/economy/money/2025/11/05/G5Y7BAN5EFEKDBM4NEKUQK46F4/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Mon, 03 Nov 2025 11:59:39 +0000",
+      "publishedAt": "Wed, 05 Nov 2025 00:14:03 +0000",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1762304221369-19",
+      "title": "주한독일상공회의소, '2026 아우스빌둥 채용설명회' 개최",
+      "link": "https://www.hankyung.com/article/202511054549i",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Wed, 05 Nov 2025 09:12:09 +0900",
+      "summary": null
+    },
+    {
+      "id": "조선일보-1762304221748-2",
+      "title": "’빚투’ 잔고 사상 최대인데...더 사라고 기름 붓는 경제 책임자들",
+      "link": "https://www.chosun.com/economy/money/2025/11/05/SSXBNNEML5ERHAEKSU4RKUVU5Y/",
+      "source": "조선일보",
+      "category": "경제",
+      "publishedAt": "Tue, 04 Nov 2025 21:00:01 +0000",
+      "summary": null
+    },
+    {
+      "id": "조선일보-1762304221748-14",
+      "title": "10월 외환보유액 4288억달러…반 년 만에 세계 9위 탈환",
+      "link": "https://www.chosun.com/economy/economy_general/2025/11/05/Q532O2IXEFBUXEKMACWGA2TAWE/",
+      "source": "조선일보",
+      "category": "경제",
+      "publishedAt": "Tue, 04 Nov 2025 21:00:00 +0000",
+      "summary": null
+    },
+    {
+      "id": "조선일보-1762304221748-3",
+      "title": "“공대보다 의대를 선망하는 게 한심? 오히려 그게 한국에 기회가 될 겁니다”",
+      "link": "https://www.chosun.com/economy/startup_story/2025/11/04/I6UIG3V4LJAPLGDQSLII3GOJIA/",
+      "source": "조선일보",
+      "category": "경제",
+      "publishedAt": "Mon, 03 Nov 2025 20:30:00 +0000",
       "summary": null
     }
   ]
