@@ -1,319 +1,319 @@
 {
-  "lastUpdated": "2026-07-24T01:49:21.603Z",
+  "lastUpdated": "2026-07-25T01:49:12.371Z",
   "articles": [
     {
-      "id": "조선일보-1784857699045-1",
-      "title": "백악관도 주시한 오픈AI 해킹 사태…美 하원은 ‘AI 킬스위치법’ 발의",
-      "link": "https://www.chosun.com/economy/tech_it/2026/07/24/GJRDQNBTGM2TCNTCMU2WEZTEGU/",
+      "id": "한국경제신문-1784944089525-0",
+      "title": "오피스링크·시카젠, 국내 유통 확대 맞손…B2B·오프라인 확장",
+      "link": "https://www.hankyung.com/article/2026072554657",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Sat, 25 Jul 2026 10:29:15 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1784944089525-1",
+      "title": "정성호 장관 사의 표명에…여·야, 이례적 한목소리 만류 왜",
+      "link": "https://www.hankyung.com/article/2026072554347",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Sat, 25 Jul 2026 10:11:11 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1784944089525-2",
+      "title": "[속보] 광양, 폭염중대경보 발표…전남광주 최초·전국서 3번째",
+      "link": "https://www.hankyung.com/article/2026072554577",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Sat, 25 Jul 2026 10:08:08 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1784944089525-3",
+      "title": "AI랠리 최대 수혜주라더니...'반토막' 이수페타시스, 반등은 언제쯤?",
+      "link": "https://www.hankyung.com/article/202607243994i",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Sat, 25 Jul 2026 10:00:07 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1784944089525-4",
+      "title": "\"여기 한국 맞나요?\"…외국인 근로자 몰리더니 매출 터진 동네",
+      "link": "https://www.hankyung.com/article/202607205300i",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Sat, 25 Jul 2026 10:00:01 +0900",
+      "summary": null
+    },
+    {
+      "id": "조선일보-1784944089736-2",
+      "title": "이재용·정의선·이해진, 엔비디아 본사서 젠슨 황 만나",
+      "link": "https://www.chosun.com/economy/industry-company/2026/07/25/MFSTMYRXGIYDKZRSG43DCMLCMU/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Fri, 24 Jul 2026 01:37:26 +0000",
+      "publishedAt": "Sat, 25 Jul 2026 00:57:42 +0000",
       "summary": null
     },
     {
-      "id": "조선일보-1784857699045-2",
-      "title": "금융위, 새도약기금 참여 안 하는 대부업체에 패널티 검토",
-      "link": "https://www.chosun.com/economy/stock-finance/2026/07/24/GNSDSMJSHA3DGMBVGZRDGOBSGU/",
+      "id": "조선일보-1784944089736-0",
+      "title": "이재용·정의선·이해진, 엔비디아 본사 찾아 젠슨 황 만났다",
+      "link": "https://www.chosun.com/economy/money/2026/07/25/V3FDFMJSDVFUDN3IHCAUKAIQZI/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Fri, 24 Jul 2026 01:35:28 +0000",
+      "publishedAt": "Sat, 25 Jul 2026 00:53:10 +0000",
       "summary": null
     },
     {
-      "id": "조선일보-1784857699045-3",
-      "title": "전국 파고든 마약…하수 처리장에 흐르는 필로폰",
-      "link": "https://www.chosun.com/economy/science/2026/07/24/GFSWMZDGGNRDSYTBME2WGNZUMQ/",
+      "id": "한국경제신문-1784944089525-5",
+      "title": "[속보] 정의선 \"대한민국이 피지컬 AI 산업 주도하는 중심지 될 것\"",
+      "link": "https://www.hankyung.com/article/2026072554267",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Sat, 25 Jul 2026 09:44:02 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1784944089525-6",
+      "title": "[속보] 정의선 \"현대차 추구 피지컬 AI는 도시 레벨의 통합 지능화\"",
+      "link": "https://www.hankyung.com/article/2026072554227",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Sat, 25 Jul 2026 09:38:43 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1784944089525-7",
+      "title": "李 대통령 \"한국, 대체불가 공급망 핵심국가로 도약할 것\"",
+      "link": "https://www.hankyung.com/article/202607255401i",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Sat, 25 Jul 2026 09:38:03 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1784944089525-8",
+      "title": "[속보] 네이버 이해진 \"엔비디아·브룩필드서 100억달러 거금 투자\"",
+      "link": "https://www.hankyung.com/article/2026072554217",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Sat, 25 Jul 2026 09:36:05 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1784944089525-9",
+      "title": "[속보] 정의선 회장 \"엔비디아·구글 등과 협력, 피지컬 AI 구현 가속화\"",
+      "link": "https://www.hankyung.com/article/2026072554157",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Sat, 25 Jul 2026 09:28:06 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1784944089525-10",
+      "title": "[속보] 최태원 회장 \"브로드컴, 깜짝 놀랄 숫자의 메모리칩 계속 요구\"",
+      "link": "https://www.hankyung.com/article/2026072554147",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Sat, 25 Jul 2026 09:27:34 +0900",
+      "summary": null
+    },
+    {
+      "id": "조선일보-1784944089737-5",
+      "title": "李대통령 “한국, AI 생산기지·글로벌 테스트베드 될 것”",
+      "link": "https://www.chosun.com/economy/economy_general/2026/07/25/GAZTSOJQGI4WINRVME3TOZJTGM/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Fri, 24 Jul 2026 01:32:16 +0000",
+      "publishedAt": "Sat, 25 Jul 2026 00:16:04 +0000",
       "summary": null
     },
     {
-      "id": "조선일보-1784857699045-4",
-      "title": "제주항공·에어프레미아 인터라인 협력… ‘미주~아시아 연결성 제고’",
-      "link": "https://www.chosun.com/economy/industry-company/2026/07/24/GJRDCMJXMIZTGMBSMJSDKNZYGY/",
+      "id": "한국경제신문-1784944089525-11",
+      "title": "'깐부' 정의선·젠슨 황, 엔비디아 본사에서 회동…AI 후속 논의",
+      "link": "https://www.hankyung.com/article/202607255391g",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Sat, 25 Jul 2026 09:15:52 +0900",
+      "summary": null
+    },
+    {
+      "id": "조선일보-1784944089736-4",
+      "title": "미국 증시, 유가 하락에도 반도체주 급락에 혼조세",
+      "link": "https://www.chosun.com/economy/economy_general/2026/07/25/NSGXOLCWTZCIVAIEGPYEZEPDTY/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Fri, 24 Jul 2026 01:31:56 +0000",
+      "publishedAt": "Sat, 25 Jul 2026 00:13:53 +0000",
       "summary": null
     },
     {
-      "id": "조선일보-1784857699045-5",
-      "title": "스마일게이트, 공포 게임 ‘골목길: 귀흔’ 전 세계 출시",
-      "link": "https://www.chosun.com/economy/tech_it/2026/07/24/MMYTGYJXMQ4WMYRXGA3WIMJQG4/",
+      "id": "한국경제신문-1784944089525-12",
+      "title": "\"반바지 출근 괜찮아\" 허용…男 직장인들에 인기 폭발한 제품 [도쿄나우]",
+      "link": "https://www.hankyung.com/article/202607255396i",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Sat, 25 Jul 2026 09:13:12 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1784944089525-13",
+      "title": "[속보] 이재용 회장 \"AI 생태계 구축 위해 글로벌 협력 필수적\"",
+      "link": "https://www.hankyung.com/article/2026072553997",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Sat, 25 Jul 2026 09:07:47 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1784944089525-14",
+      "title": "일용직도 연 2000만원 넘으면 건보료 낸다…부과 개편 착수",
+      "link": "https://www.hankyung.com/article/2026072553547",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Sat, 25 Jul 2026 09:06:25 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1784944089525-15",
+      "title": "버터떡 금세 가고 '이것' 왔다…올 여름 뜨는 대세 디저트 [트렌드+]",
+      "link": "https://www.hankyung.com/article/202607243837g",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Sat, 25 Jul 2026 09:00:11 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1784944089525-16",
+      "title": "\"국민연금, 이것부터 확인하세요\"…노후 성패 갈리는 5가지",
+      "link": "https://www.hankyung.com/article/202607245084i",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Sat, 25 Jul 2026 09:00:10 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1784944089525-17",
+      "title": "뉴욕·런던 점령…무인양품 흉내 내던 미니소의 반전",
+      "link": "https://www.hankyung.com/article/202607120333i",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Sat, 25 Jul 2026 09:00:07 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1784944089525-18",
+      "title": "'마라톤 열리는 거 맞아?'…'열성 러너' A씨가 조마조마한 이유",
+      "link": "https://www.hankyung.com/article/202607120042i",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Sat, 25 Jul 2026 09:00:01 +0900",
+      "summary": null
+    },
+    {
+      "id": "조선일보-1784944089737-6",
+      "title": "‘세계의 공장’ 중국, 이제 ‘지능’도 수출…AI 모델 세계 시장으로",
+      "link": "https://www.chosun.com/economy/tech_it/2026/07/25/TA532LZ77FAIPLESLV5S5VZXKQ/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Fri, 24 Jul 2026 01:30:42 +0000",
+      "publishedAt": "Sat, 25 Jul 2026 00:00:00 +0000",
       "summary": null
     },
     {
-      "id": "조선일보-1784857699045-6",
-      "title": "NH증권 “현대글로비스, 이익 증가 기대…목표가 31만9000원”",
-      "link": "https://www.chosun.com/economy/stock-finance/2026/07/24/HBSGCNDBG42DGNZQMQ3GIMTEMI/",
+      "id": "한국경제신문-1784944089525-19",
+      "title": "李 대통령 만난 젠슨 황 \"SK와 5000억弗 파트너십 발표\"",
+      "link": "https://www.hankyung.com/article/202607255375i",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Sat, 25 Jul 2026 08:54:17 +0900",
+      "summary": null
+    },
+    {
+      "id": "조선일보-1784944089737-7",
+      "title": "젠슨 황 “SK와 5000억달러 파트너십”…삼성·현대차·네이버와도 협력",
+      "link": "https://www.chosun.com/economy/industry-company/2026/07/25/G42DIODGGNTGCZBTMNRDKZBYMQ/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Fri, 24 Jul 2026 01:29:56 +0000",
+      "publishedAt": "Fri, 24 Jul 2026 23:48:13 +0000",
       "summary": null
     },
     {
-      "id": "조선일보-1784857699045-7",
-      "title": "구윤철 “올해 3% 성장·1인당 GNI 4만달러 가능성 높아져”",
-      "link": "https://www.chosun.com/economy/economy_general/2026/07/24/GMYTMMLDMUZTSZDEG5QTKY3BME/",
+      "id": "조선일보-1784944089737-8",
+      "title": "천종식 CJ바사 고문, 미생물학 국제상 수상…원핵생물 분류에 기여",
+      "link": "https://www.chosun.com/economy/science/2026/07/25/MFRTGODCMYZTKOLBHAYWEY3EMU/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Fri, 24 Jul 2026 01:28:32 +0000",
+      "publishedAt": "Fri, 24 Jul 2026 23:40:22 +0000",
       "summary": null
     },
     {
-      "id": "조선일보-1784857699045-8",
-      "title": "생선 중의 생선, 귀한 ‘제주 옥돔’ 2마리 1만7000원 초특가",
-      "link": "https://www.chosun.com/economy/startup_story/2026/07/24/GSUKQB75HNFMLKXJAWQFJIZNPM/",
+      "id": "조선일보-1784944089737-10",
+      "title": "외국인 소비 몰렸다…백화점 매출 명품 비중 40% 돌파",
+      "link": "https://www.chosun.com/economy/economy_general/2026/07/25/GBQWCOLCHA4DCYZRGE3DOZTDMY/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Fri, 24 Jul 2026 01:25:52 +0000",
+      "publishedAt": "Fri, 24 Jul 2026 22:35:49 +0000",
       "summary": null
     },
     {
-      "id": "조선일보-1784857699045-9",
-      "title": "장수 위해 매일 먹어야 하는 토마토, 양구에서 수확 즉시 가장 신선할 때 산지 직송",
-      "link": "https://www.chosun.com/economy/startup_story/2026/07/24/KX6KPY6VLFF33AGURIDWFBTMN4/",
+      "id": "조선일보-1784944089737-12",
+      "title": "임금·성과급에 지방 이전까지… 금융권 ‘대규모 투쟁’ 가능성",
+      "link": "https://www.chosun.com/economy/stock-finance/2026/07/25/MNSGMMRXMQYTKZBVME4GINBVGY/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Fri, 24 Jul 2026 01:25:49 +0000",
+      "publishedAt": "Fri, 24 Jul 2026 22:00:00 +0000",
       "summary": null
     },
     {
-      "id": "조선일보-1784857699045-12",
-      "title": "[단독] LS증권, ‘가짜 주문’에 외국인 투자자 70억 손배소…‘본인확인 의무’ 두고 법적공방",
-      "link": "https://www.chosun.com/economy/stock-finance/2026/07/24/GM4DQMZUGRRDIMLDGY4GEMZSMY/",
+      "id": "조선일보-1784944089736-1",
+      "title": "“한국 반도체 기업 주가 저평가… 글로벌 선진국 지수 들어가려면 일본식 개혁 필요\"",
+      "link": "https://www.chosun.com/economy/weeklybiz/2026/07/25/CKI3REZCWBGK5FHLWNLEUOR7SA/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Fri, 24 Jul 2026 01:18:26 +0000",
+      "publishedAt": "Fri, 24 Jul 2026 18:00:00 +0000",
       "summary": null
     },
     {
-      "id": "조선일보-1784857699045-13",
-      "title": "美, 韓 환율 관찰대상국 유지하며 “원화 절하 압력 완화” 평가",
-      "link": "https://www.chosun.com/economy/economy_general/2026/07/24/HBSDSMTBHE4WKOJVMVRDIMLBGA/",
+      "id": "조선일보-1784944089736-3",
+      "title": "中 ‘천재 양성 플랜’이 낳은 AI 4대 천왕… 美 빅테크 턱밑까지 추격",
+      "link": "https://www.chosun.com/economy/tech_it/2026/07/25/PR6X3HDOB5DEHGSCPQSLKFSEWU/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Fri, 24 Jul 2026 01:12:58 +0000",
+      "publishedAt": "Fri, 24 Jul 2026 15:57:00 +0000",
       "summary": null
     },
     {
-      "id": "조선일보-1784857699045-14",
-      "title": "포에버엔케이, 카이로스 최대주주 지분 인수… “광진실업 경영 책임 강화”",
-      "link": "https://www.chosun.com/economy/stock-finance/2026/07/24/HA4DCMBRMI2WIMZVGRRGMZBTMI/",
+      "id": "조선일보-1784944089737-13",
+      "title": "새우깡·던킨 도넛… 먹거리 가격 줄인상",
+      "link": "https://www.chosun.com/economy/2026/07/25/7NFGB777BZBNTKU2PGCE73WUT4/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Fri, 24 Jul 2026 01:10:45 +0000",
+      "publishedAt": "Fri, 24 Jul 2026 15:53:00 +0000",
       "summary": null
     },
     {
-      "id": "조선일보-1784857699045-11",
-      "title": "KAIST·엔비디아, 4200억원 들여 AI 공동연구소 세운다",
-      "link": "https://www.chosun.com/economy/science/2026/07/24/XIQFL56P2BH4FM6PF2JRK36W34/",
+      "id": "조선일보-1784944089737-14",
+      "title": "중동 긴장에 유가 100달러 재돌파… 아시아 증시 휘청",
+      "link": "https://www.chosun.com/economy/money/2026/07/25/6IWN5DPAIZG6BLUKF6WLTL3KMM/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Fri, 24 Jul 2026 01:08:32 +0000",
+      "publishedAt": "Fri, 24 Jul 2026 15:53:00 +0000",
       "summary": null
     },
     {
-      "id": "한국경제신문-1784857698772-0",
-      "title": "최저시급 1만1000원 넘었다…알바생도 \"현재 소득 만족\"",
-      "link": "https://www.hankyung.com/article/202607243744g",
-      "source": "한국경제신문",
+      "id": "조선일보-1784944089737-11",
+      "title": "베이징대 동기 두 교수, 나란히 ‘수학계 노벨상’",
+      "link": "https://www.chosun.com/economy/science/2026/07/25/LOMRZW4HUFBM7I4ANP5NCNZIFU/",
+      "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Fri, 24 Jul 2026 10:07:41 +0900",
+      "publishedAt": "Fri, 24 Jul 2026 15:52:00 +0000",
       "summary": null
     },
     {
-      "id": "한국경제신문-1784857698772-1",
-      "title": "'장윤기 사건' 담당한 경찰서 강력팀장 구속기간 연장",
-      "link": "https://www.hankyung.com/article/2026072436937",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Fri, 24 Jul 2026 10:07:10 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1784857698772-2",
-      "title": "친명계마저 쓴소리…이언주 \"부동산 토론회 들으며 답답\"",
-      "link": "https://www.hankyung.com/article/202607243567H",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Fri, 24 Jul 2026 10:06:17 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1784857698772-3",
-      "title": "현대모비스, 2분기 매출 16조3247억원…영업이익 전년비 12.1%↑",
-      "link": "https://www.hankyung.com/article/202607243667g",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Fri, 24 Jul 2026 10:04:16 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1784857698772-4",
-      "title": "美 군함 정비 문 열렸다…K조선이 넘어야 할 벽",
-      "link": "https://www.hankyung.com/article/202607107426i",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Fri, 24 Jul 2026 10:00:03 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1784857698772-5",
-      "title": "이수경 \"월세 380만원이지만 만족\"…어디길래",
-      "link": "https://www.hankyung.com/article/202607243484H",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Fri, 24 Jul 2026 09:55:24 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1784857698772-6",
-      "title": "\"이제 화장실 안심\"…몰카방지법 통과에 웃음 짓는 '이 기업'",
-      "link": "https://www.hankyung.com/article/202607243609i",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Fri, 24 Jul 2026 09:54:01 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1784857698772-7",
-      "title": "'美 태양광 공급망 수혜주' OCI홀딩스, 상한가 찍었다",
-      "link": "https://www.hankyung.com/article/202607232236i",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Fri, 24 Jul 2026 09:50:05 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1784857698772-8",
-      "title": "트럼프 \"공격받은 선박 피해, 이란 동결자금으로 보상\"",
-      "link": "https://www.hankyung.com/article/2026072436047",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Fri, 24 Jul 2026 09:46:56 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1784857698772-9",
-      "title": "폭스바겐코리아, 2026 폭스바겐 침수 피해 차량 지원 캠페인",
-      "link": "https://www.hankyung.com/article/202607243642g",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Fri, 24 Jul 2026 09:46:37 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1784857698772-10",
-      "title": "한국투자증권, 인베스팅닷컴 계좌 개설 연동 서비스 출시",
-      "link": "https://www.hankyung.com/article/2026072436566",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Fri, 24 Jul 2026 09:46:25 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1784857698772-11",
-      "title": "\"이번엔 진짜 간다\"더니…바이오주가 또 무너진 까닭",
-      "link": "https://www.hankyung.com/article/202607243509i",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Fri, 24 Jul 2026 09:45:02 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1784857698772-12",
-      "title": "스페이스X 급락 후폭풍…'고편입 ETF' 수익률 격차 커진다",
-      "link": "https://www.hankyung.com/article/202607243472i",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Fri, 24 Jul 2026 09:40:47 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1784857698772-13",
-      "title": "한 달 만에 10만원→1.4만원…코오롱티슈진 쓰디쓴 임상 실패",
-      "link": "https://www.hankyung.com/article/2026072435576",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Fri, 24 Jul 2026 09:38:27 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1784857698772-14",
-      "title": "\"멘토 인연\"…최백호, CJ ENM '오펜 뮤직'과 50주년 앨범 발매",
-      "link": "https://www.hankyung.com/article/202607243571H",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Fri, 24 Jul 2026 09:37:41 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1784857698772-15",
-      "title": "[한상춘의 세계경제 읽기]日 기준금리, 31년 만에 1%대로 올라섰다… 바이오 업체, 엔 차입자금 갚아야 하나?",
-      "link": "https://www.hankyung.com/article/202606294686i",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Fri, 24 Jul 2026 09:37:31 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1784857698772-16",
-      "title": "국순당, 전통주로 지역상생 나선다…중림복지관 '약현'과 협약",
-      "link": "https://www.hankyung.com/article/202607243595g",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Fri, 24 Jul 2026 09:36:10 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1784857698772-17",
-      "title": "트럼프의 분노…록히드마틴 주가 뛰자 100만원 돌파한 'K종목' [종목+]",
-      "link": "https://www.hankyung.com/article/2026072435696",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Fri, 24 Jul 2026 09:35:50 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1784857698772-18",
-      "title": "[해외 통신원 리포트]일본, 특허 절벽 넘으려 글로벌 인수합병에 적극적",
-      "link": "https://www.hankyung.com/article/202606294676i",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Fri, 24 Jul 2026 09:35:37 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1784857698772-19",
-      "title": "로킷헬스케어, 美 20/20 바이오랩스와 다중암·만성질환 AI 진단 공동개발",
-      "link": "https://www.hankyung.com/article/202607243561i",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Fri, 24 Jul 2026 09:32:15 +0900",
-      "summary": null
-    },
-    {
-      "id": "조선일보-1784857699045-0",
+      "id": "조선일보-1784944089737-9",
       "title": "한국 반도체 저승사자 모건스탠리 “요즘 자숙 모드” 이유는",
       "link": "https://www.chosun.com/economy/stock-finance/2026/07/24/UR6ILRLFFZCBLABQP56PQWFPZQ/",
       "source": "조선일보",
       "category": "경제",
       "publishedAt": "Thu, 23 Jul 2026 23:10:00 +0000",
-      "summary": null
-    },
-    {
-      "id": "조선일보-1784857699045-10",
-      "title": "여의도 15배 빙산이 막았다… 황제펭귄 새끼 69% 사라진 이유",
-      "link": "https://www.chosun.com/economy/science/2026/07/24/IPWXLD6LN5C4JMO3EDFEOWBBDE/",
-      "source": "조선일보",
-      "category": "경제",
-      "publishedAt": "Thu, 23 Jul 2026 21:05:00 +0000",
       "summary": null
     }
   ]
