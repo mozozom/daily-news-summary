@@ -1,319 +1,319 @@
 {
-  "lastUpdated": "2026-09-08T02:06:03.686Z",
+  "lastUpdated": "2026-09-09T02:10:36.111Z",
   "articles": [
     {
-      "id": "한국경제신문-1788833100905-0",
-      "title": "[단독]농진청이 4조 투입한 국유특허 중 62.5% '낮잠'",
-      "link": "https://www.hankyung.com/article/202609080724i",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Tue, 08 Sep 2026 10:56:29 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1788833100905-1",
-      "title": "[속보] HMM, 브라질 광산업체와 4.7조원 규모 장기 운송 계약",
-      "link": "https://www.hankyung.com/article/2026090808287",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Tue, 08 Sep 2026 10:55:36 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1788833100905-2",
-      "title": "트러스톤, 태광산업 주장 반박…\"위법적 주가부양 요구 안해\"",
-      "link": "https://www.hankyung.com/article/202609080818i",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Tue, 08 Sep 2026 10:53:40 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1788833100905-3",
-      "title": "[속보] 대한체육회, 잠실개표소 물품 반출 1시간 30분 만에 종료",
-      "link": "https://www.hankyung.com/article/2026090808247",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Tue, 08 Sep 2026 10:53:19 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1788833100905-4",
-      "title": "[속보] '황정민 사생활 폭로·스토킹' 40대 여성, 벌금 600만원 선고",
-      "link": "https://www.hankyung.com/article/2026090808227",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Tue, 08 Sep 2026 10:52:52 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1788833100905-5",
-      "title": "하나에어로다이내믹스, 美 벨과 2031년까지 헬기 동체 공급",
-      "link": "https://www.hankyung.com/article/202609080804i",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Tue, 08 Sep 2026 10:50:02 +0900",
-      "summary": null
-    },
-    {
-      "id": "조선일보-1788833101923-10",
-      "title": "HMM, 브라질 광산 업체 발레와 4조7000억원 규모 운송 계약 체결",
-      "link": "https://www.chosun.com/economy/industry-company/2026/09/08/HBTDSNDFG4YGEMBRGU2TCZRWGM/",
+      "id": "조선일보-1788919773521-0",
+      "title": "美 “딥시크 등 中 AI 6개사, 美 AI 무단 증류”",
+      "link": "https://www.chosun.com/economy/tech_it/2026/09/09/IKMYFZI6NNGGPOQKHSD55BPBOY/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Tue, 08 Sep 2026 01:49:33 +0000",
+      "publishedAt": "Wed, 09 Sep 2026 02:04:52 +0000",
       "summary": null
     },
     {
-      "id": "조선일보-1788833101923-11",
-      "title": "아리바이오, 차세대 히알루론산 필러 4종 인도네시아 허가",
-      "link": "https://www.chosun.com/economy/science/2026/09/08/GQ2WEYLBGFRDGOJTGVSGKNZSGY/",
+      "id": "조선일보-1788919773521-1",
+      "title": "[경제 포커스] 국민소득은 4만弗, 청년은 고용 절벽",
+      "link": "https://www.chosun.com/economy/economy_general/2026/09/09/MNRTGN3BMQ4WKMJSGU3GKYLEGA/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Tue, 08 Sep 2026 01:49:32 +0000",
+      "publishedAt": "Wed, 09 Sep 2026 02:03:58 +0000",
       "summary": null
     },
     {
-      "id": "한국경제신문-1788833100905-6",
-      "title": "경찰 \"핸드볼 경기장 진입…불법행위 시 엄정 대응\"",
-      "link": "https://www.hankyung.com/article/2026090807417",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Tue, 08 Sep 2026 10:49:29 +0900",
-      "summary": null
-    },
-    {
-      "id": "조선일보-1788833101923-12",
-      "title": "정점식 “자기 죄 지우기 올인하는 李대통령, 이번 정부에서 개헌 없다”",
-      "link": "https://www.chosun.com/economy/economy_general/2026/09/08/GJRWCY3BGQ2TIYZUMFQTQYRVMQ/",
+      "id": "조선일보-1788919773521-2",
+      "title": "[속보] 고려아연, 임시주총서 ‘분리선출 감사위원 확대’ 안건 가결",
+      "link": "https://www.chosun.com/economy/industry-company/2026/09/09/GE3WEYJUMEYDINBRMFSTGMJTHA/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Tue, 08 Sep 2026 01:49:04 +0000",
+      "publishedAt": "Wed, 09 Sep 2026 02:01:02 +0000",
       "summary": null
     },
     {
-      "id": "한국경제신문-1788833100905-7",
-      "title": "\"AI도 티몰서 산다\"…中 AI 기업, 유료 고객 쟁탈전 [차이나 워치]",
-      "link": "https://www.hankyung.com/article/202609080774i",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Tue, 08 Sep 2026 10:46:41 +0900",
-      "summary": null
-    },
-    {
-      "id": "조선일보-1788833101923-13",
-      "title": "정무수석, 李 ‘연임 개헌’ 논란에... “대통령이 분명하게 의사 밝힐 기회 있을 것”",
-      "link": "https://www.chosun.com/economy/economy_general/2026/09/08/MM4TKNJWMQ2TMYZXMUYGIY3BGY/",
+      "id": "조선일보-1788919773521-4",
+      "title": "농식품부, 축산물품질평가원 축산 분야 3개 기관 통합 추진...마사회 본사는 남원·이천 등 유치 경쟁",
+      "link": "https://www.chosun.com/economy/economy_general/2026/09/09/STWDD5QWXFGUFIEWTSIBWLRDAM/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Tue, 08 Sep 2026 01:44:55 +0000",
+      "publishedAt": "Wed, 09 Sep 2026 02:00:00 +0000",
       "summary": null
     },
     {
-      "id": "한국경제신문-1788833100905-8",
-      "title": "中태양광 독주에 도전장…日, 내구성 높인 전지 개발",
-      "link": "https://www.hankyung.com/article/202609080168i",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Tue, 08 Sep 2026 10:44:01 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1788833100905-9",
-      "title": "BBC필하모닉 11년 만에 내한…김봄소리 협연",
-      "link": "https://www.hankyung.com/article/202609080675i",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Tue, 08 Sep 2026 10:43:29 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1788833100905-10",
-      "title": "靑 \"與지도부서 용혜인 지명 철회·사퇴 요청 받은 바 없다\"",
-      "link": "https://www.hankyung.com/article/2026090807617",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Tue, 08 Sep 2026 10:42:19 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1788833100905-11",
-      "title": "2분기 지식산업센터 거래액 40% 급감…공급과잉·이자부담에 '찬바람'",
-      "link": "https://www.hankyung.com/article/202609080680i",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Tue, 08 Sep 2026 10:41:20 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1788833100905-12",
-      "title": "'승무원 미스트' 입소문 달바, 中 현지 법인 세우고 본격 영업",
-      "link": "https://www.hankyung.com/article/202609080495g",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Tue, 08 Sep 2026 10:36:50 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1788833100905-13",
-      "title": "삼성 '여권폰' 인기 끌더니…샤오미·애플까지 \"폴더블폰 격돌\" [테크로그]",
-      "link": "https://www.hankyung.com/article/202609079765g",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Tue, 08 Sep 2026 10:29:27 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1788833100905-14",
-      "title": "3년 전 수사기록 흔들며 \"의정활동\"이라던 김의겸, 한동훈엔?",
-      "link": "https://www.hankyung.com/article/202609080227H",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Tue, 08 Sep 2026 10:25:37 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1788833100905-15",
-      "title": "북미 192만 명 홀린 BTS… 31회 전회 매진·소파이 신기록",
-      "link": "https://www.hankyung.com/article/202609080601i",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Tue, 08 Sep 2026 10:24:23 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1788833100905-16",
-      "title": "\"이 옷 왜 유행이지?\"…커뮤니티서 '떡상' 브랜드 찾는다",
-      "link": "https://www.hankyung.com/article/202609080656g",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Tue, 08 Sep 2026 10:23:10 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1788833100905-17",
-      "title": "7년 된 '한화포레나'의 반전…힐스테이트·자이와 나란히 '톱3'",
-      "link": "https://www.hankyung.com/article/2026090806786",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Tue, 08 Sep 2026 10:21:32 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1788833100905-18",
-      "title": "<오디세이>가 묻는다… AI 시대 진짜 럭셔리는 무엇일까 [이윤경의 럭셔리코드]",
-      "link": "https://www.hankyung.com/article/202608249267i",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Tue, 08 Sep 2026 10:17:41 +0900",
-      "summary": null
-    },
-    {
-      "id": "조선일보-1788833101923-0",
-      "title": "암과 싸우다 지친 면역세포 ‘탈진’ 억제했더니 뇌종양 항암 효과 높아졌다",
-      "link": "https://www.chosun.com/economy/science/2026/09/08/TJ6J34YK3VE5NH23MD3EP3NYZI/",
+      "id": "조선일보-1788919773521-3",
+      "title": "오픈AI ‘아스트라’, ‘인간 인증’ 캡차 48단계 모두 통과",
+      "link": "https://www.chosun.com/economy/tech_it/2026/09/09/CGRIDOL4DZHLPK7ZPH4UJC7G6U/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Tue, 08 Sep 2026 01:17:28 +0000",
+      "publishedAt": "Wed, 09 Sep 2026 01:59:34 +0000",
       "summary": null
     },
     {
-      "id": "한국경제신문-1788833100905-19",
-      "title": "하루 14시간 배달하던 40대 가장, 장기 기증으로 4명에 '새 삶' 선물",
-      "link": "https://www.hankyung.com/article/2026090805987",
+      "id": "조선일보-1788919773521-5",
+      "title": "은행 ATM 3년 반 새 15.7% 감소…울산·경남·제주 20% 넘게 줄어",
+      "link": "https://www.chosun.com/economy/stock-finance/2026/09/09/GJQS5KNL7JGDTLC7ND62EHXCQA/",
+      "source": "조선일보",
+      "category": "경제",
+      "publishedAt": "Wed, 09 Sep 2026 01:57:55 +0000",
+      "summary": null
+    },
+    {
+      "id": "조선일보-1788919773521-6",
+      "title": "“SNS에서 뭘 볼지 내가 정한다”…호주·EU, 빅테크 알고리즘 잇단 규제",
+      "link": "https://www.chosun.com/economy/tech_it/2026/09/09/YJUC3UAVTFFU7OI3GI2FSZZTMM/",
+      "source": "조선일보",
+      "category": "경제",
+      "publishedAt": "Wed, 09 Sep 2026 01:54:15 +0000",
+      "summary": null
+    },
+    {
+      "id": "조선일보-1788919773521-9",
+      "title": "LX판토스, 미국·태국산 신선란 1120만개 항공 수송",
+      "link": "https://www.chosun.com/economy/industry-company/2026/09/09/GE2DMNZZME4DKZJVGRRDQYRVGU/",
+      "source": "조선일보",
+      "category": "경제",
+      "publishedAt": "Wed, 09 Sep 2026 01:50:38 +0000",
+      "summary": null
+    },
+    {
+      "id": "조선일보-1788919773521-7",
+      "title": "파크골프채 딱 이것만 보고 고르세요, 20만~40만원 대 가격대별 성능 총정리",
+      "link": "https://www.chosun.com/economy/startup_story/2026/06/10/66OLUDXFQBDKNIRU7XIKAN7GAY/",
+      "source": "조선일보",
+      "category": "경제",
+      "publishedAt": "Wed, 09 Sep 2026 01:48:48 +0000",
+      "summary": null
+    },
+    {
+      "id": "조선일보-1788919773521-10",
+      "title": "PV5 열 가지 모델을 한 라인에서…대형 PBV ‘PV7’도 여기서 만든다",
+      "link": "https://www.chosun.com/economy/auto/2026/09/09/KSC434SGORBRHCSUCM7DQBCPHM/",
+      "source": "조선일보",
+      "category": "경제",
+      "publishedAt": "Wed, 09 Sep 2026 01:42:22 +0000",
+      "summary": null
+    },
+    {
+      "id": "조선일보-1788919773521-13",
+      "title": "수십만원 비데보다 낫다, 전기요금까지 확 줄인 13만원대 국산 특허 비데",
+      "link": "https://www.chosun.com/economy/startup_story/2026/09/08/7KF7I3NUZVDU7CTOXZQM3J4GTY/",
+      "source": "조선일보",
+      "category": "경제",
+      "publishedAt": "Wed, 09 Sep 2026 01:39:03 +0000",
+      "summary": null
+    },
+    {
+      "id": "조선일보-1788919773521-14",
+      "title": "올해 수확 사과 드디어 나왔다, 첫 입고 경북 영주 ‘특품 홍로’ 23개 5만원대 단독 특가",
+      "link": "https://www.chosun.com/economy/startup_story/2026/09/07/2D7F2XAQVRG6RB35X7W4YKKNXM/",
+      "source": "조선일보",
+      "category": "경제",
+      "publishedAt": "Wed, 09 Sep 2026 01:38:49 +0000",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1788919772408-0",
+      "title": "채플린도 다녀간 호텔 …이곳의 애프터눈티엔 희극과 비극이 공존한다 [류재도의 테마가 있는 다이닝]",
+      "link": "https://www.hankyung.com/article/202609044864i",
       "source": "한국경제신문",
       "category": "경제",
-      "publishedAt": "Tue, 08 Sep 2026 10:16:39 +0900",
+      "publishedAt": "Wed, 09 Sep 2026 10:35:55 +0900",
       "summary": null
     },
     {
-      "id": "조선일보-1788833101923-14",
-      "title": "작전세력, 180억 챙기고 주식 팔아치워… 주가는 5일 만에 반토막",
-      "link": "https://www.chosun.com/economy/stock-finance/2026/09/08/BIQE563OVVGYPL7W4MXPGYKURE/",
+      "id": "조선일보-1788919773521-12",
+      "title": "‘8조 이혼소송’ 권혁빈의 스마일게이트...‘크로스파이어’ 성공 신화로 5대 게임사에",
+      "link": "https://www.chosun.com/economy/tech_it/2026/09/09/Z55JRPBE6BEOHNV6IAA7LI5EZA/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Mon, 07 Sep 2026 15:52:00 +0000",
+      "publishedAt": "Wed, 09 Sep 2026 01:34:43 +0000",
       "summary": null
     },
     {
-      "id": "조선일보-1788833101923-1",
-      "title": "스마트폰 가격 급등… 화면도 직접 교체해 쓴다",
-      "link": "https://www.chosun.com/economy/tech_it/2026/09/08/UBWHNSIXIBEYVCD2E5FJD3D3FI/",
-      "source": "조선일보",
+      "id": "한국경제신문-1788919772409-1",
+      "title": "대신증권 \"크레온 비대면 신규 고객에 최대 6만원 지급\"",
+      "link": "https://www.hankyung.com/article/2026090933696",
+      "source": "한국경제신문",
       "category": "경제",
-      "publishedAt": "Mon, 07 Sep 2026 15:33:00 +0000",
+      "publishedAt": "Wed, 09 Sep 2026 10:31:17 +0900",
       "summary": null
     },
     {
-      "id": "조선일보-1788833101923-2",
-      "title": "삼성, 오늘부터 하반기 신입 공채 실시",
-      "link": "https://www.chosun.com/economy/industry-company/2026/09/08/NBPTRG75UREIXFMLVY6WVEFTAA/",
-      "source": "조선일보",
+      "id": "한국경제신문-1788919772409-2",
+      "title": "청와대, '이달중 대미투자금 첫 송금' 보도에 \"후보군 협의 중\"",
+      "link": "https://www.hankyung.com/article/2026090933357",
+      "source": "한국경제신문",
       "category": "경제",
-      "publishedAt": "Mon, 07 Sep 2026 15:33:00 +0000",
+      "publishedAt": "Wed, 09 Sep 2026 10:29:37 +0900",
       "summary": null
     },
     {
-      "id": "조선일보-1788833101923-3",
-      "title": "집 산 뒤 빚 부담 급증한 상위 10% 가구… 금리 1%p 오르면 연체 비율 0.8%p 올라",
-      "link": "https://www.chosun.com/economy/market_trend/2026/09/08/PLDWQUVH2VCVXDJMCPIS7H5D2M/",
-      "source": "조선일보",
+      "id": "한국경제신문-1788919772409-3",
+      "title": "거래소 \"추석 연휴 직전일(23일) 파생상품 야간거래 휴장\"",
+      "link": "https://www.hankyung.com/article/2026090933366",
+      "source": "한국경제신문",
       "category": "경제",
-      "publishedAt": "Mon, 07 Sep 2026 15:32:00 +0000",
+      "publishedAt": "Wed, 09 Sep 2026 10:25:22 +0900",
       "summary": null
     },
     {
-      "id": "조선일보-1788833101923-4",
-      "title": "‘밈’을 보면 보인다… AI가 일하는 실리콘밸리",
-      "link": "https://www.chosun.com/economy/tech_it/2026/09/08/KFPYOSSRKFEBNEIJMT2EHHGWUY/",
-      "source": "조선일보",
+      "id": "한국경제신문-1788919772409-4",
+      "title": "\"하노이 100년 청사진 올라탄다\"…대우건설, 베트남 투자 확대",
+      "link": "https://www.hankyung.com/article/2026090932756",
+      "source": "한국경제신문",
       "category": "경제",
-      "publishedAt": "Mon, 07 Sep 2026 15:32:00 +0000",
+      "publishedAt": "Wed, 09 Sep 2026 10:17:06 +0900",
       "summary": null
     },
     {
-      "id": "조선일보-1788833101923-5",
-      "title": "복비도 비싼데 집 구경비까지 내라?",
-      "link": "https://www.chosun.com/economy/real_estate/2026/09/08/6KHKI7DLRREAXGGTFZNX5ZARHM/",
-      "source": "조선일보",
+      "id": "한국경제신문-1788919772409-5",
+      "title": "피아니스트 박진형, 아르투르 루빈스타인 피아노 콩쿠르 공동 2위",
+      "link": "https://www.hankyung.com/article/202609093107i",
+      "source": "한국경제신문",
       "category": "경제",
-      "publishedAt": "Mon, 07 Sep 2026 15:32:00 +0000",
+      "publishedAt": "Wed, 09 Sep 2026 10:16:57 +0900",
       "summary": null
     },
     {
-      "id": "조선일보-1788833101923-6",
-      "title": "채용 상담하는 구직자들",
-      "link": "https://www.chosun.com/economy/economy_general/2026/09/08/L4OWAFHUYREIBKJJYXDXV3WA3M/",
-      "source": "조선일보",
+      "id": "한국경제신문-1788919772409-6",
+      "title": "\"시장서 본 뻥튀기에 꽂혔다\"…직원 아이디어가 만든 '국민 떡뻥' [권용훈의 트렌드워치]",
+      "link": "https://www.hankyung.com/article/202609093212i",
+      "source": "한국경제신문",
       "category": "경제",
-      "publishedAt": "Mon, 07 Sep 2026 15:32:00 +0000",
+      "publishedAt": "Wed, 09 Sep 2026 10:15:58 +0900",
       "summary": null
     },
     {
-      "id": "조선일보-1788833101923-7",
-      "title": "이제 車는 ‘차이나 스탠다드’… 中 하는대로 따라한다",
-      "link": "https://www.chosun.com/economy/auto/2026/09/08/DMNMU7XPRBGUDLOVI37HORFPDI/",
-      "source": "조선일보",
+      "id": "한국경제신문-1788919772409-7",
+      "title": "첫 화면부터 확 바꿨다…IPARK현대산업개발, 홈페이지 전면 개편",
+      "link": "https://www.hankyung.com/article/2026090932606",
+      "source": "한국경제신문",
       "category": "경제",
-      "publishedAt": "Mon, 07 Sep 2026 15:31:00 +0000",
+      "publishedAt": "Wed, 09 Sep 2026 10:13:15 +0900",
       "summary": null
     },
     {
-      "id": "조선일보-1788833101923-8",
-      "title": "[주요경제지표] 2026년 9월 7일자",
-      "link": "https://www.chosun.com/economy/stock-finance/2026/09/08/ODAT6GWH7JCC5LK5CGDAUGMO24/",
-      "source": "조선일보",
+      "id": "한국경제신문-1788919772409-8",
+      "title": "거래액 86배 폭증 비법…\"배송 '직진'으로 바꿨다\"",
+      "link": "https://www.hankyung.com/article/202609093156g",
+      "source": "한국경제신문",
       "category": "경제",
-      "publishedAt": "Mon, 07 Sep 2026 15:31:00 +0000",
+      "publishedAt": "Wed, 09 Sep 2026 10:08:32 +0900",
       "summary": null
     },
     {
-      "id": "조선일보-1788833101923-9",
-      "title": "악성 임대인 신상 공개된 후에도, 전세금 5700억 떼먹어",
-      "link": "https://www.chosun.com/economy/real_estate/2026/09/08/GXP2SGA3BZEZBJ46NV47WGI2EA/",
+      "id": "한국경제신문-1788919772409-9",
+      "title": "장 열리자마자 20% 치솟았다…줄줄이 폭등한 '이 종목들'",
+      "link": "https://www.hankyung.com/article/2026090932156",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Wed, 09 Sep 2026 10:06:19 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1788919772409-10",
+      "title": "\"소명 못해 도망가냐\"…용혜인 3년 전 발언, 부메랑 됐다",
+      "link": "https://www.hankyung.com/article/202609092937H",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Wed, 09 Sep 2026 10:05:50 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1788919772409-11",
+      "title": "美 데이터센터 뚫은 두산퓨얼셀…증권가 \"20% 이상 상승여력\"",
+      "link": "https://www.hankyung.com/article/202609093130i",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Wed, 09 Sep 2026 10:04:01 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1788919772409-12",
+      "title": "경복궁서 한푸 입은 중국인들 '인증샷 찰칵'…우려 쏟아졌다",
+      "link": "https://www.hankyung.com/article/202609093072H",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Wed, 09 Sep 2026 10:03:05 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1788919772409-13",
+      "title": "\"술 마시고 오토바이 쾅\"…이혁재, 음주운전 사고 입건",
+      "link": "https://www.hankyung.com/article/202609093157H",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Wed, 09 Sep 2026 10:02:00 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1788919772409-14",
+      "title": "'교보문고맛' 다음은 '밀리의서재'…생크림빵의 끝없는 책사랑",
+      "link": "https://www.hankyung.com/article/202609092580g",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Wed, 09 Sep 2026 10:01:30 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1788919772409-15",
+      "title": "'하정우 와인' 히트 치더니…고흐 명화 담은 '9900원 아트와인' 내놨다 [갓신상]",
+      "link": "https://www.hankyung.com/article/202609092746g",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Wed, 09 Sep 2026 10:00:38 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1788919772409-16",
+      "title": "\"삼성 기술, 中에 빼돌렸다\" 핵심 증거 봤더니…법정서 '반전'",
+      "link": "https://www.hankyung.com/article/202609093098i",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Wed, 09 Sep 2026 10:00:00 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1788919772409-17",
+      "title": "서울시무용단, '미메시스'로 미국 워싱턴 D.C.무대 오른다",
+      "link": "https://www.hankyung.com/article/202609092740i",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Wed, 09 Sep 2026 09:58:19 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1788919772409-18",
+      "title": "\"아침엔 겉옷 챙기세요\" 내일 기온 뚝 떨어져 최저 11도",
+      "link": "https://www.hankyung.com/article/202609093103H",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Wed, 09 Sep 2026 09:54:21 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1788919772409-19",
+      "title": "\"요즘 누가 홈쇼핑 봐요\" 했는데…추석 대목 앞두고 '칼 갈았다' [트렌드+]",
+      "link": "https://www.hankyung.com/article/202609092628g",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Wed, 09 Sep 2026 09:50:35 +0900",
+      "summary": null
+    },
+    {
+      "id": "조선일보-1788919773521-11",
+      "title": "‘8조원대 재산분할’ 이혼소송...오늘 권혁빈 스마일게이트 창업자 이혼 1심 선고",
+      "link": "https://www.chosun.com/economy/tech_it/2026/09/09/3JBY42BLRBDPZIMKTDGLC3JR7Q/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Mon, 07 Sep 2026 15:31:00 +0000",
+      "publishedAt": "Wed, 09 Sep 2026 00:29:08 +0000",
+      "summary": null
+    },
+    {
+      "id": "조선일보-1788919773521-8",
+      "title": "8월 취업자 18만↑ 청년 고용률은 2년4개월째 악화",
+      "link": "https://www.chosun.com/economy/economy_general/2026/09/09/INT6SLOSEBG75JLCNNVTW6ZUIM/",
+      "source": "조선일보",
+      "category": "경제",
+      "publishedAt": "Tue, 08 Sep 2026 23:26:23 +0000",
       "summary": null
     }
   ]
