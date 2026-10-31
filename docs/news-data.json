@@ -1,319 +1,319 @@
 {
-  "lastUpdated": "2026-10-30T03:34:02.803Z",
+  "lastUpdated": "2026-10-31T03:18:12.649Z",
   "articles": [
     {
-      "id": "조선일보-1793331180061-0",
-      "title": "21세기 정주영에 도전하는 청년들, 정주영 창업경진대회 개최",
-      "link": "https://www.chosun.com/economy/startup_story/2026/10/30/JLENMSDZWFGOJBE2A4UTM25C5E/",
+      "id": "조선일보-1793416629792-1",
+      "title": "오늘 기름 넣을까...기름값 24주 연속 하락세",
+      "link": "https://www.chosun.com/economy/industry-company/2026/10/31/KP6NQNZTXVCLPBNNP6RW3O2SIQ/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Fri, 30 Oct 2026 03:26:02 +0000",
+      "publishedAt": "Sat, 31 Oct 2026 02:44:24 +0000",
       "summary": null
     },
     {
-      "id": "조선일보-1793331180061-2",
-      "title": "AI로 매물 분석하고 중개까지…땅집고·부피디, 부동산 서비스 협력",
-      "link": "https://www.chosun.com/economy/realty/realestate_finance/2026/10/30/GMZGMOJSMI4TCYZZMNTGINTDGE/",
+      "id": "조선일보-1793416629792-2",
+      "title": "세일즈포스, 방산 AI 스타트업 룬 인수… 국방 시장 공략 강화",
+      "link": "https://www.chosun.com/economy/tech_it/2026/10/31/GI2TSZTGMQ3DSM3BGMYTQNBTMI/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Fri, 30 Oct 2026 03:15:00 +0000",
+      "publishedAt": "Sat, 31 Oct 2026 02:16:50 +0000",
       "summary": null
     },
     {
-      "id": "조선일보-1793331180061-3",
-      "title": "소아 경련 치료…삼진로라제팜, 퇴장 방지 의약품 지정",
-      "link": "https://www.chosun.com/economy/science/2026/10/30/MQYTMOBWMRTGCMLGMJSTOYJYGE/",
+      "id": "한국경제신문-1793416629528-0",
+      "title": "회사 안 다니고 인스타만…팔로워 10만명이면 월급 벌까? [정지은의 테크킥]",
+      "link": "https://www.hankyung.com/article/202610317178i",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Sat, 31 Oct 2026 11:00:08 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1793416629528-1",
+      "title": "\"낚싯줄에 걸렸다\"…30분 사투 끝에 잡힌 '3m 괴물' 정체",
+      "link": "https://www.hankyung.com/article/2026103173367",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Sat, 31 Oct 2026 10:49:02 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1793416629528-2",
+      "title": "\"치맥 즐겼는데 살 빠지고 눈 노래져\"…5년 생존율 17% '이 암' [건강!톡]",
+      "link": "https://www.hankyung.com/article/2026103174407",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Sat, 31 Oct 2026 10:47:02 +0900",
+      "summary": null
+    },
+    {
+      "id": "조선일보-1793416629792-5",
+      "title": "인텔, 52년 만의 최악 폭락...뉴욕 증시도 털썩",
+      "link": "https://www.chosun.com/economy/industry-company/2026/10/31/53CDYV5NJRARTJW6VSKHBPJI3I/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Fri, 30 Oct 2026 03:10:52 +0000",
+      "publishedAt": "Sat, 31 Oct 2026 01:40:12 +0000",
       "summary": null
     },
     {
-      "id": "조선일보-1793331180061-11",
-      "title": "디즈니+도 “광고 보면 월 7000원”… 기존 요금제는 가격 인상",
-      "link": "https://www.chosun.com/economy/tech_it/2026/10/30/MI2DKZTEGY2DEMBTMEYDKZRQHE/",
+      "id": "한국경제신문-1793416629528-3",
+      "title": "\"악의·거짓 고발\"…수사 시한 마지막 날 불려온 김병기",
+      "link": "https://www.hankyung.com/article/2026103174337",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Sat, 31 Oct 2026 10:36:12 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1793416629528-4",
+      "title": "재건축 아파트값 '억' 소리나게 떨어져…몸테크 열풍 끝? [이슬기의 새집다오]",
+      "link": "https://www.hankyung.com/article/2026102938986",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Sat, 31 Oct 2026 10:30:02 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1793416629528-5",
+      "title": "\"달러로 돈 빌리면 손해\"…中기업들 200조원 몰린 곳 [차이나 워치]",
+      "link": "https://www.hankyung.com/article/202610277316i",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Sat, 31 Oct 2026 10:26:01 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1793416629528-6",
+      "title": "\"빚 갚으려 또 빚낼 판\"…프랑스 신용등급에 '강등 경고등'",
+      "link": "https://www.hankyung.com/article/2026103174217",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Sat, 31 Oct 2026 10:24:59 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1793416629528-7",
+      "title": "\"필기시험 30번 떨어졌다\"…87m 무면허 운전한 60대의 최후",
+      "link": "https://www.hankyung.com/article/2026103174177",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Sat, 31 Oct 2026 10:13:32 +0900",
+      "summary": null
+    },
+    {
+      "id": "조선일보-1793416629792-8",
+      "title": "애플, 엔비디아 제치고 시총 1위 탈환",
+      "link": "https://www.chosun.com/economy/tech_it/2026/10/31/MYZDIMJYMFQWMZJVGEZGIMJRGU/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Fri, 30 Oct 2026 03:00:46 +0000",
+      "publishedAt": "Sat, 31 Oct 2026 01:12:20 +0000",
       "summary": null
     },
     {
-      "id": "조선일보-1793331180061-13",
-      "title": "농식품부, 은퇴 군견·경찰견 지원센터 설립키로",
-      "link": "https://www.chosun.com/economy/economy_general/2026/10/30/GJSGKNRQMZSGMYRXGRSDKZJWGA/",
+      "id": "한국경제신문-1793416629528-8",
+      "title": "\"5억 쓰려다 53억 낙찰\"…경매 입찰표 '0 하나' 실수 막는다",
+      "link": "https://www.hankyung.com/article/2026103173967",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Sat, 31 Oct 2026 10:06:48 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1793416629528-9",
+      "title": "'황야의 7인'이 붕어빵 됐다…똑같은 미래로 질주하는 'M7' [김인엽의 AI프런티어]",
+      "link": "https://www.hankyung.com/article/202610304854i",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Sat, 31 Oct 2026 10:00:07 +0900",
+      "summary": null
+    },
+    {
+      "id": "조선일보-1793416629792-9",
+      "title": "진성준 국방위원장, 美 비자 거부 통보 사흘 만에 발급…“예정대로 내일 출국”",
+      "link": "https://www.chosun.com/economy/economy_general/2026/10/31/GIYWMNRUGNTGKZJUGBTGMNLEMU/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Fri, 30 Oct 2026 03:00:00 +0000",
+      "publishedAt": "Sat, 31 Oct 2026 00:38:39 +0000",
       "summary": null
     },
     {
-      "id": "조선일보-1793331180061-14",
-      "title": "수출 대금 유입, 외국인 주식 매도에 외환 거래액 또 ‘사상 최대’",
-      "link": "https://www.chosun.com/economy/economy_general/2026/10/30/ACEYX4J3BFEDLFJVJCZKPRSVRU/",
+      "id": "한국경제신문-1793416629528-10",
+      "title": "\"후회말고 삼성전자 사라\"…100조 '뉴노멀'에 개미도 들썩 [강경주의 테크X]",
+      "link": "https://www.hankyung.com/article/2026103064846",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Sat, 31 Oct 2026 09:30:03 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1793416629528-11",
+      "title": "'증시 바닥 찍었네' 기대감 폭발하더니…'3200억' 몰린 곳",
+      "link": "https://www.hankyung.com/article/2026103173617",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Sat, 31 Oct 2026 09:22:46 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1793416629528-12",
+      "title": "\"무릎 꿇어라\" 애플에 굴욕당한 男…10년 후 벌어진 '대반전' [박한신의 테크+]",
+      "link": "https://www.hankyung.com/article/202610317174i",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Sat, 31 Oct 2026 09:00:08 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1793416629528-13",
+      "title": "오세훈 무죄에 최민희 \"AI 판사 도입하자\"…당장 어려운 이유 3가지 [홍민성의 테토남]",
+      "link": "https://www.hankyung.com/article/202610293975g",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Sat, 31 Oct 2026 09:00:05 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1793416629528-14",
+      "title": "침체 길어졌지만 꿈틀대는 주가…中 부동산주 반등 신호",
+      "link": "https://www.hankyung.com/article/202610020522i",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Sat, 31 Oct 2026 09:00:02 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1793416629528-15",
+      "title": "\"재출시만 기다렸다\" 관심 폭발…4만8000개 '완판' 터졌다",
+      "link": "https://www.hankyung.com/article/2026103173427",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Sat, 31 Oct 2026 08:57:13 +0900",
+      "summary": null
+    },
+    {
+      "id": "한국경제신문-1793416629528-16",
+      "title": "\"기름값 더 오르기 전에 넣어야 하나\"…휘발유 다시 뛸 조짐",
+      "link": "https://www.hankyung.com/article/2026103173397",
+      "source": "한국경제신문",
+      "category": "경제",
+      "publishedAt": "Sat, 31 Oct 2026 08:44:15 +0900",
+      "summary": null
+    },
+    {
+      "id": "조선일보-1793416629792-11",
+      "title": "[사이언스샷] 과학자들의 스타였던 피카드 선장, 별이 되다",
+      "link": "https://www.chosun.com/economy/science/2026/10/31/HEZWIZBYGVRTENBSHE2DMYLCMY/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Fri, 30 Oct 2026 03:00:00 +0000",
+      "publishedAt": "Fri, 30 Oct 2026 23:43:32 +0000",
       "summary": null
     },
     {
-      "id": "한국경제신문-1793331179798-0",
-      "title": "[속보] 靑 \"한미, 내년초 SCM 개최…전작권 전환 위한 성과 기대\"",
-      "link": "https://www.hankyung.com/article/2026103058777",
+      "id": "한국경제신문-1793416629528-17",
+      "title": "치킨 2마리 샀다가…\"제가 진상인가요?\" 논란 폭발한 사연",
+      "link": "https://www.hankyung.com/article/2026103173317",
       "source": "한국경제신문",
       "category": "경제",
-      "publishedAt": "Fri, 30 Oct 2026 11:41:05 +0900",
+      "publishedAt": "Sat, 31 Oct 2026 08:39:15 +0900",
       "summary": null
     },
     {
-      "id": "한국경제신문-1793331179798-1",
-      "title": "[속보] 靑 \"호르무즈서 청해부대 활동 강화 고심…아직 검토중\"",
-      "link": "https://www.hankyung.com/article/2026103058757",
+      "id": "한국경제신문-1793416629528-18",
+      "title": "\"대한독립만세\" 외친 김유정…'볼 때마다 눈물' 반응 터졌다 [김수영의 연계소문]",
+      "link": "https://www.hankyung.com/article/202610305851H",
       "source": "한국경제신문",
       "category": "경제",
-      "publishedAt": "Fri, 30 Oct 2026 11:40:31 +0900",
+      "publishedAt": "Sat, 31 Oct 2026 08:35:03 +0900",
       "summary": null
     },
     {
-      "id": "한국경제신문-1793331179798-2",
-      "title": "[속보] 靑 \"DMZ 지뢰폭발 사건 원칙 갖고 필요한 조치 계속\"",
-      "link": "https://www.hankyung.com/article/2026103058687",
+      "id": "한국경제신문-1793416629528-19",
+      "title": "\"우린 이긴 게 아냐\"…축배 들던 일본 덮친 '공포의 그림자' [도쿄나우]",
+      "link": "https://www.hankyung.com/article/202610317202i",
       "source": "한국경제신문",
       "category": "경제",
-      "publishedAt": "Fri, 30 Oct 2026 11:39:54 +0900",
+      "publishedAt": "Sat, 31 Oct 2026 08:35:01 +0900",
       "summary": null
     },
     {
-      "id": "한국경제신문-1793331179798-3",
-      "title": "'침대 축구'로 청와대 지킨 與, 날짜 바꿔 '웰빙 국감' 치른 野 [이시은의 상시국감]",
-      "link": "https://www.hankyung.com/article/202610305544i",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Fri, 30 Oct 2026 11:33:08 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1793331179798-4",
-      "title": "CXMT의 4F2 D램 도전, 중국은 어떻게 보나",
-      "link": "https://www.hankyung.com/article/202610293450i",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Fri, 30 Oct 2026 11:32:52 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1793331179798-5",
-      "title": "대 이을 후계자 없는 기업들…제3자 승계로 활로 찾는다",
-      "link": "https://www.hankyung.com/article/202610293355i",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Fri, 30 Oct 2026 11:30:10 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1793331179798-6",
-      "title": "실적은 역대 최대인데 주가는 뒷걸음…NHN, AI 투자 성과가 관건",
-      "link": "https://www.hankyung.com/article/202610278018i",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Fri, 30 Oct 2026 11:29:04 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1793331179798-7",
-      "title": "한병도 \"도시정비법 등 주택공급 입법 연내 처리 박차\"",
-      "link": "https://www.hankyung.com/article/202610305632i",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Fri, 30 Oct 2026 11:28:39 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1793331179798-8",
-      "title": "\"자동차 검사 취소표도 알려준다\"…카모, 행안부 장관상 수상",
-      "link": "https://www.hankyung.com/article/202610305814i",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Fri, 30 Oct 2026 11:24:10 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1793331179798-9",
-      "title": "李 대통령 \"최불암, 시대의 아버지\"…김민석, 총선 인연 언급하며 \"영광\"",
-      "link": "https://www.hankyung.com/article/202610305788H",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Fri, 30 Oct 2026 11:22:02 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1793331179798-10",
-      "title": "급락장서 베팅 나선 초고수들…삼성전자 보통주 팔고 우선주 샀다",
-      "link": "https://www.hankyung.com/article/202610305699i",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Fri, 30 Oct 2026 11:13:45 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1793331179798-11",
-      "title": "박지원, 유시민에 \"DJ에 퍼붓던 저주 왜 李에 반복하나\"",
-      "link": "https://www.hankyung.com/article/202610305675H",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Fri, 30 Oct 2026 11:11:55 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1793331179798-12",
-      "title": "與, '李 황제 골프' 해명 엇박자…청와대는 '침묵'",
-      "link": "https://www.hankyung.com/article/202610305514H",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Fri, 30 Oct 2026 11:10:09 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1793331179798-13",
-      "title": "한미반도체, 3분기 영업이익 908억…3년 연속 최대 매출 전망",
-      "link": "https://www.hankyung.com/article/202610305726i",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Fri, 30 Oct 2026 11:06:51 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1793331179798-14",
-      "title": "\"첫 중국인 사장 퇴임\"…현대차 '파격 인사' 1년 만에 무슨 일이 [차이나 워치]",
-      "link": "https://www.hankyung.com/article/202610305725i",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Fri, 30 Oct 2026 11:01:11 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1793331179798-15",
-      "title": "11월 상장사 52곳 1억923만주 의무보유등록 해제",
-      "link": "https://www.hankyung.com/article/202610305727i",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Fri, 30 Oct 2026 11:00:25 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1793331179798-16",
-      "title": "오라클의 위험한 AI 승부수 [박신영의 월가 아나토미]",
-      "link": "https://www.hankyung.com/article/202610305709i",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Fri, 30 Oct 2026 10:54:30 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1793331179798-17",
-      "title": "\"지방공항이 외국인 관광 관문으로\"…입국객 증가율 수도권 2배",
-      "link": "https://www.hankyung.com/article/202610305650g",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Fri, 30 Oct 2026 10:52:35 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1793331179798-18",
-      "title": "LG CNS, 3분기 영업익 15% 증가…AI·금융이 성장 견인",
-      "link": "https://www.hankyung.com/article/202610305473i",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Fri, 30 Oct 2026 10:52:00 +0900",
-      "summary": null
-    },
-    {
-      "id": "한국경제신문-1793331179798-19",
-      "title": "'국민 아버지' 최불암 별세…넉넉한 웃음 남기고 떠났다 [부고]",
-      "link": "https://www.hankyung.com/article/202610305647i",
-      "source": "한국경제신문",
-      "category": "경제",
-      "publishedAt": "Fri, 30 Oct 2026 10:51:28 +0900",
-      "summary": null
-    },
-    {
-      "id": "조선일보-1793331180061-5",
-      "title": "LG CNS, 3분기 영업이익 15% 증가…AI·클라우드·금융 IT 사업 성장",
-      "link": "https://www.chosun.com/economy/tech_it/2026/10/30/FQODKXSCSFFGRCZ7KVJIYIOD4Q/",
+      "id": "조선일보-1793416629792-12",
+      "title": "한화, 美 군함 처음으로 만든다... 3600억 계약, 탄력받는 ‘마스가’",
+      "link": "https://www.chosun.com/economy/industry-company/2026/10/31/2XMDQE224JF35OZQVYE3S2DE3Y/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Fri, 30 Oct 2026 01:04:02 +0000",
+      "publishedAt": "Fri, 30 Oct 2026 23:17:24 +0000",
       "summary": null
     },
     {
-      "id": "조선일보-1793331180061-4",
-      "title": "NH농협금융지주, 미소금융재단 설립 추진…그룹서 1000억원 출연",
-      "link": "https://www.chosun.com/economy/stock-finance/2026/10/30/ZX4VKDR3KBDTFJQMCACKC7YYOE/",
+      "id": "조선일보-1793416629792-4",
+      "title": "현금 할인 유도한 뒤 국세청에 신고… 포상금 챙기는 ‘세파라치’ 기승",
+      "link": "https://www.chosun.com/economy/stock-finance/2026/10/31/HEYDKZRYGZQTGYTGG44TGYZYHA/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Fri, 30 Oct 2026 01:01:00 +0000",
+      "publishedAt": "Fri, 30 Oct 2026 23:00:00 +0000",
       "summary": null
     },
     {
-      "id": "조선일보-1793331180061-6",
-      "title": "엔비디아, 네이버 3대 주주 된다...10억 달러 투자",
-      "link": "https://www.chosun.com/economy/tech_it/2026/10/30/7TDUTUEZYVANLIFCOS744F4RGI/",
+      "id": "조선일보-1793416629792-13",
+      "title": "“男, 폐암 다음으로 많이 걸린다”…이 암 잡으려 빅파마 경쟁",
+      "link": "https://www.chosun.com/economy/science/2026/10/31/6SWMTSWGDJBD5BEHXXD27PLVKU/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Fri, 30 Oct 2026 00:51:37 +0000",
+      "publishedAt": "Fri, 30 Oct 2026 22:00:00 +0000",
       "summary": null
     },
     {
-      "id": "조선일보-1793331180061-7",
-      "title": "네이버 뉴스, 주요 기사 6개에서 10개로... 심층 기획도 첫 화면에 배치",
-      "link": "https://www.chosun.com/economy/tech_it/2026/10/30/4YHLD6JLKZFHTPB6J7S5A7KUSA/",
+      "id": "조선일보-1793416629792-10",
+      "title": "[산업X파일] 외국인의 ‘K편의점’ 쇼핑은 밤에 몰린다",
+      "link": "https://www.chosun.com/economy/2026/10/31/W2BLX6TIUBEGFAQEJ46XKRPOU4/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Fri, 30 Oct 2026 00:44:35 +0000",
+      "publishedAt": "Fri, 30 Oct 2026 21:00:01 +0000",
       "summary": null
     },
     {
-      "id": "조선일보-1793331180061-8",
-      "title": "‘안정 속 쇄신’ SK, 곽노정 등 주요 CEO 유임 …SK이노에 정승일",
-      "link": "https://www.chosun.com/economy/industry-company/2026/10/30/C6SMQEUS3BESPIGQ5JREE6CDGQ/",
+      "id": "조선일보-1793416629792-0",
+      "title": "“이 작은 한 알이 노후 근육 감소 걱정 덜어줄 것” 근 감소 정복에 도전한 의사",
+      "link": "https://www.chosun.com/economy/startup_story/2026/10/31/3XOD5ZVGFBADTBZLTYBZSA6HTQ/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Fri, 30 Oct 2026 00:37:23 +0000",
+      "publishedAt": "Fri, 30 Oct 2026 21:00:00 +0000",
       "summary": null
     },
     {
-      "id": "조선일보-1793331180061-9",
-      "title": "코스피 장 초반 4% 급락…미국발 AI 우려에 삼성전자·SK하이닉스 동반 약세",
-      "link": "https://www.chosun.com/economy/stock-finance/2026/10/30/J6CW3IE4N5GCNEZNOBH4CZDH4U/",
+      "id": "조선일보-1793416629792-14",
+      "title": "“회사 로고 옷 입지마” “매력적 이성은 의심”… 빅테크, 스파이 경계령",
+      "link": "https://www.chosun.com/economy/tech_it/2026/10/31/ROXBQIENCFHTBFG5XD5K3DS4PQ/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Fri, 30 Oct 2026 00:14:22 +0000",
+      "publishedAt": "Fri, 30 Oct 2026 15:48:00 +0000",
       "summary": null
     },
     {
-      "id": "조선일보-1793331180061-10",
-      "title": "57주년 맞은 삼성전자, “지금은 자축보다 경쟁력 냉정하게 돌아볼 때”",
-      "link": "https://www.chosun.com/economy/tech_it/2026/10/30/7PVGJEAKKBF7HBJVSFWCFY4GXE/",
+      "id": "조선일보-1793416629792-7",
+      "title": "SK 사장단 인사… 반도체는 ‘안정’ 에너지는 ‘쇄신’",
+      "link": "https://www.chosun.com/economy/industry-company/2026/10/31/DZJOPOALBVCLPDVL6N752K4IYM/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Fri, 30 Oct 2026 00:12:10 +0000",
+      "publishedAt": "Fri, 30 Oct 2026 15:44:00 +0000",
       "summary": null
     },
     {
-      "id": "조선일보-1793331180061-12",
-      "title": "외국인, 9월 국내 주식 19조원 팔아치웠다…한 달 만에 다시 ‘팔자’",
-      "link": "https://www.chosun.com/economy/economy_general/2026/10/30/BK7SGNXH6VA55H45UQMBR7QD24/",
+      "id": "조선일보-1793416629792-3",
+      "title": "‘밀가루 0%’ 어육과 두부로 꽉 채운 명인 어육바, 1개 550원 초특가",
+      "link": "https://www.chosun.com/economy/startup_story/2026/07/08/CG35ZLVVRVHLFBL36SDBSE44BU/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Thu, 29 Oct 2026 23:44:37 +0000",
+      "publishedAt": "Fri, 30 Oct 2026 01:44:57 +0000",
       "summary": null
     },
     {
-      "id": "조선일보-1793331180061-1",
-      "title": "중국도 헤매는 로봇산업… 한국이 ‘휴머노이드계 아이폰’ 만들려면",
-      "link": "https://www.chosun.com/economy/tech_it/2026/10/30/2XNTUFMFARHQPGQABTNRD64UQE/",
+      "id": "조선일보-1793416629792-6",
+      "title": "암 검진율 1%, ‘개 코’에서 해법 찾은 인도 스타트업 도그노시스",
+      "link": "https://www.chosun.com/economy/weeklybiz/2026/09/26/UY25ULEZW5CLDG6VSKRGY7QMQA/",
       "source": "조선일보",
       "category": "경제",
-      "publishedAt": "Thu, 29 Oct 2026 18:00:00 +0000",
+      "publishedAt": "Fri, 25 Sep 2026 23:00:00 +0000",
       "summary": null
     }
   ]
